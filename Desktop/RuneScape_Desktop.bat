@@ -13,12 +13,13 @@ echo.
 echo.
 echo.
 echo.
-echo # RuneLite
-echo if ^(-not ^(Get-Process "RuneLite" -ErrorAction SilentlyContinue^)^) {
-echo     Write-Host "^^-^^^>^^^> Launching ^^^<^^^< -- RuneLite"
-echo     Start-Process cmd.exe -WindowStyle Hidden -ArgumentList "/c start """" ""%LOCALAPPDATA%\RuneLite\RuneLite.exe"""
-echo } else {
-echo     Write-Host "ALREADY RUNNING: RuneLite"
+echo # Jagex Launcher
+echo if (-not (Get-Process "JagexLauncher" -ErrorAction SilentlyContinue)) {
+echo     Write-Host "->> Launching << -- Jagex Launcher"
+echo     Start-Process "C:\Program Files (x86)\Jagex Launcher\JagexLauncher.exe"
+echo }
+echo else {
+echo     Write-Host "ALREADY RUNNING: Jagex Launcher"
 echo }
 echo.
 echo.
