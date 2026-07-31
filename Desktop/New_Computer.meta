@@ -1,0 +1,69 @@
+https://oldschool.runescape.com/
+
+Download OBS
+	https://obsproject.com/download
+
+Download Jagex Launcher
+	https://www.jagex.com/launcher
+	
+Download RuneLite
+	https://www.jagex.com/launcher
+
+Download VLC
+	https://images.videolan.org/vlc/
+
+Download Davinci Resolve:
+	https://www.blackmagicdesign.com/products/davinciresolve/
+	
+	
+
+CONFIGURE OBS:
+CONFIGURE OBS:
+	https://chatgpt.com/share/6a6adba7-1b24-83e8-9068-395d7cda8ee6
+	File -> Settings
+		>> Output >> Output Mode: Advanced
+			>> Recording >> Type: Standard
+			>> Recording >> Recording Format: MKV
+			>> Recording >> Video Encoder: QuickSync AV1
+			>> Recording >> Audio Track 1,2,3
+				>> Encoder Settings >>
+					Rate Control: ICQ
+					ICQ Quality: 18
+					Keyframe Interval: 2s
+			>> Audio >>
+				Track 1 Name: Everything
+				Track 2 Name: Game Only
+				Track 3 Name: Microphone only
+			>> Replay Buffer >>
+				Enabled Reply Buffer
+				Maximum Replay Time: 1200s
+				Maximum Memory: 7000MB
+		>> Hotkeys >>
+			Start Replay Buffer: Ctrl + Shift + R
+			Stop Replay Buffer: Ctrl + Shift + S
+			>> Replay buffer >> Save Replay: F10
+		>> Advanced >> 
+			>> General >> Process Priority: Above Normal
+			>> Video >> Color Format: NV12
+			>> Recording >> Automatically remux to mp4
+	APPLY SETTINGS
+	
+	Sources:
+		Add new (plus sign)
+			-> Game Capture (make sure RuneLite is running)
+				-> Add 1 existing >> then double click it 
+					>> Mode: capture specific window
+					>> Window: [RuneLite.exe] RuneLite
+				-> Drag to max view inside display
+			-> Audio Input Capture
+				-> Device: Open run Headphones
+					-> right click and rename: Open Shocks Mic
+					-> right click filters
+						-> add gain filter +2db
+	Audio Mixer:
+		-10db for Desktop audio
+
+
+
+CONFIGURE RUNELITE:
+CONFIGURE RUNELITE:
