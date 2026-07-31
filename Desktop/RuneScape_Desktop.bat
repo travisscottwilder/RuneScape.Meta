@@ -14,11 +14,10 @@ echo.
 echo.
 echo.
 echo # Jagex Launcher
-echo if (-not (Get-Process "JagexLauncher" -ErrorAction SilentlyContinue)) {
+echo if ^(-not ^(Get-Process "JagexLauncher" -ErrorAction SilentlyContinue^)^) {
 echo     Write-Host "->> Launching << -- Jagex Launcher"
 echo     Start-Process "C:\Program Files (x86)\Jagex Launcher\JagexLauncher.exe"
-echo }
-echo else {
+echo } else {
 echo     Write-Host "ALREADY RUNNING: Jagex Launcher"
 echo }
 echo.
