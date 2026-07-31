@@ -36,7 +36,7 @@ CONFIGURE OBS:
 			>> Replay Buffer >>
 				Enabled Reply Buffer
 				Maximum Replay Time: 1200s
-				Maximum Memory: 7000MB
+				Maximum Memory: 3000MB
 		>> Hotkeys >>
 			Start Replay Buffer: Ctrl + Shift + R
 			Stop Replay Buffer: Ctrl + Shift + S
