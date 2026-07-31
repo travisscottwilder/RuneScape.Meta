@@ -68,66 +68,49 @@ CONFIGURE OBS:
 CONFIGURE RUNELITE:
 CONFIGURE RUNELITE:
 -------------------------->> turn on <<----------------------
-	Quest Helper
-	GPU or 117 HD
-	Tile Indicators
-		-> highlight true tile
-		-> destination tile
-		-> current target
-	Ground Items
-		-> hide junk items
-		-> highlight valueable drops
-		-> set minimum loot notification around 1k-2k early game
-		-> minimum highlighted value: 1000
-		-> Hidden items: enabled
-		-> Notify on value drops: 10,000gp
+	Bank 
+		-> show exact bank Value
 	Bank Tags
-	Bank Value
-	Menu entry Swapper
-		Left-click Bank instead of Talk-to
-		Left-click Exchange at the Grand Exchange
-		Left-click Climb on ladders
-		Shift-click Drop for power training
-	Inventory Tags
-	World Hopper
-	Timers
-	Xp Tracker
-	Idle Nofier
-	Entity Hider
 	Camera
-		remove camera zoom limits
-		middle-mouse camera
-		allow vertical camera
-	chat filter
+		-> enable: expand inner zoom limit
+		-> enable: expand pitch limit
+	daily task indicator
+		-> TURN OFF
+	Examine
+			-> TURN OFF
+	GPU
+	Ground Items
 	ground markers
-	loot tracker
 	hiscores
-	skill calculator
-	wiki
+	Idle Nofier
+	Inventory Tags
+	loot tracker
+	Menu entry Swapper
+	metronome
+			-> enabled
+	music
+		-> DISABLE
 	NPC indicators
-		highlight attackable NPCs
-		highlight your current target
+		-> enable: draw names above NPC
+		-> enable: draw names on minimap
 	opponent info
 	prayer
-	status bars
-		-> hp
-		-> prayer
-		-> special attack
+	Quest Helper
 	screenshots
+	skill calculator
+	status bars
+		-> 20 ticks
 	stretched mode
 		-> enabled
-		-> integer scaling
 		-> keep aspect ratio
-	visual metronome
-		-> enabled
--------------------------->> turn OFF <<----------------------	
-	Example
-	anti drag
-	mouse highlight
-	loot tracker
-		-> keep enabled but disable:
-			loot notifications: disable
-			chat spam: disable
-	gpu animation smoothing
-	music
-	daily tasks
+	Tile Indicators
+		-> highlight true tile (current tile)
+		-> highlight destination tile
+	wiki
+	World Hopper
+	Xp Tracker
+	
+	
+	
+	
+	
