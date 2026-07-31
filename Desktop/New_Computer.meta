@@ -19,7 +19,6 @@ Download Davinci Resolve:
 
 CONFIGURE OBS:
 CONFIGURE OBS:
-	https://chatgpt.com/share/6a6adba7-1b24-83e8-9068-395d7cda8ee6
 	File -> Settings
 		>> Output >> Output Mode: Advanced
 			>> Recording >> Type: Standard
@@ -67,7 +66,6 @@ CONFIGURE OBS:
 
 CONFIGURE RUNELITE:
 CONFIGURE RUNELITE:
--------------------------->> turn on <<----------------------
 	Bank 
 		-> show exact bank Value
 	Bank Tags
