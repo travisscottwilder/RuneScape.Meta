@@ -68,6 +68,7 @@ CONFIGURE RUNELITE:
 CONFIGURE RUNELITE:
 	Bank 
 		-> show exact bank Value
+	Bank tab layout
 	Bank Tags
 	Camera
 		-> enable: expand inner zoom limit
@@ -89,6 +90,7 @@ CONFIGURE RUNELITE:
 			-> enabled
 	music
 		-> DISABLE
+	No Examine
 	NPC indicators
 		-> enable: draw names above NPC
 		-> enable: draw names on minimap
@@ -96,6 +98,8 @@ CONFIGURE RUNELITE:
 	prayer
 	screenshots
 	skill calculator
+	Shortest Path
+	Skills Progress
 	status bars
 		-> 20 ticks
 	stretched mode
