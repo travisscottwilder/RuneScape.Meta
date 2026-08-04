@@ -80,6 +80,7 @@ CONFIGURE RUNELITE:
 	GPU
 			-> TURN OFF
 	Ground Items
+		-> enable
 	ground markers
 	hiscores
 	Idle Nofier
@@ -87,7 +88,7 @@ CONFIGURE RUNELITE:
 	loot tracker
 	Menu entry Swapper
 	metronome
-			-> enabled
+			-> enabled: despawn timer -> to seconds
 	music
 		-> DISABLE
 	No Examine
