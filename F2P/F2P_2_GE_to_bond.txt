@@ -44,7 +44,9 @@ TRAINING PATH:
 	>> GO TO HILLY NOW << [weak to earth spells]
 		50 range	-> 41 mage
 			-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
+				-> NOTE at 50 range you can use your Giant Keys to kill odor <-
 			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
+	
 		60 strength	-> 50 attack [use str potions] 
 	>> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
 			-> NOTE do dragon slayer quest before fighting ogresses if you have a 40+ def account <-
