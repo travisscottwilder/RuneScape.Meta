@@ -38,15 +38,16 @@ IMMEDIATELY BUY
 
 TRAINING PATH:
 TRAINING PATH:
-	>> GIANT FROGS << (weakness to earth spells)
+	>> GIANT FROGS << [weak to earth spells]
 		40 attack	-> 20 defense
 		30 range	-> 35 mage
-	>> GO TO HILLY NOW << (weakness to earth spells)
+	>> GO TO HILLY NOW << [weak to earth spells]
 		50 range	-> 41 mage
-			-> NOTE once you hit 40 range switch to range + defense until 40 defense
-			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59
+			-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
+			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
 		60 strength	-> 50 attack [use str potions] 
-	>> GO TO ORGRESS WARRIOR OGARS << (weakness to magic)
+	>> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
+			-> NOTE do dragon slayer quest before fighting ogresses if you have a 40+ def account <-
 		70 magic	-> 70 range
 		60 attack	-> 70 strength [use str potions]
 		85 magic	-> 80 range
