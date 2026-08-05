@@ -42,13 +42,14 @@ TRAINING PATH:
 		40 attack	-> 20 defense
 		30 range	-> 35 mage
 	>> GO TO HILLY NOW << (weakness to earth spells)
-		55 range	-> 59 mage
+		50 range	-> 41 mage
 			-> NOTE once you hit 40 range switch to range + defense until 40 defense
 			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59
-		55 strength	-> 55 attack [use str potions] 
+		60 strength	-> 50 attack [use str potions] 
 	>> GO TO ORGRESS WARRIOR OGARS << (weakness to magic)
 		70 magic	-> 70 range
 		60 attack	-> 70 strength [use str potions]
+		85 magic	-> 80 range
 		70 attack	-> 60 defense
 
 ---------------------------------------
