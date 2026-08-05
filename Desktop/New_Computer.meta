@@ -121,7 +121,33 @@ CONFIGURE RUNELITE:
 		equipment inspector
 		item charges improved
 		health nofications
-	
+
+
+>> TODO FIGURE THESE OUT <<
+	unresponsive cursor
+	attack ranges
+	fixed mode hide chat
+		-> chat widgets
+			-> text small
+			-> shadow on
+			-> smart positioning on
+			>> edit settings
+				-> click "show"
+				-> message types "turn off autochat"
+				-> max messages: 5
+				-> private messages
+					-> turn show off
+	inventory setup
+		>> enable add duplicates
+	prayer
+		>> pray flick location: prayer orb
+	world hopper
+		>> display current ping
+	tick tracker
+		>> small overlay: "last tick ms"
+	spam filter
+	histogram
+	monster stats
 	
 	
 	
