@@ -40,14 +40,15 @@ TRAINING PATH:
 TRAINING PATH:
 	>> GIANT FROGS << (weakness to earth spells)
 		40 attack	-> 20 defense
-		30 range	-> 41 mage
+		30 range	-> 35 mage
 	>> GO TO HILLY NOW << (weakness to earth spells)
-		55 range	-> 55 mage
+		55 range	-> 59 mage
 			-> NOTE once you hit 40 range switch to range + defense until 40 defense
-		55 strength	-> 55 attack [use str potions until rune armor] 
-	>> GO TO ORGRESS WARRIOR OGARS << (weaknes to magic)
+			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59
+		55 strength	-> 55 attack [use str potions] 
+	>> GO TO ORGRESS WARRIOR OGARS << (weakness to magic)
 		70 magic	-> 70 range
-		60 attack	-> 70 strength
+		60 attack	-> 70 strength [use str potions]
 		70 attack	-> 60 defense
 
 ---------------------------------------
