@@ -1,7 +1,15 @@
+Fresh account to gaining access to GE:
+https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_1_FreshAcc_To_GE.n.PVP.meta
+
+Then if you want to train up the account & make money:
+https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_2_GE_to_bond.meta.txt
+
+Then complete these quests in order to build your main up
+
 QUESTTING
 QUESTTING
 
-	<-> PATH TO 32 QUEST POINTS
+	1) PATH TO 32 QUEST POINTS
 		>> Goblin Diplomacy [5qp]
 		>> Earnest The Chicken [4qp]
 		>> Pirate's Treasure [2qp]
@@ -9,4 +17,4 @@ QUESTTING
 		>> Prince Ali Rescue [3qp]
 		>> Demon Slayer [3qp]
 	
-	<-> Do Dragon slayer 1
+	2) Do Dragon slayer 1
