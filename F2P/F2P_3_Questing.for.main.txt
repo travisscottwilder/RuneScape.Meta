@@ -1,8 +1,8 @@
 Fresh account to gaining access to GE:
-https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_1_FreshAcc_To_GE.n.PVP.meta
+https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_1_FreshAcc_To_GE.n.PVP.txt
 
 Then if you want to train up the account & make money:
-https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_2_GE_to_bond.meta.txt
+https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_2_GE_to_bond.txt
 
 Then complete these quests in order to build your main up
 
