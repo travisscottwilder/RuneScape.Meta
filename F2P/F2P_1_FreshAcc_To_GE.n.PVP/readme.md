@@ -3,8 +3,8 @@
 
 
 # 1) TUTORIAL ISLAND:
- - [ ]get level 3 fishing & cooking
- - [ ]get level 3 mining and smithing
+[ ] get level 3 fishing & cooking
+[ ] get level 3 mining and smithing
 
 
 # 2) IMMEDIATELY DO QUEST FIRST
