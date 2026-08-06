@@ -66,11 +66,10 @@
 
 ## LOCATIONS:
 > [!IMPORTANT]
-> **Giant Frogs [bank big bones] @ Lumbridge Swamp**
+> **Giant Frogs @ Lumbridge Swamp**
 >- <ins>Reasons:</ins>
 >```
 >Big Bones
->Runes
 >```
 >- <ins>Location:</ins>  
 >```
