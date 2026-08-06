@@ -49,13 +49,14 @@ TRAINING PATH:
 			-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
 				-> NOTE at 50 range you can use your Giant Keys to kill odor <-
 			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
-		60 strength	-> 50 attack [use str potions] 
+		50 strength	-> 45 attack [use str potions] 
 	>> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
 			-> NOTE do dragon slayer quest before fighting ogresses if you have a 40+ def account <-
 		70 magic	-> 70 range
-		60 attack	-> 70 strength [use str potions]
+		55 attack	-> 70 strength [use str potions]
 		85 magic	-> 80 range
-		70 attack	-> 60 defense
+		60 attack	-> 75 strength
+		60 defense	-> 80 strength
 
 ---------------------------------------
 
@@ -97,13 +98,18 @@ LOCATIONS:
 		Talismans
 		Uncut gems
       Location:
-        Easy entrance (no brass key):
+        Quick entrance 
+			from varrock
+				travel east into the shack near the river
+				east side of the river, north of the stone path
+				take the latter down
+		Longer entrance (no brass key):
           From Edgeville:
             Go south of Edgeville bank
             Find the dungeon entrance/trapdoor
             Enter
             Go south through the dungeon
-        2nd entrance is on the east side of the river, closer to varrock, and requires a brass key
+        
           
     Ogress Warriors @ Corsair Cove Dungeon
       Weakness to magic
