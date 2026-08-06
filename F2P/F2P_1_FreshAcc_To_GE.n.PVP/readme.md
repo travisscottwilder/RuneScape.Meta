@@ -1,11 +1,11 @@
 > [!TIP]
 > kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
 
-
-# 1) TUTORIAL ISLAND:
+# 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
 - [ ] get level 3 mining & smithing
 
+--------------------------
 
 # 2) IMMEDIATELY DO QUEST FIRST
 1. The Restless Ghost
@@ -29,18 +29,18 @@
 	- after getting skull start imp catcher by going to top of tower
 	- ** when getting cavada berries get 5 red berries too **
 
+--------------------------
 
 # 3) COMBAT TRAINING
-- [ ] Now train on cows and bank beef & hides
+- [ ] Now train on cows at Lumbridge Cow Field located northeast of lumbridge castle
 	- have a axe and tinderbox on you to stay alive and cook for food
 - [ ] Go back and forth killing and banking until you have
 	- lvl 10 attack
 	- lvl 10 strength
-	- 150+ cooked beef (pick up other peoples beef)
+	- 50+ cooked beef (pick up other peoples beef)
 	- lvl 10+ cooking
-	- 100+ hides (pick up others)
 
-
+--------------------------
 
 # 4) BACK TO QUESTS
 5. Witch's Potion
@@ -74,78 +74,65 @@
 9. Vampire Slayer
 	- buy a hammer in the general store north of the pub
 
-QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
-QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
-QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
+> [!CAUTION]
+> QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
 
+--------------------------
 
-GATHER FOOD FOR TRAINING
+# 5) GATHER FOOD FOR TRAINING
     -> go to barbarian village (west of varrock) on a populated world:
 		-> get >=300 cooked tuna 
 		-> get >=150 cooked salmon
 
+--------------------------
 
-NOW WE TRAIN COMBAT UNTIL WE HAVE GE (start with giant frogs)
-NOW WE TRAIN COMBAT UNTIL WE HAVE GE (start with giant frogs)
+# 6) NOW WE TRAIN COMBAT UNTIL WE HAVE GE (start with giant frogs)
 
+> [!TIP]
+> RANGE TIP (wait to buy till you start training):
+>	- [ ] Buy oak shortbow
+>	- [ ] buy 400 iron arrows
+>	- [ ] buy 100 bronze arrows (use bronze to lure)
 
-RANGE TIP (wait to buy till you start training):
-	Buy oak shortbow
-	buy 400 iron arrows
-	buy 100 bronze arrows (use bronze to lure)
-MAGE TIP (wait to buy till you start training):
-	For level 4 to 41
-		buy every staff but air
-			>> buy 3000 air runes
-			>> buy 400 mind runes
-			>> buy 2100 chaos runes
+> [!TIP]
+> MAGE TIP (wait to buy till you start training):
+>	- For level 4 to 41
+>		- [ ] buy every staff but air
+>		- [ ] buy 3000 air runes
+>		- [ ] buy 400 mind runes
+>		- [ ] buy 2100 chaos runes
 
+## COMBAT
+> [!NOTE]
+> once you have GE access and str >=25 switch immediately to 40 attack for rune scimmi
 
-COMBAT
-COMBAT
-  Train your combat in this order:
+Train your combat in this order:
  ```
-(note once you have GE access and str >=25 switch immediately to 40 attack for rune scimmi)
-	>> COWS <<
-		10 attack 	-> 10 strength -> 
-	>> GIANT FROGS <<
-		30 attack 	-> 35 strength -> 
-		35 attack 	-> 40 strength -> 
-		40 attack	-> 20 defense
-		30 range	-> 35 mage
-			-> for mage once you can earth XYZ only do that till next rune change. Frogs are weak to earth
-	>> GO TO HILLY NOW << [weak to earth spells]
-		Do mage until 20 hours is up
+>> GIANT FROGS <<
+	30 attack 	-> 35 strength -> 
+	35 attack 	-> 40 strength -> 
+	40 attack	-> 20 defense
+	30 range	-> 35 mage
+		-> Always use earth Strike or Earth Bolt once you can
+	>> GO TO HILLY NOW <<
+		Do mage until 20 hours is up- only use earth spells
 ```
   
-
-LOCATIONS:
-    Cows @ Lumbridge Cow Field:
-      Reasons:
-        hides sell
-        beef sells
-        food drops
-      Location:
-        From Lumbridge Castle:
-          Walk north past the castle
-          Cross the bridge
-          Go east toward the farm
-          Enter the fenced cow area
-      Closest Bank:
-        Walk south to Lumbridge bank
-    Giant Frogs [bank big bones] @ Lumbridge Swamp
-        Benifits:
-            Big Bones
-            Runes
-            Coins
-        Location:
-            From Lumbridge Castle:
-                Exit the castle
-                Go south through the graveyard
-                Enter Lumbridge Swamp
-                Walk around the south/southwest swamp area
-    
+## LOCATIONS:
+> [!IMPORTANT]
+> **Giant Frogs [bank big bones] @ Lumbridge Swamp**
+>- Reasons:
+>```
+>Big Bones
+>Runes
+>```
+>- Location:
+>```
+>From Lumbridge Castle:
+>	Exit the castle
+>	Go south through the graveyard
+>	Enter Lumbridge Swamp
+>	Walk around the south/southwest swamp area
+>```
+   
 --------------------------
---------------------------
---------------------------
-
