@@ -1,12 +1,13 @@
-NOTE -> kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
+> [!TIP]
+> kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
 
 
-TUTORIAL ISLAND:
-	get level 3 fishing & cooking
-	get level 3 mining and smithing
+# 1) TUTORIAL ISLAND:
+ - [ ]get level 3 fishing & cooking
+ - [ ]get level 3 mining and smithing
 
 
-IMMEDIATELY DO QUEST FIRST
+# 2) IMMEDIATELY DO QUEST FIRST
     1. The Restless Ghost
         -> grab leather gloves while talking to dude in swamp
         -> kill level 3 rat while run energy builds up
