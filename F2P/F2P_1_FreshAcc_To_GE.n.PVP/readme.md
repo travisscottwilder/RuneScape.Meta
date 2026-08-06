@@ -59,20 +59,20 @@
 			- bank your copper/tin/iron ore
 			- do not smelt until after quest 8) knights sword is finished
      - Finish quest
-    7. Doric's Quest
-    8. The Knight's Sword
-        use the lumbridge teleport
-			-> get x3 pots
-			-> x3 wheat (north of castle)
-				-> turn into pot of flower
-		-> go to varrock and bank everything, we are going into wilderness
-		-> talk to Reldo at varrock
-			>> get a pie dish x3
-		-> go to Graveyard of Shadows for 2 iron bars
-			>> allow bears to kill you for free lumbridge ticket
-		-> gear up, cook your pies, get your black longsword if you need to sell it, and head over to port salmi
-    9. Vampire Slayer
-        -> buy a hammer in the general store north of the pub
+7. Doric's Quest
+8. The Knight's Sword
+	- [ ] use the lumbridge teleport
+		- [ ] get x3 pots
+		- [ ] x3 wheat <sup>(north of castle)</sup>
+		- [ ] turn into pot of flower x3 <sup>(use the mill by the wheat field)</sup>
+	- [ ] go to varrock and bank everything, we are going into wilderness
+		- [ ] talk to Reldo at varrock
+			- get a pie dish x3
+	- [ ] go to Graveyard of Shadows for 2 iron bars
+		- <sup>allow bears to kill you for free lumbridge ticket</sup>
+	- [ ] gear up, cook your pies, get your black longsword if you need to sell it, & continue quest
+9. Vampire Slayer
+	- buy a hammer in the general store north of the pub
 
 QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
 QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
