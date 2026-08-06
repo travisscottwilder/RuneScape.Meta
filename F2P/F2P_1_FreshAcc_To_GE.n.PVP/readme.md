@@ -3,31 +3,31 @@
 
 
 # 1) TUTORIAL ISLAND:
--[ ] get level 3 fishing & cooking
--[ ] get level 3 mining and smithing
+- [ ] get level 3 fishing & cooking
+- [ ] get level 3 mining & smithing
 
 
 # 2) IMMEDIATELY DO QUEST FIRST
-    1. The Restless Ghost
-        -> grab leather gloves while talking to dude in swamp
-        -> kill level 3 rat while run energy builds up
-    2. Cook's Assistant
-            -> get more than one pot, wheat, and bake x4 bread
-        Also Sheer 20 sheep when you go into cow field for quest 4 
-            -> start sheep shearer by talking to farmer
-        *pick up x4 egg when you find one on the ground*
-        -> attack goblins until 4 HP, pick up coins and armor    
-        -> after completeing cooks asisstant go to 2nd floor and use whool on wpinning wheel
-    3. X Marks the Spot
-            TODO BUY CHRONICALS SOMEWHERE AROUND HERE
-        -> take leather boots in witches castle step
-        kill the level 2 men until your HP is 4 or lower
-		    -> pick up coins
-        -> When you start running north east, stop by fred the farmer first to complete sheep shearer
-        After completeging X marks the spot talk to fred again on the way to lumbridge cows
-    4. Sheep Shearer
-        -> after getting skull start imp catcher by going to top of tower
-                ** when getting cavada berries get 5 red berries too **
+1. The Restless Ghost
+	- grab leather gloves while talking to dude in swamp
+	- kill level 3 rat while run energy builds up
+2. Cook's Assistant
+	- get more than one pot, wheat, and bake x4 bread
+	- Sheer 20 sheep when you go into cow field for quest 4 
+		- start sheep shearer by talking to farmer
+    	- *pick up x4 egg when you find one on the ground*
+    - attack goblins until 4 HP, pick up coins and armor    
+    - after completing cooks assistant go to 2nd floor and use wool on spinning wheel
+3. X Marks the Spot
+	- `TODO BUY CHRONICALS SOMEWHERE AROUND HERE`
+ 	- take leather boots in witches castle step
+	- kill the level 2 men until your HP is 4 or lower
+		-pick up coins
+   	- When you start running north east, stop by fred the farmer first to complete sheep shearer
+   	- After completing X marks the spot talk to fred again on the way to lumbridge cows
+4. Sheep Shearer
+	- after getting skull start imp catcher by going to top of tower
+	** when getting cavada berries get 5 red berries too **
 
 
 COMBAT TRAINING
