@@ -35,10 +35,10 @@
 - [ ] Now train on cows at Lumbridge Cow Field located northeast of lumbridge castle
 	- have a axe and tinderbox on you to stay alive and cook for food
 - [ ] Go back and forth killing and banking until you have
-	- lvl 10 attack
-	- lvl 10 strength
-	- 50+ cooked beef (pick up other peoples beef)
+	- lvl 10+ attack
+	- lvl 10+ strength
 	- lvl 10+ cooking
+	- 50+ cooked beef (pick up other peoples beef)
 
 --------------------------
 
