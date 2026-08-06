@@ -56,7 +56,7 @@
 		-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
 	50 strength	-> 45 attack [use str potions] 
 >> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
-		-> NOTE do dragon slayer quest before fighting ogresses if you have a 40+ def account <-
+		-> if def account do [dragon slayer](https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/3_Questing.dragonslayer/readme.md) <-
 	70 magic	-> 70 range
 	55 attack	-> 70 strength [use str potions]
 	85 magic	-> 80 range
