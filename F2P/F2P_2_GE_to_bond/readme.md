@@ -142,17 +142,21 @@
 ---------------------------------------
 
 # INVENTORY:
+
+<ins>Range:</ins>
 ```
-	-> for range bring 200 steel arrows with you
-	-> for range bring 100 mith arrows per trip
-	-> for range bring 100 addy arrows per hilly trip
+- bring 200 steel arrows with you
+- bring 100 mith arrows per trip
+- bring 100 addy arrows per hilly trip
 ```
 
+<ins>Mage</ins>
 ```
-	-> for mind casts bring 200 casts with you
-	-> for chaos cast trips bring 80 casts with you
+- for mind casts bring 200 casts with you
+- for chaos cast trips bring 80 casts with you
 ```
+
 ---------------------------------------
 
-Don't buy a bond until you have >= 2m after purchasing bond
-Don't buy a bond until you have >= 2m after purchasing bond
+> [!CAUTION]
+> Don't buy a bond until you have >= 2m after purchasing bond
