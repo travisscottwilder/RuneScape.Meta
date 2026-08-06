@@ -74,6 +74,8 @@
 9. Vampire Slayer
 	- buy a hammer in the general store north of the pub
 
+--------------------------
+
 > [!CAUTION]
 > QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
 
@@ -114,7 +116,7 @@ Train your combat in this order:
 	40 attack	-> 20 defense
 	30 range	-> 35 mage
 		-> Always use earth Strike or Earth Bolt once you can
-	>> GO TO HILLY NOW <<
+>> GO TO HILLY NOW <<
 		Do mage until 20 hours is up- only use earth spells
 ```
   
