@@ -57,7 +57,7 @@
 			- `after buying tele to varrock using chronicals`
 		- [ ] get 21 mining from south east varrock area
 			- bank your copper/tin/iron ore
-			- do not smelt until after quest 8) knights sword is finished
+			- do not smelt until after quest 8, which is the knights sword
      - Finish quest
 7. Doric's Quest
 8. The Knight's Sword
