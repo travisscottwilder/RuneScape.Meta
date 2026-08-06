@@ -1,46 +1,49 @@
-IMMEDIATELLY SELL YOUR BIG BONES (600+) 
-	-> after this ALWAYS keep ~600 big bones to be able to get 43 prayer once we are members)
+# 1) Use the GE
+- Sell all your big bones (expected 600+) 
+- Buy all your starting gear
+	- IN GE:
+		- [ ] amulet of power
+		- [ ] leather boots
+		- [ ] colored cape (red)
+
+		- [ ] blue wizard robe
+		- [ ] monk's robe
+		- [ ] blue wizard hat
+		- [ ] 500 mind runes
+		- [ ] 1250 chaos runes
+		- [ ] 5000 air runes
+
+		- [ ] steel arrow 400
+		- [ ] willow shortbow
+		- [ ] mithril arrow 500
+		- [ ] maple shortbows
+
+		- [ ] leather vambraces
+		- [ ] studded body
+		- [ ] studded chaps
+		- [ ] coif
+		- [ ] green legs and vambs
+
+		- [ ] rune scimmi
+		- [ ] mithril full set/addy full set/rune full set (chainmail)
+
+		- [ ] cooked lobster
+		- [ ] x2 brass key
+
+	- VARROCK STAFFs:
+		- [ ] earth, water, fire, air staffs
 
 ---------------------------------------
 
-IMMEDIATELY BUY
-IMMEDIATELY BUY
-	IN GE:
-		-> ammy of power
-		-> leather boots
-		-> colored cape (red)
-
-		-> blue wizard robe
-		-> monk's robe
-		-> blue wizard hat
-		-> 500 mind runes
-		-> 1250 chaos runes
-		-> 5000 air runes
-
-		-> steel arrow 400
-		-> willow shortbow
-		-> mithril arrow 500
-		-> maple shortbows
-
-		-> leather vambraces
-		-> studded body
-		-> studded chaps
-		-> coif
-		-> green legs and vambs
-
-		-> rune scimmi
-		-> mithril full set/addy full set/rune full set (chainmail)
-
-		-> cooked lobster
-		-> x2 brass key
-
-	VARROCK STAFFs:
-		-> earth, water, fire, air staffs
+> [!TIP]
+> If you want 43 prayer- it'll take 600 big bones at the wilderness alter
 
 ---------------------------------------
 
-TRAINING PATH:
-TRAINING PATH:
+
+
+# 2) TRAINING PATH:
+```
 	>> GIANT FROGS << [weak to earth spells]
 		40 attack	-> 20 defense
 		30 range	-> 35 mage
@@ -57,6 +60,7 @@ TRAINING PATH:
 		85 magic	-> 80 range
 		60 attack	-> 75 strength
 		60 defense	-> 80 strength
+```
 
 ---------------------------------------
 
