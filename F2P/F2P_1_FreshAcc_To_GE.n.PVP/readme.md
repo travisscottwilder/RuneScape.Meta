@@ -27,19 +27,18 @@
    	- After completing X marks the spot talk to fred again on the way to lumbridge cows
 4. Sheep Shearer
 	- after getting skull start imp catcher by going to top of tower
-	** when getting cavada berries get 5 red berries too **
+	- ** when getting cavada berries get 5 red berries too **
 
 
-COMBAT TRAINING
-COMBAT TRAINING
-    Now train on cows and bank beef & hides
-		-> have a axe and tinderbox on you to stay alive and cook for food
-	Go back and forth killing and banking until you have
-			1) 10 attack
-			2) 10 strength
-			3) >150 cooked beef (pick up other peoples beef)
-			4) >10 cooking
-			5) >100 hides (pick up others)
+# 3) COMBAT TRAINING
+	- [ ] Now train on cows and bank beef & hides
+		- have a axe and tinderbox on you to stay alive and cook for food
+	- [ ]Go back and forth killing and banking until you have
+		1) 10 attack
+		2) 10 strength
+		3) >150 cooked beef (pick up other peoples beef)
+		4) >10 cooking
+		5) >100 hides (pick up others)
 
 
 BACK TO QUESTS
