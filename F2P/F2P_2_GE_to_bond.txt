@@ -57,6 +57,19 @@ TRAINING PATH:
 
 ---------------------------------------
 
+CYCLE:
+CYCLE:
+	Sell big bones + misc loot to fund arrows/runes
+
+	RANGE:
+		-> Purchase only addy arrows once you can use em
+		-> ~2500 addy arrows to get to 50 range
+
+	MAGIC:
+		-> Use bolt (chaos) spells until ogress warriors & 50 mage
+
+---------------------------------------
+
 LOCATIONS:
 LOCATIONS:
 
