@@ -137,6 +137,8 @@ Train your combat in this order:
 >	Walk around the south/southwest swamp area
 >```
 
+--------------------------
+
 > [!IMPORTANT]
 > **Hill Giants @ Edgeville Dungeon**
 >  !!! Weak to EARTH magic spells !!!
@@ -149,7 +151,7 @@ Train your combat in this order:
 >Talismans
 >Uncut gems
 >```
->- <ins>Locations:</ins>
+>- <ins>Location:</ins>
 >```
 >Quick entrance 
 >	from varrock
