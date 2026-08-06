@@ -1,9 +1,11 @@
-> [!TIP]
-> kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
-
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
 - [ ] get level 3 mining & smithing
+
+--------------------------
+
+> [!TIP]
+> kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
 
 --------------------------
 
