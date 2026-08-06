@@ -7,7 +7,10 @@ IMMEDIATELY BUY
 IMMEDIATELY BUY
 	IN GE:
 		-> ammy of power
-		-> wizard roboe
+		-> leather boots
+		-> colored cape (red)
+
+		-> blue wizard robe
 		-> monk's robe
 		-> blue wizard hat
 		-> 500 mind runes
@@ -26,7 +29,7 @@ IMMEDIATELY BUY
 		-> green legs and vambs
 
 		-> rune scimmi
-		-> mithril full set
+		-> mithril full set/addy full set/rune full set (chainmail)
 
 		-> cooked lobster
 		-> x2 brass key
@@ -46,7 +49,6 @@ TRAINING PATH:
 			-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
 				-> NOTE at 50 range you can use your Giant Keys to kill odor <-
 			-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
-	
 		60 strength	-> 50 attack [use str potions] 
 	>> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
 			-> NOTE do dragon slayer quest before fighting ogresses if you have a 40+ def account <-
