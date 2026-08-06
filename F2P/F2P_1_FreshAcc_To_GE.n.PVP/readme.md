@@ -10,13 +10,13 @@
 # 2) IMMEDIATELY DO QUEST FIRST
 1. The Restless Ghost
 	- grab leather gloves while talking to dude in swamp
-	- kill level 3 rat while run energy builds up
+	- kill level 3 rat while run energy builds up (train attack till lvl 10)
 2. Cook's Assistant
 	- get more than one pot, wheat, and bake x4 bread
 	- Sheer 20 sheep when you go into cow field for quest 4 
 		- start sheep shearer by talking to farmer
     	- *pick up x4 egg when you find one on the ground*
-    - attack goblins until 4 HP, pick up coins and armor    
+    - attack goblins until 4 HP, pick up coins and armor (att to 10 first, then str to 10)    
     - after completing cooks assistant go to 2nd floor and use wool on spinning wheel
 3. X Marks the Spot
 	- `TODO BUY CHRONICALS SOMEWHERE AROUND HERE`
