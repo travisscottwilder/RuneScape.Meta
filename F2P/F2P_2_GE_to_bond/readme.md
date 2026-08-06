@@ -72,7 +72,7 @@
 >Big Bones
 >Runes
 >```
->- <ins>Location:</ins>
+>- <ins>Location:</ins>  
 >```
 >From Lumbridge Castle:
 >	Exit the castle
@@ -84,8 +84,8 @@
 --------------------------
 
 > [!IMPORTANT]
-> **Hill Giants @ Edgeville Dungeon**
->  !!! Weak to EARTH magic spells !!!
+> **Hill Giants @ Edgeville Dungeon**<br><br>
+>  *!!! Weak to EARTH magic spells !!!*
 >- <ins>Reasons:</ins>
 >```
 >Big Bones
@@ -113,15 +113,20 @@
 ---------------------------------------
 
 > [!IMPORTANT]
->
->
->
->
->
->
->
->
->
+> **Ogress Warriors @ Corsair Cove Dungeon**<br><br>
+>  *!!! Weak to EARTH magic spells !!!*
+>- <ins>Reasons:</ins>
+>```
+>Rune items
+>RUNES: Nature, Law, Cosmic
+>High-level herbs
+>```
+>- <ins>Location:</ins>
+>```
+>Southwest area of the map
+>	"Corsair Cove"
+>	Go inside the dungeon
+>```
 
 ---------------------------------------
 
@@ -137,14 +142,17 @@
 
 ---------------------------------------
 
-INVENTORY:
+# INVENTORY:
+```
 	-> for range bring 200 steel arrows with you
 	-> for range bring 100 mith arrows per trip
 	-> for range bring 100 addy arrows per hilly trip
+```
 
+```
 	-> for mind casts bring 200 casts with you
 	-> for chaos cast trips bring 80 casts with you
-
+```
 ---------------------------------------
 
 Don't buy a bond until you have >= 2m after purchasing bond
