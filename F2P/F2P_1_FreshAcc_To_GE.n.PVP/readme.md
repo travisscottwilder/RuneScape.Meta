@@ -113,8 +113,8 @@ Train your combat in this order:
 >> GIANT FROGS <<
 	30 attack 	-> 35 strength -> 
 	35 attack 	-> 40 strength -> 
-	40 attack	-> 20 defense
-	30 range	-> 35 mage
+	40 attack	-> 20 defense  ->
+	30 range    -> 35 mage
 		-> Always use earth Strike or Earth Bolt once you can
 >> GO TO HILLY NOW <<
 		Do mage until 20 hours is up- only use earth spells
@@ -123,12 +123,12 @@ Train your combat in this order:
 ## LOCATIONS:
 > [!IMPORTANT]
 > **Giant Frogs [bank big bones] @ Lumbridge Swamp**
->- Reasons:
+>- <ins>Reasons:</ins>
 >```
 >Big Bones
 >Runes
 >```
->- Location:
+>- <ins>Location:</ins>
 >```
 >From Lumbridge Castle:
 >	Exit the castle
@@ -136,5 +136,47 @@ Train your combat in this order:
 >	Enter Lumbridge Swamp
 >	Walk around the south/southwest swamp area
 >```
-   
+
+> [!IMPORTANT]
+> **Hill Giants @ Edgeville Dungeon**
+>  !!! Weak to EARTH magic spells !!!
+>- <ins>Reasons:</ins>
+>```
+>Big Bones
+>Limpwurt Roots
+>Giant Keys
+>Nature, Law, Cosmic runes
+>Talismans
+>Uncut gems
+>```
+>- <ins>Locations:</ins>
+>```
+>Quick entrance 
+>	from varrock
+>		travel east into the shack near the river
+>		east side of the river, north of the stone path
+>		take the latter down
+>Longer entrance (no brass key):
+>	From Edgeville:
+>		Go south of Edgeville bank
+>		Find the dungeon entrance/trapdoor
+>		Enter
+>		Go south through the dungeon
+>```
+
 --------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
