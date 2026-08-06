@@ -31,33 +31,34 @@
 
 
 # 3) COMBAT TRAINING
-	- [ ] Now train on cows and bank beef & hides
-		- have a axe and tinderbox on you to stay alive and cook for food
-	- [ ]Go back and forth killing and banking until you have
-		1) 10 attack
-		2) 10 strength
-		3) >150 cooked beef (pick up other peoples beef)
-		4) >10 cooking
-		5) >100 hides (pick up others)
+- [ ] Now train on cows and bank beef & hides
+	- have a axe and tinderbox on you to stay alive and cook for food
+- [ ] Go back and forth killing and banking until you have
+	- lvl 10 attack
+	- lvl 10 strength
+	- 150+ cooked beef (pick up other peoples beef)
+	- lvl 10+ cooking
+	- 100+ hides (pick up others)
 
 
-BACK TO QUESTS
-BACK TO QUESTS
-    5. Witch's Potion
-    6. Romeo & Juliet
-        >> once you go to east varrock
-			-> go to barbar ian village and go the stronghold to get a free 10k (first three rooms then teleport out using home)
-			-> NOTE reserve all run energy for this minigame
-        -> immeditaely buy iron, and black pickaxe from dwarf caves
-            >> tele to varrock using chronicals <<
-		-> immeditaely buy iron armor (varrock)
-		-> immeditagely buy black & addy long sword (varrock), 
-            >> after buyingtele to lumb using home <<
-        -> immeditaely buy mith scimmi (al karid)
-             >> after buying tele to varrock using chronicals <<
-        -> get 21 mining from south east varrock area
-		    -> bank your copper/tin/iron ore
-		    -> do not smelt until after quest 8) knights sword is finished
+
+# 4) BACK TO QUESTS
+5. Witch's Potion
+6. Romeo & Juliet
+	- once you go to east varrock
+		- [ ] go to barbarian village and go the stronghold to get a free 10k (first three rooms then teleport out using home)
+			- `NOTE reserve all run energy for this minigame`
+        - [ ] immediately buy iron, and black pickaxe from dwarf caves
+        	- `tele to varrock using chronicals`
+		- [ ] immediately buy iron armor (varrock)
+		- [ ] immediately buy black & addy long sword (varrock), 
+			- `after buying tele to lumb using home`
+		- [ ] immediately buy mith scimmi (al karid)
+			- `after buying tele to varrock using chronicals`
+		- [ ] get 21 mining from south east varrock area
+			- bank your copper/tin/iron ore
+			- do not smelt until after quest 8) knights sword is finished
+     - Finish quest
     7. Doric's Quest
     8. The Knight's Sword
         use the lumbridge teleport
@@ -105,14 +106,16 @@ COMBAT
   Train your combat in this order:
  ```
 (note once you have GE access and str >=25 switch immediately to 40 attack for rune scimmi)
-		>> COWS <<
-	10 attack 	-> 10 strength -> 
-		>> GIANT FROGS <<
-	30 attack 	-> 35 strength -> 
-	35 attack 	-> 40 strength -> 
-	40 attack	-> 20 defense
-	30 range	-> 41 mage
-		-> for mage once you can earth XYZ only do that till next rune change. Frogs are weak to earth
+	>> COWS <<
+		10 attack 	-> 10 strength -> 
+	>> GIANT FROGS <<
+		30 attack 	-> 35 strength -> 
+		35 attack 	-> 40 strength -> 
+		40 attack	-> 20 defense
+		30 range	-> 35 mage
+			-> for mage once you can earth XYZ only do that till next rune change. Frogs are weak to earth
+	>> GO TO HILLY NOW << [weak to earth spells]
+		Do mage until 20 hours is up
 ```
   
 
