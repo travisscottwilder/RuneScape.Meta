@@ -94,13 +94,14 @@
 
 > [!TIP]
 > RANGE TIP (wait to buy till you start training):
->	- [ ] Buy oak shortbow
->	- [ ] buy 400 iron arrows
->	- [ ] buy 100 bronze arrows (use bronze to lure)
+> 	- Buy in varrock
+>		- [ ] Buy oak shortbow
+>		- [ ] buy 400 iron arrows
+>		- [ ] buy 100 bronze arrows (use bronze to lure)
 
 > [!TIP]
 > MAGE TIP (wait to buy till you start training):
->	- For level 4 to 41
+>	- For level 4 to 41 (buy in varrock)
 >		- [ ] buy every staff but air
 >		- [ ] buy 3000 air runes
 >		- [ ] buy 400 mind runes
