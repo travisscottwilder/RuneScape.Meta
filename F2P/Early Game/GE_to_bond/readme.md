@@ -51,7 +51,7 @@
 	40 attack	-> 20 defense
 	30 range	-> 35 mage
 >> GO TO HILL GIANTs NOW << [weak to earth spells]
-	50 range	-> 50 mage
+	50 range	-> 55 mage
 		-> NOTE once you hit 40 range switch to range + defense until 34 defense <-
 		-> NOTE only earth bolt hill giants <-
 	50 strength	-> 45 attack [use str potions] 
