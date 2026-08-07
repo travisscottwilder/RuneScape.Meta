@@ -47,19 +47,19 @@
 
 # 2) TRAINING PATH:
 ```
->> GIANT FROGS << [weak to earth spells]
+>> GIANT FROGS << 
 	40 attack	-> 20 defense
-	30 range	-> 35 mage
->> GO TO HILL GIANTs NOW << [weak to earth spells]
+	30 range	-> 35 mage 			[use only earth STRIKE]
+>> GO TO HILL GIANTs NOW << 
 	55 mage		-> 52 range
-		-> NOTE only earth bolt hill giants <-
+		-> NOTE for mage use only earth STRIKE to maximize GP/hr
 		-> NOTE do dragon slayer quest once you are 55 mage
-		-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
-	55 strength	-> 50 attack [use str potions] 
->> GO TO OGRESS WARRIORs << [weak to magic]
-	70 range	-> 70 mage
-	55 attack	-> 70 strength [use str potions]
-	85 magic	-> 80 range
+		-> NOTE at 40 range switch to range + defense until 40 defense <-
+	55 strength	-> 50 attack 		[use str potions] 
+>> GO TO OGRESS WARRIORs <<
+	70 range	-> 70 mage 			[use bolt spells to level 70]
+	55 attack	-> 70 strength 		[use str potions]
+	85 magic	-> 80 range 		[use blast spells now]
 	60 attack	-> 75 strength
 	60 defense	-> 80 strength
 ```
