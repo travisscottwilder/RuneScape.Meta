@@ -83,7 +83,7 @@ GE SHOPPING
 PROCESS
 PROCESS
 1) teleport to lumbridge
-	- [ ] Walk to Al Kharid's castle and talk to Hassan
+	- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (go through gate into desert)
 	- [ ] Start Prince Ali Rescue quest but then ignore it
 2) Walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
