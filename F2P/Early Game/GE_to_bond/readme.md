@@ -114,7 +114,7 @@
 
 > [!IMPORTANT]
 > **Ogress Warriors @ Corsair Cove Dungeon**<br><br>
->  *!!! Weak to EARTH magic spells !!!*
+>  *!!! Weak to magic spells !!!*
 >- <ins>Reasons:</ins>
 >```
 >Rune items
