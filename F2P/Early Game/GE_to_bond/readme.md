@@ -57,7 +57,7 @@
 	50 strength	-> 45 attack [use str potions] 
 >> GO TO OGRESS WARRIORs << [weak to magic]
 		-> if def account do dragon slayer quest <-
-	70 magic	-> 70 range
+	70 range	-> 70 mage
 	55 attack	-> 70 strength [use str potions]
 	85 magic	-> 80 range
 	60 attack	-> 75 strength
