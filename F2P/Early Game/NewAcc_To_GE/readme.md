@@ -94,18 +94,18 @@
 
 > [!TIP]
 > RANGE TIP (wait to buy till you start training):
-> 	- Buy in varrock
+> 	- Buy in varrock (east)
 >		- [ ] Buy oak shortbow
 >		- [ ] buy 400 iron arrows
 >		- [ ] buy 100 bronze arrows (use bronze to lure)
 
 > [!TIP]
 > MAGE TIP (wait to buy till you start training):
->	- For level 4 to 41 (buy in varrock)
->		- [ ] buy every staff but air
+>	- Buy in varrock (south)
+>		- [ ] buy every staff
 >		- [ ] buy 3000 air runes
->		- [ ] buy 400 mind runes
->		- [ ] buy 2100 chaos runes
+>  		- [ ] buy 2000 earth runes 
+>		- [ ] buy 3000 mind runes
 
 ## COMBAT
 > [!NOTE]
@@ -117,10 +117,9 @@ Train your combat in this order:
 	30 attack 	-> 35 strength -> 
 	35 attack 	-> 40 strength -> 
 	40 attack	-> 20 defense  ->
-	30 range    -> 35 mage
-		-> Always use earth Strike or Earth Bolt once you can
+	30 range    -> 35 mage				[always use earth STRIKE]
 >> GO TO HILLY NOW <<
-		Do mage until 20 hours is up- only use earth spells
+		Do mage until 20 hours is up- only using STRIKE spells, earth being cheapest
 ```
   
 ## LOCATIONS:
