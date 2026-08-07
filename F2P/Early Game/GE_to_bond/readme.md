@@ -12,9 +12,8 @@
 		- blue wizard robe
 		- Zamorak monk bottom
 		- blue wizard hat
-		- 500 mind runes
-		- 1250 chaos runes
-		- 5000 air runes
+		- 2000 mind runes
+		- 2000 air runes
 		
 		*Range:*
 		- steel arrow 400
@@ -25,7 +24,7 @@
 		- studded body
 		- studded chaps
 		- coif
-		- green legs and vambs
+		- green legs and vambraces
 
 		*Melee:*
 		- rune scimmi
@@ -51,7 +50,7 @@
 	40 attack	-> 20 defense
 	30 range	-> 35 mage 			[use only earth STRIKE]
 >> GO TO HILL GIANTs NOW << 
-	55 mage		-> 52 range
+	55 mage		-> 53 range
 		-> NOTE for mage use only earth STRIKE to maximize GP/hr
 		-> NOTE do dragon slayer quest once you are 55 mage
 		-> NOTE at 40 range switch to range + defense until 40 defense <-
