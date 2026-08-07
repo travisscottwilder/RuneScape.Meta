@@ -71,7 +71,7 @@ GE SHOPPING
 	-> ashes
 	-> x3 ball of wool
 	-> cabbage
-	-> chainbody
+	-> iron chainbody
 	-> Fally/Lumb/Varrock teleports
 		>> x5 law
 		>> x3 fire
