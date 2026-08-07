@@ -93,14 +93,14 @@
 # 6) NOW WE TRAIN COMBAT UNTIL WE HAVE GE (start with giant frogs)
 
 > [!TIP]
-> RANGE TIP (wait to buy till you start training):
+> RANGE TIP:
 > 	- Buy in varrock (east)
 >		- [ ] Buy oak shortbow
 >		- [ ] buy 400 iron arrows
 >		- [ ] buy 100 bronze arrows (use bronze to lure)
 
 > [!TIP]
-> MAGE TIP (wait to buy till you start training):
+> MAGE TIP:
 >	- Buy in varrock (south)
 >		- [ ] buy every staff
 >		- [ ] buy 3000 air runes
@@ -124,7 +124,7 @@ Train your combat in this order:
   
 ## LOCATIONS:
 > [!IMPORTANT]
-> **Giant Frogs [bank big bones] @ Lumbridge Swamp**
+> **Giant Frogs @ Lumbridge Swamp**
 >- <ins>Reasons:</ins>
 >```
 >Big Bones
