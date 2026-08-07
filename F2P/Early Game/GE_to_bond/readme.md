@@ -142,8 +142,9 @@
 	- ~2500 addy arrows to get to 50 range
 
 - <ins>MAGIC:</ins>
-	- Use bolt (chaos) spells until ogress warriors & 50 mage
- 		- then use highest blast spell available
+	- Earth Strike spell till 55 mage 
+ 	- Earth Bolt spells till 70 mage
+	- Earth Blast spells thereafter
 
 ---------------------------------------
 
@@ -158,8 +159,7 @@
 
 <ins>Mage</ins>
 ```
-- for mind casts bring 200 casts with you
-- for chaos cast trips bring 80 casts with you
+- for mind casts bring 125 casts with you
 ```
 
 ---------------------------------------
