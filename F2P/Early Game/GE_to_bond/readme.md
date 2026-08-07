@@ -139,6 +139,7 @@
 
 - <ins>MAGIC:</ins>
 	- Use bolt (chaos) spells until ogress warriors & 50 mage
+ 		- then use highest blast spell available
 
 ---------------------------------------
 
