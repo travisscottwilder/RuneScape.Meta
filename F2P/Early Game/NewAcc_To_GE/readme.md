@@ -39,7 +39,7 @@
 - [ ] Go back and forth killing and banking until you have
 	- lvl 10+ attack
 	- lvl 10+ strength
-	- lvl 10+ cooking
+	- lvl 15+ cooking
 	- 50+ cooked beef (pick up other peoples beef)
 
 --------------------------
