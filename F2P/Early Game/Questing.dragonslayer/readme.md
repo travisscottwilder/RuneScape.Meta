@@ -1,5 +1,5 @@
 > [!WARNING]
-> This quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
+> Dragon Slayer I quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
 
 > [!TIP]
 > [Fresh account to gaining access to GE](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/NewAcc_To_GE)
@@ -70,7 +70,7 @@ Cabbage 			(Black Knights Fortress)
 	- [ ] Finish quest
 
 > [!CAUTION]
-> This quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
+> Dragon Slayer I quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
 
 # 5) Now complete Dragon Slayer I
 	- NOTE leave 1 inventory space open
