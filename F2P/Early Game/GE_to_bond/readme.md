@@ -55,7 +55,7 @@
 		-> NOTE only earth bolt hill giants <-
 		-> NOTE do dragon slayer quest once you are 55 mage
 		-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
-	60 strength	-> 50 attack [use str potions] 
+	55 strength	-> 50 attack [use str potions] 
 >> GO TO OGRESS WARRIORs << [weak to magic]
 	70 range	-> 70 mage
 	55 attack	-> 70 strength [use str potions]
