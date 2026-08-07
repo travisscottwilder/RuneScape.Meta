@@ -105,6 +105,7 @@ PROCESS
  	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
 7) Walk/Teleport to Varrock
 	- [ ] Start Demon Slayer by talking to Gypsy
+		- NOTE take 1 inventory space open
  	- [ ] When you teleport to lumbridge to go to the wizard's tower for Trainborn's key:
   		- Grab a rune scimmi to kill mages for bones
     	- Grab a few pieces of food, any range dhide armor 
