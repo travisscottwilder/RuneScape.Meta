@@ -7,6 +7,9 @@
 > [!TIP]
 > [GE To Bond/Early Game Training](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/GE_to_bond)
 
+> [!CAUTION]
+> This quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
+
 # QUESTTING SUMMARY
 ```
 1) PATH TO 32 QUEST POINTS
