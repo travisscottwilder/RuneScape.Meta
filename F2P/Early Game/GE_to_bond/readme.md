@@ -10,7 +10,7 @@
 		
 		*Mage:*
 		- blue wizard robe
-		- monk's robe
+		- Zamorak monk bottom
 		- blue wizard hat
 		- 500 mind runes
 		- 1250 chaos runes
