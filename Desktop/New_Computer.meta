@@ -126,17 +126,21 @@ CONFIGURE RUNELITE:
 >> TODO FIGURE THESE OUT <<
 	unresponsive cursor
 	attack ranges
-	fixed mode hide chat
-		-> chat widgets
-			-> text small
-			-> shadow on
-			-> smart positioning on
-			>> edit settings
-				-> click "show"
-				-> message types "turn off autochat"
-				-> max messages: 5
-				-> private messages
-					-> turn show off
+	-> fixed mode hide chat
+	-> chat widgets
+		-> text shadow: on
+		-> wrap text: on
+		-> Hide Default Private Chat: no
+		-> smart positioning: on
+		-> Collapse duplicates: on
+		-> Show channel names: on
+		-> use chat filter: no
+		>> click the icon in the right runelite sidebar
+			-> click "show" (private and all)
+			-> message types "turn off autochat"
+			-> max messages: 5
+			-> private messages
+				-> turn show off
 	inventory setup
 		>> enable add duplicates
 	prayer
