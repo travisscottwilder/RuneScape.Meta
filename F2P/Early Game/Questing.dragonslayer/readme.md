@@ -27,23 +27,6 @@ GE SHOPPING
 		Orange dye
 		Blue dye
 
-	Prince Ali Rescue
-		3 beers
-		Rope
-		Pink skirt
-		x3 ball of wool
-		Yellow dye
-		Ashes
-		soft clay
-		bronze bar
-		bucket of water
-		pot of flour
-		redberries
-
-	Pirate's Treasure
-		White apron
-		60 coins
-
 	Ernest the Chicken
 		Spade
 
@@ -57,23 +40,11 @@ GE SHOPPING
 *STARTING INVENTORY* (be light, have no armor on)
 ```
 	-> 200gp
-	-> wear white apron
-	-> wear pink skirt
 	-> wear air staff
 	-> wear bronze med helm
 	-> spade
-	-> Rope
-	-> pot of flour
-	-> redberries
-	-> soft clay
-	-> bronze bar
-	-> bucket of water
-	-> yellow dye
 	-> Orange dye
 	-> Blue dye
-	-> x3 beers
-	-> ashes
-	-> x3 ball of wool
 	-> cabbage
 	-> iron chainbody
 	-> Fally/Lumb/Varrock teleports
@@ -86,18 +57,13 @@ GE SHOPPING
 
 PROCESS
 PROCESS
-~~1) teleport to lumbridge~~
-	~~- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (Start Prince Ali Rescue)~~
-	~~- [ ] Proceed with 95% of Prince Ali Rescue quest until you rescue Ali from the jail~~
-  	~~- [ ] Do not finish the last step, talking with Hassan~~
-	
 2) Tele to lumbridge and walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
-3) Walk south, southwest- to the docks of Port Sarim dock
-	- [ ] Start Private's Treasure by talking to RedBeard Frank
+3) Walk south
+	- [ ] Start Corsair Curse quest by talking to XXX
 	- [ ] Finish quest
-5) Walk north of Fallador
+5) Tele to Fallador
 	- [ ] Start and Complete Goblin Diplomacy
 6) Walk/Teleport to Fallador 
 	- [ ] Walk directly south to White Knights Castle (upstairs)
