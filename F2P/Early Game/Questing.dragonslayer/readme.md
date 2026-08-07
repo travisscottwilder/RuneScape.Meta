@@ -53,6 +53,7 @@ GE SHOPPING
 
 *STARTING INVENTORY* (be light, have no armor on)
 *STARTING INVENTORY* (be light, have no armor on)
+```
 	-> 200gp
 	-> wear white apron
 	-> wear pink skirt
@@ -76,7 +77,7 @@ GE SHOPPING
 		>> x3 fire
 		>> x3 earth
 		>> x3 water
-
+```
 
 
 PROCESS
