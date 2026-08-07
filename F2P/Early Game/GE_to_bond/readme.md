@@ -50,12 +50,12 @@
 >> GIANT FROGS << [weak to earth spells]
 	40 attack	-> 20 defense
 	30 range	-> 35 mage
->> GO TO HILLY NOW << [weak to earth spells]
-	50 range	-> 41 mage
+>> GO TO HILL GIANTs NOW << [weak to earth spells]
+	50 range	-> 50 mage
 		-> NOTE once you hit 40 range switch to range + defense until 34 defense <-
-		-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
+		-> NOTE only earth bolt hill giants <-
 	50 strength	-> 45 attack [use str potions] 
->> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
+>> GO TO OGRESS WARRIORs << [weak to magic]
 		-> if def account do dragon slayer quest <-
 	70 magic	-> 70 range
 	55 attack	-> 70 strength [use str potions]
