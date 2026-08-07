@@ -10,12 +10,11 @@ QUESTTING
 QUESTTING
 
 	1) PATH TO 32 QUEST POINTS
+		>> Earnest the chicken  [4qp]
+		>> Corsair curse [2qp]
 		>> Goblin Diplomacy [5qp]
-		>> Earnest The Chicken [4qp]
-		>> Pirate's Treasure [2qp]
-		>> Black Knights' Fortress [3qp]
-		>> Prince Ali Rescue [3qp]
-		>> Demon Slayer [3qp]
+		>> black knights fortress [3qp]
+		>> demon slayer [3qp]
 	
 	2) Do Dragon slayer 1
 
