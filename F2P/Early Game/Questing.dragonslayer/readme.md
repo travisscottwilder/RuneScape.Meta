@@ -93,7 +93,7 @@ PROCESS
 2) Walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
-3) Walk south, southeast- to the docks of Port Sarim dock
+3) Walk south, southwest- to the docks of Port Sarim dock
 	- [ ] Start Private's Treasure by talking to RedBeard Frank
 	- [ ] Finish quest
 5) Walk north of Fallador
