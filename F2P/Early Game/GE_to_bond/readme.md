@@ -1,5 +1,5 @@
 # 1) Use the GE
-- If you are following along from [FreshAcc_To_GE](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/1_FreshAcc_To_GE) then Sell all your big bones (expected 600+) 
+- If you are following along from [FreshAcc_To_GE](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/NewAcc_To_GE) then Sell all your big bones (expected 600+) 
 - Buy all your starting gear
 	- [ ] IN GE:
 
