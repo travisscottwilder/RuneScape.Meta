@@ -106,6 +106,7 @@ PROCESS
 	- [ ] Start Demon Slayer by talking to Gypsy
  	- [ ] When you teleport to lumbridge to go to the wizard's tower
   		- Grab a rune scimmi to kill mages for bones
+    	- Grab a few pieces of food, any range dhide armor 
 	- [ ] Finished quest
 
 
