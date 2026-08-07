@@ -114,6 +114,6 @@ PROCESS
 Now complete Dragon Slayer I
 - NOTE take 1 inventory space open
 - NOTE -> if you don't want past 40 defense then you need to cap your xp at 20k (level 34), before doing this quest because this quest gives 19k xp
-	- TODO what level is 20k xp?
+	- DO not get xp once you hit 34 defense
 
 .
