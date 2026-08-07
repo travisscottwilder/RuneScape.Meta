@@ -52,7 +52,7 @@
 	30 range	-> 35 mage
 >> GO TO HILLY NOW << [weak to earth spells]
 	50 range	-> 41 mage
-		-> NOTE once you hit 40 range switch to range + defense until 40 defense <-
+		-> NOTE once you hit 40 range switch to range + defense until 34 defense <-
 		-> NOTE earth bolt until 47 then water blast until 53 then only earth blast till 59 <-
 	50 strength	-> 45 attack [use str potions] 
 >> GO TO ORGRESS WARRIOR OGARS << [weak to magic]
