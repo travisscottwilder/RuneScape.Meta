@@ -79,9 +79,8 @@ Cabbage 			(Black Knights Fortress)
 	- [ ] Finish quest
 
 
-Now complete Dragon Slayer I
-- NOTE take 1 inventory space open
-- NOTE -> if you don't want past 40 defense then you need to cap your xp at 20k (level 34), before doing this quest because this quest gives 19k defense xp (level 41 is at 41k total xp) 
-	- DO not get xp once you hit 34 defense
+# 5) Now complete Dragon Slayer I
+	- NOTE leave 1 inventory space open
+	- NOTE -> if you don't want past 40 defense then you need to cap your xp at 20k (level 34), before doing this quest because this quest gives 19k defense xp (level 41 is at 41k total xp) 
 
 .
