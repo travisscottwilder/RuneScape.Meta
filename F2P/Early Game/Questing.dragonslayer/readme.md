@@ -1,3 +1,6 @@
+> [!WARNING]
+> This quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
+
 Fresh account to gaining access to GE:
 https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_1_FreshAcc_To_GE.n.PVP.txt
 
@@ -6,57 +9,56 @@ https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_2_GE_to_bo
 
 Then complete these quests in order to build your main up
 
-QUESTTING
-QUESTTING
+# QUESTTING SUMMARY
 
-	1) PATH TO 32 QUEST POINTS
-		>> Earnest the chicken  [4qp]
-		>> Corsair curse [2qp]
-		>> Goblin Diplomacy [5qp]
-		>> black knights fortress [3qp]
-		>> demon slayer [3qp]
+
+```
+1) PATH TO 32 QUEST POINTS
+	>> Earnest the chicken  [4qp]
+	>> Corsair curse [2qp]
+	>> Goblin Diplomacy [5qp]
+	>> black knights fortress [3qp]
+	>> demon slayer [3qp]
+
+2) Do Dragon slayer 1
+```
 	
-	2) Do Dragon slayer 1
 
 
 
-GE SHOPPING
-GE SHOPPING
+
+# 1) GE SHOPPING
+
 ```
-	Goblin Diplomacy
-		Orange dye
-		Blue dye
+Orange dye 			(Goblin Diplomacy)
+Blue dye 			(Goblin Diplomacy)
 
-	Ernest the Chicken
-		Spade
+Spade 				(Ernest the Chicken)
 
-	Black Knights Fortress
-		Iron chainbody
-		Bronze med helm
-		Cabbage
+Iron chainbody 		(Black Knights Fortress)
+Bronze med helm 	(Black Knights Fortress)
+Cabbage 			(Black Knights Fortress)
 ```
 
-*STARTING INVENTORY* (be light, have no armor on)
-*STARTING INVENTORY* (be light, have no armor on)
+# 2) *STARTING INVENTORY* (be light, have no armor on)
 ```
-	-> 200gp
-	-> wear air staff
-	-> wear bronze med helm
-	-> spade
-	-> Orange dye
-	-> Blue dye
-	-> cabbage
-	-> iron chainbody
-	-> Fally/Lumb/Varrock teleports
-		>> x5 law
-		>> x3 fire
-		>> x3 earth
-		>> x3 water
+-> 200gp
+-> wear air staff
+-> wear bronze med helm
+-> spade
+-> Orange dye
+-> Blue dye
+-> cabbage
+-> iron chainbody
+-> Fally/Lumb/Varrock teleports
+	>> x5 law
+	>> x3 fire
+	>> x3 earth
+	>> x3 water
 ```
 
 
-PROCESS
-PROCESS
+# 4) Start Questing In this order
 1) Tele to lumbridge and walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
