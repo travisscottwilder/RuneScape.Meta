@@ -41,7 +41,7 @@
 ---------------------------------------
 
 > [!TIP]
-> If you want 43 prayer- it'll take 600 big bones at the wilderness alter
+> If you want 43 prayer- it'll take 600 big bones at the wilderness alter (once members)
 
 ---------------------------------------
 
