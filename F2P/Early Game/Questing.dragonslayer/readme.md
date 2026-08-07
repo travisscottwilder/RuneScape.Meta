@@ -40,7 +40,7 @@ Bronze med helm 	(Black Knights Fortress)
 Cabbage 			(Black Knights Fortress)
 ```
 
-# 2) *STARTING INVENTORY* (be light, have no armor on)
+# 2) *STARTING INVENTORY* <sup>(be light, have no armor on)</sup>
 ```
 -> 200gp
 -> wear air staff
