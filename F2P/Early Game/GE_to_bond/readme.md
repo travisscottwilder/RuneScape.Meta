@@ -2,40 +2,47 @@
 - If you are following along from [FreshAcc_To_GE](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/NewAcc_To_GE) then Sell all your big bones (expected 600+) 
 - Buy all your starting gear
 	- [ ] IN GE:
+```
+General:
+	amulet of power
+	leather boots
+	leather gloves
+	colored cape (red)
 
-       *General:*
-		- amulet of power
-		- leather boots
-		- colored cape (red)
-		
-		*Mage:*
-		- blue wizard robe
-		- Zamorak monk bottom
-		- blue wizard hat
-		- 2000 mind runes
-		- 2000 air runes
-		
-		*Range:*
-		- steel arrow 400
-		- willow shortbow
-		- mithril arrow 500
-		- maple shortbows
-		- leather vambraces
-		- studded body
-		- studded chaps
-		- coif
-		- green legs and vambraces
+Mage:
+	blue wizard robe
+	Zamorak monk bottom
+	blue wizard hat
+	2000 mind runes
+	2000 air runes
 
-		*Melee:*
-		- rune scimmi
-		- mithril full set/addy full set/rune full set (chainmail)
+Range:
+	steel arrow 400
+	willow shortbow
+	mithril arrow 500
+	maple shortbows
+	leather vambraces
+	studded body
+	studded chaps
+	coif
+	green legs and vambraces
 
-		*Misc:*
-		- cooked lobster
-		- x2 brass key
+Melee:
+	rune scimmi
+	mithril full set
 
+Misc:
+	cooked lobster
+	anchovy pizza
+	x2 brass key
+```
 	- VARROCK STAFFs:
-		- earth, water, fire, air staffs
+```
+earth staff
+water staff
+fire  staff
+air   staff
+```
 
 ---------------------------------------
 
