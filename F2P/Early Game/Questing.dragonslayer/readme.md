@@ -21,6 +21,86 @@ QUESTTING
 
 
 
+GE SHOPPING
+GE SHOPPING
+	Goblin Diplomacy
+		Orange dye
+		Blue dye
+
+	Prince Ali Rescue
+		3 beers
+		Rope
+		Pink skirt
+		x3 ball of wool
+		Yellow dye
+		Ashes
+		soft clay
+		bronze bar
+		bucket of water
+
+	Pirate's Treasure
+		White apron
+		60 coins
+
+	Ernest the Chicken
+		Spade
+
+	Black Knights Fortress
+		Iron chainbody
+		Bronze med helm
+		Cabbage
+
+
+*STARTING INVENTORY* (be light, have no armor on)
+*STARTING INVENTORY* (be light, have no armor on)
+	-> 200gp
+	-> wear white apron
+	-> wear pink skirt
+	-> wear air staff
+	-> wear bronze med helm
+	-> spade
+	-> Rope
+	-> soft clay
+	-> bronze bar
+	-> bucket of water
+	-> yellow dye
+	-> Orange dye
+	-> Blue dye
+	-> x3 beers
+	-> ashes
+	-> x3 ball of wool
+	-> cabbage
+	-> chainbody
+	-> Fally/Lumb/Varrock teleports
+		>> x5 law
+		>> x3 fire
+		>> x3 earth
+		>> x3 water
+
+
+
+PROCESS
+PROCESS
+1) teleport to lumbridge
+	- [ ] Walk to Al Kharid's castle and talk to Hassan
+	- [ ] Start Prince Ali Rescue quest but then ignore it
+2) Walk to Draynor Manor (northeast)
+	- [ ] Start Ernest the Chicken quest by talking to Veronica
+	- [ ] Finish quest
+3) Walk south, southeast- to the docks
+	- [ ] Start Private's Treasure by talking to RedBeard Frank
+	- [ ] Finish quest
+4) While still on the Port Sarim dock
+	- [ ] Switch back to quest Prince Ali Rescue
+	- [ ] Finish quest
+5) Walk/Teleport to Fallador
+	- [ ] Start and Complete Goblin Diplomacy
+6) Walk/Teleport to Fallador 
+	- [ ] Walk directly south to White Knights Castle (upstairs)
+	- [ ] Start & complete Black Knights Fortress
+7) Walk/Teleport to Varrock
+	- [ ] Start Demon Slayer by talking to Gypsy
+	- [ ] Finished quest
 
 
 
