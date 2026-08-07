@@ -100,9 +100,12 @@ PROCESS
 	- [ ] Start and Complete Goblin Diplomacy
 6) Walk/Teleport to Fallador 
 	- [ ] Walk directly south to White Knights Castle (upstairs)
-	- [ ] Start & complete Black Knights Fortress
+	- [ ] Start Black Knights Fortress
+ 	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
 7) Walk/Teleport to Varrock
 	- [ ] Start Demon Slayer by talking to Gypsy
+ 	- [ ] When you teleport to lumbridge to go to the wizard's tower
+  		- Grab a rune scimmi to kill mages for bones
 	- [ ] Finished quest
 
 
