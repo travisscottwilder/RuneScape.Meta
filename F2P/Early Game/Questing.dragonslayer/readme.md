@@ -23,6 +23,7 @@ QUESTTING
 
 GE SHOPPING
 GE SHOPPING
+```
 	Goblin Diplomacy
 		Orange dye
 		Blue dye
@@ -34,7 +35,7 @@ GE SHOPPING
 		Iron chainbody
 		Bronze med helm
 		Cabbage
-
+```
 
 *STARTING INVENTORY* (be light, have no armor on)
 *STARTING INVENTORY* (be light, have no armor on)
