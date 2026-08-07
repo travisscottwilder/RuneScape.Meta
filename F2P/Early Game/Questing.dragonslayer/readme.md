@@ -86,11 +86,11 @@ GE SHOPPING
 
 PROCESS
 PROCESS
-1) teleport to lumbridge
-	- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (Start Prince Ali Rescue)
-	- [ ] Proceed with 95% of Prince Ali Rescue quest until you rescue Ali from the jail
-  	- [ ] Do not finish the last step, talking with Hassan 
-2) Walk to Draynor Manor (northeast)
+~~1) teleport to lumbridge~~
+	~~- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (Start Prince Ali Rescue)~~
+	~~- [ ] Proceed with 95% of Prince Ali Rescue quest until you rescue Ali from the jail~~
+  	~~- [ ] Do not finish the last step, talking with Hassan~~
+2) Tele to lumbridge and walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
 3) Walk south, southwest- to the docks of Port Sarim dock
