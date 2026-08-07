@@ -37,6 +37,8 @@ GE SHOPPING
 		soft clay
 		bronze bar
 		bucket of water
+		pot of flour
+		redberries
 
 	Pirate's Treasure
 		White apron
@@ -61,6 +63,8 @@ GE SHOPPING
 	-> wear bronze med helm
 	-> spade
 	-> Rope
+	-> pot of flour
+	-> redberries
 	-> soft clay
 	-> bronze bar
 	-> bucket of water
@@ -83,18 +87,16 @@ GE SHOPPING
 PROCESS
 PROCESS
 1) teleport to lumbridge
-	- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (go through gate into desert)
-	- [ ] Start Prince Ali Rescue quest but then ignore it
+	- [ ] Walk northwest to Al Kharid's castle and talk to Hassan (Start Prince Ali Rescue)
+	- [ ] Proceed with 95% of Prince Ali Rescue quest until you rescue Ali from the jail
+  	- [ ] Do not finish the last step, talking with Hassan 
 2) Walk to Draynor Manor (northeast)
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
 3) Walk south, southeast- to the docks of Port Sarim dock
 	- [ ] Start Private's Treasure by talking to RedBeard Frank
 	- [ ] Finish quest
-4) While still on the Port Sarim dock
-	- [ ] Switch back to quest Prince Ali Rescue
-	- [ ] Finish quest
-5) Walk/Teleport to Fallador
+5) Walk north of Fallador
 	- [ ] Start and Complete Goblin Diplomacy
 6) Walk/Teleport to Fallador 
 	- [ ] Walk directly south to White Knights Castle (upstairs)
