@@ -1,17 +1,13 @@
 > [!WARNING]
 > This quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
 
-Fresh account to gaining access to GE:
-https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_1_FreshAcc_To_GE.n.PVP.txt
+> [!TIP]
+> [Fresh account to gaining access to GE](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/NewAcc_To_GE)
 
-Then if you want to train up the account & make money:
-https://github.com/travisscottwilder/RuneScape.Meta/blob/main/F2P/F2P_2_GE_to_bond.txt
-
-Then complete these quests in order to build your main up
+> [!TIP]
+> [GE To Bond/Early Game Training](https://github.com/travisscottwilder/RuneScape.Meta/tree/main/F2P/Early%20Game/GE_to_bond)
 
 # QUESTTING SUMMARY
-
-
 ```
 1) PATH TO 32 QUEST POINTS
 	>> Earnest the chicken  [4qp]
@@ -23,12 +19,7 @@ Then complete these quests in order to build your main up
 2) Do Dragon slayer 1
 ```
 	
-
-
-
-
 # 1) GE SHOPPING
-
 ```
 Orange dye 			(Goblin Diplomacy)
 Blue dye 			(Goblin Diplomacy)
@@ -56,7 +47,6 @@ Cabbage 			(Black Knights Fortress)
 	>> x3 earth
 	>> x3 water
 ```
-
 
 # 4) Start Questing In this order
 1) Tele to lumbridge and walk to Draynor Manor (northeast)
