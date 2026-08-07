@@ -126,6 +126,12 @@
 >	"Corsair Cove"
 >	Go inside the dungeon
 >```
+>- <ins>When are you strong enough?</ins>
+>```
+>Magic: 55+ using bolt, 70+ using blast spells
+>Range: 53+
+>Melee: 55str/50att
+>```
 
 ---------------------------------------
 
