@@ -134,7 +134,9 @@ VARROCK STAFFs:
 >- <ins>When are you strong enough?</ins>
 >```
 >Magic: 55+ using bolt, 70+ using blast spells
+>	or
 >Range: 53+
+>	or
 >Melee: 55str/50att
 >```
 
