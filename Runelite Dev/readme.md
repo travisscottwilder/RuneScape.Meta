@@ -8,7 +8,7 @@ runelite plugins:
 
 
 2) BUT you can clone only the plugin you want to make instead of the whole runelite:
-	`https://www.youtube.com/watch?v=mB5Wxfx0Ork`
+	`https://www.youtube.com/watch?v=mB5Wxfx0Ork`<Br>
 	`https://github.com/new?template_name=example-plugin&template_owner=runelite`
 
 
