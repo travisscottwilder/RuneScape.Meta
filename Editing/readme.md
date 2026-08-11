@@ -1,6 +1,18 @@
-Editing project size:<br>
-OBS output and screen size:<br>
-		`2560x1440`
+
+# DJI Mic 2 Notes
+> [!TIP]
+> 🎤 Turn on hardware noise canceling on the mic by pressing link + power at the same time<sup>LED turns yellow & yellow icon on adapter</sup>
+> 🎤 +9 on the adapter for computer recording in OBS<sup>ALSO +9db inside OBS filter settings (gain)</sup>
+
+# DaVinci Resolve
+> [!TIP]
+> 💻 Project Size: `2560x1440`
+
+# OBS Settings
+> [!TIP]
+> 🎤 +9db gain for DJI Mic audio input
+> 💻 Output & screen size: `2560x1440`
+
 
 
 
