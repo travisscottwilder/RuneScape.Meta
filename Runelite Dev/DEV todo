@@ -1,0 +1,11 @@
+
+
+PLUGIN TODO
+PLUGIN TODO
+	-> create an icon
+	-> add better description inside config
+	-> add better description inside gradel/propert files
+	-> create a thread that runs every few seconds that gets all enemeys to clear our any random artifacts
+		>> or maybe we do it on our existing thread and run it every 20 iterations or something like that
+
+
