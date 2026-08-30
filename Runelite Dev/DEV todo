@@ -12,7 +12,15 @@ PLUGIN TODO
 		-> option to choose their color
 	-> option to filter clan chat people out of highlight
 		-> make it mode so you can either turn it off or a specific color
-
+			-> add description to global plugin
+	-> add description to every config option
+	-> add "licensing your repository" https://github.com/runelite/plugin-hub?utm_source=chatgpt.com#licensing-your-repository
+	-> convert all logging to log.debug()
+	-> add filtering for friends, clan
+	-> add option for full screen flashing
+	-> add option for neutral (someone but not in attachable range)
+	-> https://github.com/WuzeO/wilderness-alarm-plus/issues/1
+	-> add an ignore list, with right click option
 
 
 
