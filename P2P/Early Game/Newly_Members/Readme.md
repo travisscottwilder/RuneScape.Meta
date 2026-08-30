@@ -109,7 +109,7 @@
 
 Goal of these quests is to work towards completing Recipe For Disaster, Lost City, Monkey Madness, and Desert treasure but also gain meaningful XP at lower levels.
 
-> [!TIP]
+> [!IMPORTANT]
 > # 1: get 43 prayer at wilderness altar
 > - [ ] use burning amulet to teleport to lava maze then run to altar
 > - [ ] bring 7500 GP/coins for unnoting bones
@@ -117,58 +117,191 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Use bones on altar, talk to guy to un-note bones, repeat
 
 
-> [!TIP]
+> [!IMPORTANT]
 > # 2: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>for future prereq on quest</sup>
 
-> [!TIP]
+> [!IMPORTANT]
 > # 3: The Knight's Sword
 > - Smithing xp <sup>for future prereq on quest</sup>
 > - Will be complete if you have complete Dragon Slayer
 
-> [!TIP]
+> [!IMPORTANT]
 > # 4: Get 10 Fletching
 > - get 5 fletching making shafts (logs + knife)
 > - get 10 fletching making shortbow(u)
 
-> [!TIP]
+> [!IMPORTANT]
 > # 5: Get 16 Firemaking
 > - burn 60 normal logs (logs + tinderbox)
 
-> [!TIP]
+> [!IMPORTANT]
 > # 6: The Tourist Trap
 > - [ ] Use one lamp on Agility
 > - [ ] Use one lamp on Slayer
 
-> [!TIP]
+> [!IMPORTANT]
 > # 7: The Grand Tree
 > - Agility XP
 
-> [!TIP]
+> [!IMPORTANT]
 > # 8: Druidic Ritual
 > - Unlocks Herblore <sup>for future prereq on quest</sup>
 
-> [!TIP]
+> [!IMPORTANT]
 > # 9: Client of Kourend
 > - Slayer XP <sup>for future prereq on quest</sup>
 
-> [!IMPORTANT]
+> [!TIP]
 > # 10: Recruitment Drive
 > - **WARNING** This gives 1000 prayer xp
 > - Optional, is for Agility XP
 
-> [!TIP]
+> [!IMPORTANT]
 > # 11: The Depths of Despair
 > - Agility XP
 
-> [!TIP]
+> [!IMPORTANT]
 > # 12: Death Platau
 > - Unlocks Climbing Boots best cheap boots <sup>for future prereq on quest</sup>
 
-> [!TIP]
+> [!IMPORTANT]
 > # 13: Troll Stronghold
 > - for future prereq on quest
+
+> [!IMPORTANT]
+> # 14: Gertrude's Cat
+> - Prereq for woodcutting xp
+> - NOTE Start growing a cat for future quest
+> 	- West varrock talk to Gertrude in her house
+>   - Give your cat raw sardines to keep it fed  
+
+> [!TIP]
+> # 15: Horror from the Deep
+> - Unlocks godbook
+
+> [!IMPORTANT]
+> # 16: Tree Gnome Village
+> - Unlocks spirit trees for navigation
+
+> [!IMPORTANT]
+> # 17: Priest in peril
+> - **WARNING** Gives 1406 Prayer XP
+> - Prereq for future quest
+
+
+> [!IMPORTANT]
+> # 18: Fight Arena
+> - Thieving XP
+
+
+> [!IMPORTANT]
+> # 19: The Giant Dwarff
+> - Crafting XP
+
+> [!IMPORTANT]
+> # 20: Get 19 Crafting
+> - make bodies (use needle on leather w\ thread in invy)
+
+
+> [!IMPORTANT]
+> # 21: Monks Friend
+> - Woodcutting XP
+
+
+> [!IMPORTANT]
+> # 22: Children of the Sun
+> - Prereq for future quest
+
+
+> [!IMPORTANT]
+> # 23: Ribbiting Tale of Lily Pad L
+> - Woodcutting XP
+
+
+> [!IMPORTANT]
+> # 24: Icthlarin's Little Helper
+> - Woodcutting XP
+> - Agility XP
+
+
+> [!IMPORTANT]
+> # 25: Get 35 Woodcutting
+> - [ ] cut oak logs till level 32
+> - [ ] cut willow logs to 35
+
+
+> [!IMPORTANT]
+> # 26: Animal Magnetism
+> - Unlocks Accumulator
+> - NOTE you will get 1406 prayer XP from previous quests in order to do this quest
+> - For x20 Eco-tokens bring in your invy:
+> 	- [ ] x4 Bones
+>   - [ ] x4 empty pots
+>   - [ ] x4 empty buckets 	
+
+
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+
+# 4) Now go make moneyyyyyyy
+```
+    at 60+ mage go to blue dragons
+	at 70+ mage go to lava dragons
+	
+	at 65+ range go to green dragons
+	at 75+ range go to blue dragons OR rev caves
+```
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
+```
+
+==================================================
+DO SOME OTHER LATER TIME
+==================================================	
+	
+    TODO look up prereqs for lost city, fairy tale, monkey madness, RFD (the whole quest)
+		-> spinkle in the prereqs inbetween the ones already mentioned
+	
+	
+	-> Waterfall Quest
+	
+	-> LOST CITY
+		31 crafting
+		36 woodcutting
+		
+	-> Nature Spirit
+		[NOTE GIVES 2k DEFENSE]
+		
+	-> Fairy Tale I (and 2) for fairy rings
+	
+	-> mage arena i				>> god cape
+		60 mage
+	-> mage arena ii				>> imbued god cape
+		75 mage
+	
+	-> recipe for disasster
+		TODO see which ones we can do ASAP to get gloves asap
+	
+	-> monkey madness i
+	
+	-> desert treasure 1
+	
+	-> [The Ectophial teleport] Ghosts Ahoy → Ectophial
+	
+	-> [The Camule teleport] Enakhra's Lament → Camulet
+	
+	-> back to recipe for disasster
+```
+
+
 
 
 
