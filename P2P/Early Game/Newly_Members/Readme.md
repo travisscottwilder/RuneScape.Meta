@@ -1,8 +1,8 @@
 
-# Quality Of Life Upgrade [1.3m<sup>/2.8m for rich setup</sup>]
+# 1) Quality Of Life Upgrade [1.3m<sup>/2.8m for rich setup</sup>]
 - [ ] Go to GE and purchase:
 ```
-    -> x100 energy potion(4) 					(20k)
+        -> x100 energy potion(4) 					(20k)
 		-> "teleport" tabs for: 					(100k)
 			x20 Varrock teleport
 			x20 Falador teleport
@@ -24,8 +24,8 @@
 		-> x4 runecross bow 						(50k)
 		-> x5000 broad bolts 						(300k)
 		-> x200 Dragonstone bolts (e) 				(80k)
-    [if getting 43 prayer[
-      -> x123 dragon bones 						(445k)
+        [if getting 43 prayer[
+             -> x123 dragon bones 					(445k)
 
     IF RICH (1.5m):
 			-> x1 full saradomin d'hide set (300k)	
@@ -33,9 +33,9 @@
 				-> x200 Dragonstone Dragon bolts (e) (500k)
 ```
 
-# Purchase Quest Items [100k]
+# 2) Purchase Quest Items [100k]
 ```
-    -> x2 knife									(500)
+        -> x2 knife									(500)
 		-> x2 tinderbox								(500)
 		-> x2 hammer								(500)
 		-> x2 bucket								(500)
@@ -103,12 +103,72 @@
 
 
 
+# 3) Start Questing mainly for Accumulator & Agility levels
+> [!CAUTION]
+> Do these in order as the experience from one quest is needed for the next
+
+Goal of these quests is to work towards completing Recipe For Disaster, Lost City, Monkey Madness, and Desert treasure but also gain meaningful XP at lower levels.
+
+> [!TIP]
+> # 1: get 43 prayer at wilderness altar
+> - [ ] use burning amulet to teleport to lava maze then run to altar
+> - [ ] bring 7500 GP/coins for unnoting bones
+> - [ ] bring full invy (25) unoted and then rest of bones noted inside invy too
+> - [ ] Use bones on altar, talk to guy to un-note bones, repeat
 
 
+> [!TIP]
+> # 2: Dwarf Cannon
+> - Unlocks Cannon
+> - Crafting xp <sup>for future prereq on quest</sup>
 
+> [!TIP]
+> # 3: The Knight's Sword
+> - Smithing xp <sup>for future prereq on quest</sup>
+> - Will be complete if you have complete Dragon Slayer
 
+> [!TIP]
+> # 4: Get 10 Fletching
+> - get 5 fletching making shafts (logs + knife)
+> - get 10 fletching making shortbow(u)
 
+> [!TIP]
+> # 5: Get 16 Firemaking
+> - burn 60 normal logs (logs + tinderbox)
 
+> [!TIP]
+> # 6: The Tourist Trap
+> - [ ] Use one lamp on Agility
+> - [ ] Use one lamp on Slayer
+
+> [!TIP]
+> # 7: The Grand Tree
+> - Agility XP
+
+> [!TIP]
+> # 8: Druidic Ritual
+> - Unlocks Herblore <sup>for future prereq on quest</sup>
+
+> [!TIP]
+> # 9: Client of Kourend
+> - Slayer XP <sup>for future prereq on quest</sup>
+
+> [!IMPORTANT]
+> # 10: Recruitment Drive
+> - **WARNING** This gives 1000 prayer xp
+> - Optional, is for Agility XP
+
+> [!TIP]
+> # 11: The Depths of Despair
+> - Agility XP
+
+> [!TIP]
+> # 12: Death Platau
+> - Unlocks Climbing Boots best cheap boots <sup>for future prereq on quest</sup>
+
+> [!TIP]
+> # 13: Troll Stronghold
+> - for future prereq on quest
 
 
 
