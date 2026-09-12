@@ -43,6 +43,7 @@
   	- Go down into the stronghold and make it to the center as fast as you can
    	- Always run by enemies, so if you need to pause in order for run energy to regenerate- do it
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
+	- Make it all the way to the fourth floor and get yourself boots
 8. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
 	- Start and Complete quest
