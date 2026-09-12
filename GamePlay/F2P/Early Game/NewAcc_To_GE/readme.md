@@ -1,6 +1,6 @@
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
-- [ ] get level 3 mining & smithing
+- [ ] get level 3 mining & smithing <sup>(mine 9 copper and 9 tin)</sup> 
 
 --------------------------
 
@@ -10,165 +10,124 @@
 --------------------------
 
 # 2) IMMEDIATELY DO QUEST FIRST
-1. The Restless Ghost
-	- grab leather gloves while talking to dude in swamp
-	- kill level 3 rat while run energy builds up (train attack till lvl 10)
-2. Cook's Assistant
-	- get more than one pot, wheat, and bake x4 bread
+1. Bank Everything
+2. Start Cook's Assistant
+   	- Go to lumbridge castle's basement (downstairs)
+   		- grab: bucket, leather boots
+   	 	- upstairs grab: pot 
 	- Sheer 20 sheep when you go into cow field for quest 4 
-		- start sheep shearer by talking to farmer
-    	- *pick up x4 egg when you find one on the ground*
-    - attack goblins until 4 HP, pick up coins and armor (att to 10 first, then str to 10)    
-    - after completing cooks assistant go to 2nd floor and use wool on spinning wheel
-3. X Marks the Spot
-	- `TODO BUY CHRONICALS SOMEWHERE AROUND HERE`
- 	- take leather boots in witches castle step
-	- kill the level 2 men until your HP is 4 or lower
-		-pick up coins
-   	- When you start running north east, stop by fred the farmer first to complete sheep shearer
-   	- After completing X marks the spot talk to fred again on the way to lumbridge cows
-4. Sheep Shearer
-	- after getting skull start imp catcher by going to top of tower
-	- ** when getting cavada berries get 5 red berries too **
+		- start sheep shearer by talking to farmer when picking up egg for cook's assistant
+  		- sheers can be found at the farmers house by the egg  
+    - Complete cooks assistant
+    - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
+    - Go upstairs 3rd floor of lumbridge castle and grab from bank a tinderbox, wooden axe, bow, all your arrows, keep you 20 balls of whool in your invy aswell.
+3. Start X Marks the Spot
+   	- NOTE >> is there a way to run south east of lumby in order to get rat meat from giant rat's for quest 4
+   	- Complete Quest
+4. Start Witches Potion
+	-  Run north to get onion
+ 	-  Immediately run east to buy eye of nuewt at the mage shop at the docks
+  	-  Find giant rats southeast of rimington for rat meat
+5. Finish Sheep Shearer
+	- Teleport to lumb using home teleport
+ 	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox 
+6. Cook Beef until you are 15 cooking
+	- Run directly east and find the more common path of cows
+ 	- Get 4 logs along the way by cutting down 4 trees 
+ 	- Hop worlds to a high populated F2P world
+  	- Grab beef off the ground from other player kills
+   	- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
+   	- Light your own fires in order to cook beef
+   	- 15 cooking will take 4 inventories of beef
+   	- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
+7. Get your free 10k cash & a free tele
+	- WALK back to Lumbridge castle (keep run energy > 80% we will need it) 
+	- Do not enter the castle keep walking south to the graveyard
+ 	- Talk to "Count check" and ask where the stronghold is and say yes you want to be teleported there
+  	- Go down into the stronghold and make it to the center as fast as you can
+   	- Always run by enemies, so if you need to pause in order for run energy to regenerate- do it
+   	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
+8. Start Romeo & Juliet
+	- Leave the stronghold and run east to varrock center
+	- Start and Complete quest
+
 
 --------------------------
 
-# 3) COMBAT TRAINING
-- [ ] Now train on cows at Lumbridge Cow Field located northeast of lumbridge castle
-	- have a axe and tinderbox on you to stay alive and cook for food
-- [ ] Go back and forth killing and banking until you have
-	- lvl 10+ attack
-	- lvl 10+ strength
-	- lvl 15+ cooking
-	- 50+ cooked beef (pick up other peoples beef)
 
---------------------------
-
-# 4) BACK TO QUESTS
-5. Witch's Potion
-6. Romeo & Juliet
-	- once you go to east varrock
-		- [ ] go to barbarian village and go the stronghold to get a free 10k (first three rooms then teleport out using home)
-			- `NOTE reserve all run energy for this minigame`
-        - [ ] immediately buy iron, and black pickaxe from dwarf caves
-        	- `tele to varrock using chronicals`
-		- [ ] immediately buy iron armor (varrock)
-		- [ ] immediately buy black & addy long sword (varrock), 
-			- `after buying tele to lumb using home`
-		- [ ] immediately buy mith scimmi (al karid)
-			- `after buying tele to varrock using chronicals`
-		- [ ] get 21 mining from south east varrock area
-			- bank your copper/tin/iron ore
-			- do not smelt until after quest 8, which is the knights sword
-     - Finish quest
-7. Doric's Quest
-8. The Knight's Sword
-	- [ ] use the lumbridge teleport
-		- [ ] get x3 pots
-		- [ ] x3 wheat <sup>(north of castle)</sup>
-		- [ ] turn into pot of flower x3 <sup>(use the mill by the wheat field)</sup>
-	- [ ] go to varrock and bank everything, we are going into wilderness
-		- [ ] talk to Reldo at varrock
-			- get a pie dish x3
-	- [ ] go to Graveyard of Shadows for 2 iron bars
-		- <sup>allow bears to kill you for free lumbridge ticket</sup>
-	- [ ] gear up, cook your pies, get your black longsword if you need to sell it, & continue quest
-9. Vampire Slayer
-	- buy a hammer in the general store north of the pub
-
---------------------------
-
-> [!CAUTION]
-> QUESTING DONE NOW IT IS ABOUT MAKING MONEY WAITING FOR 20 HR GAMETIME
-
---------------------------
-
-# 5) GATHER FOOD FOR TRAINING
+# 3) GATHER 250 Food
     -> go to barbarian village (west of varrock) on a populated world:
-		-> get >=300 cooked tuna 
-		-> get >=150 cooked salmon
+		-> People who are "power fishing" drop their fish
+		-> if no one is dropping, you can ask if anyone does not want their fish
+			-> take it cooked or raw, you will cook it if it's raw
+		-> Pick up any raw food and cook it on the fire
+		-> Bank all cooked food in Edgevile- rinse repeat
+	-> This food will be used both for food and to sell to the general store to gain GP
+	-> Ideally get only cooked salmon as it is the best food and highest price
 
---------------------------
+# 4) Purchase First Combat Supplies
+	- [ ] Go to the General store in Varrock and sell 150 of your food you just gathered
+		- Switch worlds and sell in batches of 20
+	- [ ] Walk northeast into the range shop
+		- Purchase 1k bronze arrows
+		- Purchase 1 Standard shortbow
+		- Purchase 1 Oak shortbow
+		- Purchase 1 Willow shortbow
+		- (???) Purchase 1 Maple shortbow
+	- [ ] Walk north into the armor shop
+		- Purchase 1 legchaps
 
-# 6) NOW WE TRAIN COMBAT UNTIL WE HAVE GE (start with giant frogs)
+# 5) Start Range Training at Hill Giants
+	- [ ] Set up your inventory
+		- Grab standard and oak shortbow, 500 arrows, your leg chaps
+		- Grab 15 unnoted food
+	- [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
+		- Walk east to edgeville yew logs (south of bank)
+		- Find the dungeon entrance/trapdoor & enter
+		- Go south through the dungeon
+			- Find the brass key that spawns on the floor near the most south ores
+			- Pick up 2-3, hop worlds for quicker pick up
+	- [ ] Walk south and safe spot Hill giants with range
+	- [ ] Pick up
+		- Big Bones
+		- All iron armor and weapons
+		- All steel armor and weapons
+		- All runes
+		- All gems
+		- All Talsimins
+	- [ ] When inventory is full go to west varrock bank
+		- Walk up ladder
+		- Go through door (you need a brass key)
+		- Run east to varrock bank
+		- Bank everything
+		- Get out 1 brass key and 15 food
+	- [ ] Run back to hill giants from varrock
+		- travel east into the shack near the river
+		- east side of the river, north of the stone path
+		- take the ladder down
+	- [ ] Rinse and repeat this cycle of killing/banking until 30 range
+		-	todo do we actually do 30? or do we do higher? we need cash more than levels probably?
 
-> [!TIP]
-> RANGE TIP:
-> 	- Buy in varrock (east)
->		- [ ] Buy oak shortbow
->		- [ ] buy 400 iron arrows
->		- [ ] buy 100 bronze arrows (use bronze to lure)
+# 6) TODO BUY NEXT STAGE
+	- sell everything in general store
+	- buy iron armor
+	- buy air staff
+	
+	- buy range stuff to kill corsair guy?????
+	
+	- buy as many mind runes as you can
 
-> [!TIP]
-> MAGE TIP:
->	- Buy in varrock (south)
->		- [ ] buy every staff
->		- [ ] buy 3000 air runes
->  		- [ ] buy 2000 earth runes 
->		- [ ] buy 3000 mind runes
+# 7) todo do corsair quest
+	- use home tele
+	- run to start quest
+	- run to captain and travel to island
+	- complete quest
+	
+# 8) todo splashing at corsiar dock
+	- splash for the remaining of your ge time
+	
 
-## COMBAT
-> [!NOTE]
-> once you have GE access and str >=25 switch immediately to 40 attack for rune scimmi
 
-Train your combat in this order:
- ```
->> GIANT FROGS <<
-	30 attack 	-> 35 strength -> 
-	35 attack 	-> 40 strength -> 
-	40 attack	-> 20 defense  ->
-	30 range    -> 35 mage				[always use earth STRIKE]
->> GO TO HILLY NOW <<
-		Do mage until 20 hours is up- only using STRIKE spells, earth being cheapest
-```
-  
-## LOCATIONS:
-> [!IMPORTANT]
-> **Giant Frogs @ Lumbridge Swamp**
->- <ins>Reasons:</ins>
->```
->Big Bones
->Runes
->```
->- <ins>Location:</ins>
->```
->From Lumbridge Castle:
->	Exit the castle
->	Go south through the graveyard
->	Enter Lumbridge Swamp
->	Walk around the south/southwest swamp area
->```
-
---------------------------
-
-> [!IMPORTANT]
-> **Hill Giants @ Edgeville Dungeon**
->  !!! Weak to EARTH magic spells !!!
->- <ins>Reasons:</ins>
->```
->Big Bones
->Limpwurt Roots
->Giant Keys
->Nature, Law, Cosmic runes
->Talismans
->Uncut gems
->```
->- <ins>Location:</ins>
->```
->Quick entrance 
->	from varrock
->		travel east into the shack near the river
->		east side of the river, north of the stone path
->		take the latter down
->Longer entrance (no brass key):
->	From Edgeville:
->		Go south of Edgeville bank
->		Find the dungeon entrance/trapdoor
->		Enter
->		Go south through the dungeon
->```
-
---------------------------
 
 
 
