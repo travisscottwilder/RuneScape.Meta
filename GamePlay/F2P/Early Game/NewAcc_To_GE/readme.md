@@ -4,10 +4,6 @@
 
 --------------------------
 
-> [!TIP]
-> kill every imp you see to collect every color of beed (ongoing) -> if you can get every beed before GE then you'll have best ammy
-
---------------------------
 
 # 2) IMMEDIATELY DO QUEST FIRST
 1. Bank Everything
