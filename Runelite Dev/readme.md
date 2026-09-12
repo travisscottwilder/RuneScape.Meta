@@ -19,5 +19,7 @@ runelite plugins:
 
 For client playing on an asus zenbook duo your client size should be:
 	-> size: 1160x653
+	
 	-> then mark cannot resize
+	
 		-> uncheck this if you need to move your client to different windows then recheck
