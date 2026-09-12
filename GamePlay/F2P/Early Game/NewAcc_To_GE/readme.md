@@ -25,7 +25,8 @@
   	-  Find giant rats southeast of rimington for rat meat
 5. Finish Sheep Shearer
 	- Teleport to lumb using home teleport
- 	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox 
+ 	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox
+  	- Complete quest by talking to farmer w\ balls  
 6. Cook Beef until you are 15 cooking
 	- Run directly east and find the more common path of cows
  	- Get 4 logs along the way by cutting down 4 trees 
