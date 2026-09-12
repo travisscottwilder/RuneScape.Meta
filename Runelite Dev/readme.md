@@ -18,6 +18,7 @@ runelite plugins:
 ---------------------------------
 
 For client playing on an asus zenbook duo your client size should be:
+	
 	-> size: 1160x653
 	
 	-> then mark cannot resize
