@@ -45,11 +45,6 @@ VARROCK STAFFs:
 
 ---------------------------------------
 
-> [!TIP]
-> If you want 43 prayer- it'll take 600 big bones at the wilderness alter (once members)
-
----------------------------------------
-
 # 2) TRAINING PATH:
 ```
 >> GIANT FROGS << 
