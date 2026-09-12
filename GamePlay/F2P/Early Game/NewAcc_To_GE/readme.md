@@ -53,75 +53,75 @@
 
 
 # 3) GATHER 250 Food
-    -> go to barbarian village (west of varrock) on a populated world:
-		-> People who are "power fishing" drop their fish
-		-> if no one is dropping, you can ask if anyone does not want their fish
-			-> take it cooked or raw, you will cook it if it's raw
-		-> Pick up any raw food and cook it on the fire
-		-> Bank all cooked food in Edgevile- rinse repeat
-	-> This food will be used both for food and to sell to the general store to gain GP
-	-> Ideally get only cooked salmon as it is the best food and highest price
+-> go to barbarian village (west of varrock) on a populated world:
+	-> People who are "power fishing" drop their fish
+	-> if no one is dropping, you can ask if anyone does not want their fish
+		-> take it cooked or raw, you will cook it if it's raw
+	-> Pick up any raw food and cook it on the fire
+	-> Bank all cooked food in Edgevile- rinse repeat
+-> This food will be used both for food and to sell to the general store to gain GP
+-> Ideally get only cooked salmon as it is the best food and highest price
 
 # 4) Purchase First Combat Supplies
-	- [ ] Go to the General store in Varrock and sell 150 of your food you just gathered
-		- Switch worlds and sell in batches of 20
-	- [ ] Walk northeast into the range shop
-		- Purchase 1k bronze arrows
-		- Purchase 1 Standard shortbow
-		- Purchase 1 Oak shortbow
-		- Purchase 1 Willow shortbow
-		- (???) Purchase 1 Maple shortbow
-	- [ ] Walk north into the armor shop
-		- Purchase 1 legchaps
+- [ ] Go to the General store in Varrock and sell 150 of your food you just gathered
+	- Switch worlds and sell in batches of 20
+- [ ] Walk northeast into the range shop
+	- Purchase 1k bronze arrows
+	- Purchase 1 Standard shortbow
+	- Purchase 1 Oak shortbow
+	- Purchase 1 Willow shortbow
+	- (???) Purchase 1 Maple shortbow
+- [ ] Walk north into the armor shop
+	- Purchase 1 legchaps
 
 # 5) Start Range Training at Hill Giants
-	- [ ] Set up your inventory
-		- Grab standard and oak shortbow, 500 arrows, your leg chaps
-		- Grab 15 unnoted food
-	- [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
-		- Walk east to edgeville yew logs (south of bank)
-		- Find the dungeon entrance/trapdoor & enter
-		- Go south through the dungeon
-			- Find the brass key that spawns on the floor near the most south ores
-			- Pick up 2-3, hop worlds for quicker pick up
-	- [ ] Walk south and safe spot Hill giants with range
-	- [ ] Pick up
-		- Big Bones
-		- All iron armor and weapons
-		- All steel armor and weapons
-		- All runes
-		- All gems
-		- All Talsimins
-	- [ ] When inventory is full go to west varrock bank
-		- Walk up ladder
-		- Go through door (you need a brass key)
-		- Run east to varrock bank
-		- Bank everything
-		- Get out 1 brass key and 15 food
-	- [ ] Run back to hill giants from varrock
-		- travel east into the shack near the river
-		- east side of the river, north of the stone path
-		- take the ladder down
-	- [ ] Rinse and repeat this cycle of killing/banking until 30 range
-		-	todo do we actually do 30? or do we do higher? we need cash more than levels probably?
+- [ ] Set up your inventory
+	- Grab standard and oak shortbow, 500 arrows, your leg chaps
+	- Grab 15 unnoted food
+- [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
+	- Walk east to edgeville yew logs (south of bank)
+	- Find the dungeon entrance/trapdoor & enter
+	- Go south through the dungeon
+		- Find the brass key that spawns on the floor near the most south ores
+		- Pick up 2-3, hop worlds for quicker pick up
+- [ ] Walk south and safe spot Hill giants with range
+- [ ] Pick up
+	- Big Bones
+	- All iron armor and weapons
+	- All steel armor and weapons
+	- All runes
+	- All gems
+	- All Talsimins
+- [ ] When inventory is full go to west varrock bank
+	- Walk up ladder
+	- Go through door (you need a brass key)
+	- Run east to varrock bank
+	- Bank everything
+	- Get out 1 brass key and 15 food
+- [ ] Run back to hill giants from varrock
+	- travel east into the shack near the river
+	- east side of the river, north of the stone path
+	- take the ladder down
+- [ ] Rinse and repeat this cycle of killing/banking until 30 range
+	-	todo do we actually do 30? or do we do higher? we need cash more than levels probably?
 
 # 6) TODO BUY NEXT STAGE
-	- sell everything in general store
-	- buy iron armor
-	- buy air staff
-	
-	- buy range stuff to kill corsair guy?????
-	
-	- buy as many mind runes as you can
+- sell everything in general store
+- buy iron armor
+- buy air staff
+
+- buy range stuff to kill corsair guy?????
+
+- buy as many mind runes as you can
 
 # 7) todo do corsair quest
-	- use home tele
-	- run to start quest
-	- run to captain and travel to island
-	- complete quest
+- use home tele
+- run to start quest
+- run to captain and travel to island
+- complete quest
 	
 # 8) todo splashing at corsiar dock
-	- splash for the remaining of your ge time
+- splash for the remaining of your ge time
 	
 
 
