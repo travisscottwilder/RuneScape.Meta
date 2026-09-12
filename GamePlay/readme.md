@@ -7,3 +7,7 @@
     - [ ] "transparent"  >> check transparent chat & side panel
   - Click "Interfaces" on the left side menu
     - [ ] "Game Client Layout" >> Resizable - Classic Layout
+
+-------------------------------------------------------------------------------------------------------
+
+
