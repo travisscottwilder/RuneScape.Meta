@@ -11,9 +11,8 @@
    	- Go to lumbridge castle's basement (downstairs)
    		- grab: bucket, leather boots
    	 	- upstairs grab: pot 
-	- Sheer 20 sheep when you go into cow field for quest 4 
+	- Sheer 20 sheep when you go into cow field for quest 4<sup>sheers can be found at the farmers house by the egg  </sup>
 		- start sheep shearer by talking to farmer when picking up egg for cook's assistant
-  		- sheers can be found at the farmers house by the egg  
     - Complete cooks assistant
     - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
     - Go upstairs 3rd floor of lumbridge castle and grab from bank a tinderbox, wooden axe, bow, all your arrows, keep you 20 balls of whool in your invy aswell.
