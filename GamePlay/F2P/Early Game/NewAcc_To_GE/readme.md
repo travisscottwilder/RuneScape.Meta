@@ -10,10 +10,11 @@
 2. Start Cook's Assistant
    	- Go to lumbridge castle's basement (downstairs)
    		- grab: bucket, leather boots
-   	 	- upstairs grab: pot 
-	- Sheer 20 sheep when you go into cow field for quest 4<sup>sheers can be found at the farmers house by the egg  </sup>
+   	 	- upstairs grab: pot
+   	  	- Continue quest up until picking up an egg 
+	- Sheer 20 sheep when you go into cow field<sub>(for quest 4)</sub><sup>[sheers can be found at the farmers house by the egg]</sup>
 		- start sheep shearer by talking to farmer when picking up egg for cook's assistant
-    - Complete cooks assistant
+    - Run south to lumbridge castle and complete cooks assistant
     - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
     - Go upstairs 3rd floor of lumbridge castle and grab from bank a tinderbox, wooden axe, bow, all your arrows, keep you 20 balls of whool in your invy aswell.
 3. Start X Marks the Spot
@@ -52,7 +53,7 @@
 --------------------------
 
 
-# 3) GATHER 250 Food
+# 3) GATHER 200 Food
 -> go to barbarian village (west of varrock) on a populated world:
 	-> People who are "power fishing" drop their fish
 	-> if no one is dropping, you can ask if anyone does not want their fish
@@ -63,7 +64,7 @@
 -> Ideally get only cooked salmon as it is the best food and highest price
 
 # 4) Purchase First Combat Supplies
-- [ ] Go to the General store in Varrock and sell 150 of your food you just gathered
+- [ ] Go to the General store in Varrock and sell 125 of your food you just gathered
 	- Switch worlds and sell in batches of 20
 - [ ] Walk northeast into the range shop
 	- Purchase 1k bronze arrows
