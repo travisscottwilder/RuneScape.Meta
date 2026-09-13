@@ -1,6 +1,6 @@
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
-- [ ] get level 3 mining & smithing <sup>(mine 10 copper and 10 tin)</sup> 
+- [ ] get level 3 mining & smithing <sup>(mine 10 copper and 10 tin<sub>make them all bronze daggers</sub>)</sup> 
 
 --------------------------
 
