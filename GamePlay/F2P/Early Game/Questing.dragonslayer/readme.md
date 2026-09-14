@@ -19,6 +19,8 @@
 
 2) Do Dragon slayer 1
 ```
+
+<><>TODO find 5 more quest points
 	
 # 1) GE SHOPPING
 ```
