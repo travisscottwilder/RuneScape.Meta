@@ -100,9 +100,10 @@
 	- Standard shortbow
    	- Oak shortbow
    	- 500 bronze arrows
-   	- 
-	- Grab standard shortbow, oak shortbow, 500 arrows, cape, gloves, and leather body
-	- Grab 15 unnoted food
+   	- Cape
+   	- Gloves
+   	- Leather body
+	- 15 unnoted food
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
 	- Walk west to edgeville yew logs (south of bank)
 	- Find the dungeon entrance/trapdoor & enter
@@ -127,16 +128,17 @@
 	- travel east into the shack near the river
 	- east side of the river, north of the stone path
 	- take the ladder down
-- [ ] Rinse and repeat this cycle of killing/banking until 30 range
-	-	todo do we actually do 30? or do we do higher? we need cash more than levels probably?
+- [ ] Rinse and repeat this cycle of killing/banking until 40 range
 
 # 6) TODO BUY NEXT STAGE
-- sell everything in general store
+- sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
+
 - buy iron armor
+  
 - buy air staff
 
-- buy range stuff to kill corsair guy?????
-
+- buy 50 addy arrows
+  
 - buy as many mind runes as you can
 
 # 7) todo do corsair quest
