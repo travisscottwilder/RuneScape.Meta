@@ -81,22 +81,30 @@
 - [ ] Rinse and repeat until you have ~100 cooked food
 
 # 4) Purchase First Combat Supplies
-- [ ] Walk northeast into the range shop
+- [ ] Walk east-southeast of varrock square into the range shop
 	- Purchase 1k bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Standard shortbow
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
 	- Purchase 1 Maple shortbow
-- [ ] Walk north into the armor shop
+- [ ] Walk north of the ranged shop into the armor shop
 	- Purchase 1 legchaps
+- [ ] Walk to varrock square and go to the clothing shop (Thessalia)
+	- Purchase 1 cape
+   	- Purchase 1 gloves
+   	- Purchase 1 leather top
 
 # 5) Start Range Training at Hill Giants
 - [ ] Set up your inventory
-	- Grab standard and oak shortbow, 500 arrows, your leg chaps
+	- Standard shortbow
+   	- Oak shortbow
+   	- 500 bronze arrows
+   	- 
+	- Grab standard shortbow, oak shortbow, 500 arrows, cape, gloves, and leather body
 	- Grab 15 unnoted food
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
-	- Walk east to edgeville yew logs (south of bank)
+	- Walk west to edgeville yew logs (south of bank)
 	- Find the dungeon entrance/trapdoor & enter
 	- Go south through the dungeon
 		- Find the brass key that spawns on the floor near the most south ores
