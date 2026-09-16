@@ -11,8 +11,9 @@
 # QUESTTING SUMMARY
 ```
 1) PATH TO 32 QUEST POINTS
+	>> Prince Ali Rescue [ ]
 	>> Earnest the chicken  [4qp]
-	>> Corsair curse [2qp]
+	>> Pirates Treasure [ ]
 	>> Goblin Diplomacy [5qp]
 	>> black knights fortress [3qp]
 	>> demon slayer [3qp]
@@ -20,7 +21,6 @@
 2) Do Dragon slayer 1
 ```
 
-<><>TODO find 5 more quest points
 	
 # 1) GE SHOPPING
 ```
@@ -32,9 +32,11 @@ Spade 				(Ernest the Chicken)
 Iron chainbody 		(Black Knights Fortress)
 Bronze med helm 	(Black Knights Fortress)
 Cabbage 			(Black Knights Fortress)
+
+XX (Prince Ali Rescue)
 ```
 
-# 2) *STARTING INVENTORY* <sup>(be light, have no armor on)</sup>
+# 2) *STARTING INVENTORY* <sup>(wear rest range gear)</sup>
 ```
 -> 200gp
 -> wear air staff
@@ -52,24 +54,32 @@ Cabbage 			(Black Knights Fortress)
 ```
 
 # 4) Start Questing In this order
-1) Tele to lumbridge and walk to Draynor Manor (northeast)
+1) Tele to Lumbridge and walk north west to Alkarid Palace
+	- [ ] Start Prince Ali Rescue
+		- Do every step until the last step where you return to alkharid Palace
+2) Walk north to Draynor Mannor
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 	- [ ] Finish quest
-2) Walk south
-	- [ ] Start Corsair Curse quest by talking to XXX
-	- [ ] Finish quest
-3) Tele to Fallador
+3) Walk south East to Port Salmon
+	- [ ] Start Pirate's treasure <sup>Do not finish</sup>
+	- [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
+ 	- [ ] Run west to Alkarid Palace and complete Prince Ali Rescue
+4) Tele to Fallador
 	- [ ] Start and Complete Goblin Diplomacy
-4) Walk/Teleport to Fallador 
+5) Walk/Teleport to Fallador 
 	- [ ] Walk directly south to White Knights Castle (upstairs)
 	- [ ] Start Black Knights Fortress
  	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
-5) Walk/Teleport to Varrock
+6) Walk/Teleport to Varrock
 	- [ ] Start Demon Slayer by talking to Gypsy
- 	- [ ] When you teleport to lumbridge to go to the wizard's tower for Trainborn's key:
-  		- Grab a rune scimmi to kill mages for bones
-    	- Grab a few pieces of food, any range dhide armor 
-	- [ ] Finish quest
+ 	- [ ] After you receive the silverlight
+		- Stop by the Varrock pub on your way south to the black wizards altar
+			- Go up stairs of the pub
+     		- Go into the bedroom by the bed
+         	- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
+	- [ ] Finish Demon Slayer quest
+7) Teleport to Fallador
+	- [ ] Run west to the garden and finish Pirates Treasure by digging in the correct spot
 
 > [!CAUTION]
 > Dragon Slayer I quest gives you 19k defense XP. Be level 34 if you want to end at level 40 defense
