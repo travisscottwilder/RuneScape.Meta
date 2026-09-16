@@ -6,46 +6,65 @@
 
 
 # 2) IMMEDIATELY DO QUEST FIRST
-1. Bank Everything
-2. Start Cook's Assistant
-   	- Go to lumbridge castle's basement (downstairs)
-   		- grab: bucket, leather boots
-   	 	- upstairs grab: pot
-   	  	- Continue quest up until picking up an egg 
-	- Sheer 20 sheep when you go into cow field<sub>(for quest 4)</sub><sup>[sheers can be found at the farmers house by the egg]</sup>
-		- start sheep shearer by talking to farmer when picking up egg for cook's assistant
-    - Run south to lumbridge castle and complete cooks assistant
+1. Run north outside of castle, follow gray path north
+	- Go into Lumbridge pub and talk to Veos
+	- Start "X Marks the Spot" but do nothing further than start the quest
+	- Go across the gray path (west) into the local shop
+		- Sell everything except:
+			- [ ] Bucket
+         	- [ ] Pot
+            - [ ] Bronze Axe
+            - [ ] Tinderbox
+            - [ ] Bow & Arrows
+            - [ ] Bronze sword & sheild
+        - Buy 1 spade
+2. Continue Following Gray Path North -> then west
+	- Arrive at Fred the Farmer's Shack
+	- [ ] Grab 1 egg from ground
+	- [ ] Grab sheers from Fred's bench
+	- [ ] Sheer 20 sheep and get 20 wool<sup>you can drop your sheers after getting 20 wool</sup>
+	- [ ] Enable quest helper for Cook's Assistant
+		- Pick weat
+		- Make pot of flower
+		- Milk cow to get bucket of milk
+	- [ ] Run back to lumbridge castle (south)
+3. Start Cook's Assistant
+	- Complete quest
     - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
-    - Go upstairs 3rd floor of lumbridge castle and grab from bank a tinderbox, wooden axe, bow, all your arrows, keep you 20 balls of whool in your invy aswell.
-3. Start X Marks the Spot
-   	- NOTE >> is there a way to run south east of lumby in order to get rat meat from giant rat's for quest 4
+4. Resume X Marks the Spot
+   	- AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
+		- [ ] Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
    	- Complete Quest
-4. Start Witches Potion
+5. Start Witches Potion
 	-  Run north to get onion
  	-  Immediately run east to buy eye of nuewt at the mage shop at the docks
   	-  Find giant rats southeast of rimington for rat meat
-5. Finish Sheep Shearer
+6. Finish Sheep Shearer
 	- Teleport to lumb using home teleport
  	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox
   	- Complete quest by talking to farmer w\ balls  
-6. Cook Beef until you are 15 cooking
+7. Cook Beef until you are 15 cooking
 	- Run directly east and find the more common path of cows
- 	- Get 4 logs along the way by cutting down 4 trees 
+ 	- Get 5 logs along the way by cutting down 5 trees 
  	- Hop worlds to a high populated F2P world
   	- Grab beef off the ground from other player kills
    	- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
    	- Light your own fires in order to cook beef
-   	- 15 cooking will take 4 inventories of beef
+   	- 15 cooking will take ~5 inventories of beef
    	- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
-7. Get your free 10k cash & a free tele
-	- WALK back to Lumbridge castle (keep run energy > 80% we will need it) 
+8. Get your free 10k cash & a free tele
+	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
- 	- Talk to "Count check" and ask where the stronghold is and say yes you want to be teleported there
+ 	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
   	- Go down into the stronghold and make it to the center as fast as you can
    	- Always run by enemies, so if you need to pause in order for run energy to regenerate- do it
+		- plan your route from the mini map
+		- always have run, wait for generation
+		- always eat to max hp before opening a door because there is hit lag
+		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-8. Start Romeo & Juliet
+9. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
 	- Start and Complete quest
 
@@ -53,25 +72,22 @@
 --------------------------
 
 
-# 3) GATHER 200 Food
--> go to barbarian village (west of varrock) on a populated world:
-	-> People who are "power fishing" drop their fish
-	-> if no one is dropping, you can ask if anyone does not want their fish
-		-> take it cooked or raw, you will cook it if it's raw
-	-> Pick up any raw food and cook it on the fire
-	-> Bank all cooked food in Edgevile- rinse repeat
--> This food will be used both for food and to sell to the general store to gain GP
--> Ideally get only cooked salmon as it is the best food and highest price
+# 3) GATHER 100 Food at Barbarian Village
+> [!TIP]
+> People who are _power fishing_ drop their fish so they don't waste time banking
+- [ ] Pick up all raw food and cook it on the fire
+      - only bank cooked food
+- [ ] Run north to edgevile to bank
+- [ ] Rinse and repeat until you have ~100 cooked food
 
 # 4) Purchase First Combat Supplies
-- [ ] Go to the General store in Varrock and sell 125 of your food you just gathered
-	- Switch worlds and sell in batches of 20
 - [ ] Walk northeast into the range shop
 	- Purchase 1k bronze arrows
+   		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Standard shortbow
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
-	- (???) Purchase 1 Maple shortbow
+	- Purchase 1 Maple shortbow
 - [ ] Walk north into the armor shop
 	- Purchase 1 legchaps
 
