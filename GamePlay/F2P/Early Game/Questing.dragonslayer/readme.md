@@ -11,12 +11,12 @@
 # QUESTTING SUMMARY
 ```
 1) PATH TO 32 QUEST POINTS
-	>> Prince Ali Rescue [ ]
-	>> Earnest the chicken  [4qp]
-	>> Pirates Treasure [ ]
-	>> Goblin Diplomacy [5qp]
-	>> black knights fortress [3qp]
-	>> demon slayer [3qp]
+	>> Prince Ali Rescue 		[3qp]
+	>> Earnest the chicken  	[4qp]
+	>> Pirates Treasure 		[2pq]
+	>> Goblin Diplomacy 		[5qp]
+	>> black knights fortress 	[3qp]
+	>> demon slayer 			[3qp]
 
 2) Do Dragon slayer 1
 ```
