@@ -27,30 +27,52 @@
 Orange dye 			(Goblin Diplomacy)
 Blue dye 			(Goblin Diplomacy)
 
-Spade 				(Ernest the Chicken)
+Spade 				(Prince Ali Rescue/Ernest the Chicken/Pirates Treasure)
 
 Iron chainbody 		(Black Knights Fortress)
 Bronze med helm 	(Black Knights Fortress)
 Cabbage 			(Black Knights Fortress)
 
-XX (Prince Ali Rescue)
+Soft Clay 			(Prince Ali Rescue)
+x3 Ball of Wool 	(Prince Ali Rescue)
+Yellow Dye 			(Prince Ali Rescue)
+Bucket of Water 	(Prince Ali Rescue)
+Pot of Flour 		(Prince Ali Rescue)
+Ashes 				(Prince Ali Rescue)
+Redberries 			(Prince Ali Rescue)
+x3 Beer 			(Prince Ali Rescue)
+Rope 				(Prince Ali Rescue)
+Pink Skirt 			(Prince Ali Rescue)
+Bronze Bar 			(Prince Ali Rescue)
+2k Coins 			(Prince Ali Rescue)
 ```
 
 # 2) *STARTING INVENTORY* <sup>(wear rest range gear)</sup>
 ```
--> 200gp
+-> 2,000 gp
 -> wear air staff
 -> wear bronze med helm
+-> wear iron chainbody
 -> spade
 -> Orange dye
 -> Blue dye
+-> Yellow dye
 -> cabbage
--> iron chainbody
 -> Fally/Lumb/Varrock teleports
-	>> x5 law
-	>> x3 fire
-	>> x3 earth
-	>> x3 water
+	>> x7 law
+	>> x5 fire
+	>> x5 earth
+	>> x5 water
+-> Soft CLay
+-> x3 Ball of Wool (unnoted)
+-> Bucket of Water
+-> Pot of Flour
+-> Ashes
+-> Redberries
+-> x3 Beer (unnoted)
+-> Rope
+-> Pink Skirt
+-> Bronze Bar
 ```
 
 # 4) Start Questing In this order
