@@ -11,14 +11,14 @@
 	- Start "X Marks the Spot" but do nothing further than start the quest
 	- Go across the gray path (west) into the local shop
 		- Sell everything except:
-			- [ ] Bucket
-         	- [ ] Pot
+			- [ ] ~Bucket~
+         	- [ ] ~Pot~
             - [ ] Bronze Axe
             - [ ] Tinderbox
             - [ ] Bow & Arrows
             - [ ] Bronze sword & sheild
         - Buy 1 spade
-2. Continue Following Gray Path North -> then west
+2. ~Continue Following Gray Path North -> then west~
 	- Arrive at Fred the Farmer's Shack
 	- [ ] Grab 1 egg from ground
 	- [ ] Grab sheers from Fred's bench
@@ -28,7 +28,7 @@
 		- Make pot of flower
 		- Milk cow to get bucket of milk
 	- [ ] Run back to lumbridge castle (south)
-3. Start Cook's Assistant
+3. ~Start Cook's Assistant~
 	- Complete quest
     - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
 4. Resume X Marks the Spot
@@ -39,7 +39,7 @@
 	-  Run north to get onion
  	-  Immediately run east to buy eye of nuewt at the mage shop at the docks
   	-  Find giant rats southeast of rimington for rat meat
-6. Finish Sheep Shearer
+6. ~Finish Sheep Shearer~
 	- Teleport to lumb using home teleport
  	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox
   	- Complete quest by talking to farmer w\ balls  
@@ -141,13 +141,16 @@
   
 - buy as many mind runes as you can
 
-# 7) todo do corsair quest
+# 7) Do vampire slayer
+	- tele to lumbridge
+	
+# 8) Do corsair quest
 - use home tele
 - run to start quest
 - run to captain and travel to island
 - complete quest
 	
-# 8) todo splashing at corsiar dock
+# 9) todo splashing at corsiar dock
 - splash for the remaining of your ge time
 	
 
