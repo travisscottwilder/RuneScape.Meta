@@ -36,14 +36,16 @@
 		- [ ] Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
    	- Complete Quest
 5. Start Witches Potion
+	- ?? buy eye of newt first since you are at dock? then get onion? ??
+ 	- .. 
 	-  Run north to get onion
  	-  Immediately run east to buy eye of nuewt at the mage shop at the docks
   	-  Find giant rats southeast of rimington for rat meat
-6. ~Finish Sheep Shearer~
+7. ~Finish Sheep Shearer~
 	- Teleport to lumb using home teleport
  	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox
   	- Complete quest by talking to farmer w\ balls  
-7. Cook Beef until you are 15 cooking
+8. Cook Beef until you are 15 cooking
 	- Run directly east and find the more common path of cows
  	- Get 5 logs along the way by cutting down 5 trees 
  	- Hop worlds to a high populated F2P world
@@ -52,7 +54,7 @@
    	- Light your own fires in order to cook beef
    	- 15 cooking will take ~5 inventories of beef
    	- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
-8. Get your free 10k cash & a free tele
+9. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
@@ -64,7 +66,7 @@
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-9. Start Romeo & Juliet
+10. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
 	- Start and Complete quest
 
