@@ -177,7 +177,7 @@
 
 # 9) Prep Items for quests
 1) Home tele to lumbridge castle
-2) Run north following path to the smeltor
+2) Run north following path to the furnace
    - smelt 1 bronze bar
 4) Continue following the gray path north then west to Fred the Farmer's hut
 	- Grab the sheers from the table
