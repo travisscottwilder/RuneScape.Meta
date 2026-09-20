@@ -68,7 +68,7 @@
 	- Leave the stronghold and run east to varrock center
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
-		- [ ] Collect 3 redberries
+		- [ ] Collect 4 redberries
 		- [ ] Collect 1 Cadava berrie
 	- THEN walk directly east along the southern varrock wall
 		- Run past dark wizards and eat if you get hit, they can 3 hit you
