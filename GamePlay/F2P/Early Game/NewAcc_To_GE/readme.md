@@ -242,15 +242,9 @@
 - run north and complete the quest
 
 # 14) Start & Finish Goblin Diplomacy
-- [ ] We first must get blue dye
-	- Run to fallador Park
-		- Pick up x1 cabbage
-		- Talk to Wyson the gardener pick up x2 woad leaves
-	- Run to Draynor and talk to Aggie
-		- Get blue dye 
 - [ ] Complete quest like normal
 
-# 15) Walk to Fallador 
+# 15) Walk South Back to Fallador 
 	- [ ] Walk directly south of fally square to White Knights Castle (upstairs)
 	- [ ] Start Black Knights Fortress
  	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
