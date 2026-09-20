@@ -200,12 +200,9 @@
 	- [ ] Get rope talking to Ned and telling him to use wool
 # 10) Resume Alkarid Palace
 	- [ ] Do every step until the last step where you return to Alkharid Palace
-		- The first time you get into Draynor
-			- [ ] Talk with Ned to get a rope made
-			- [ ] Talk with Aggie to get Red Dye made
-			- [ ] Pick up Bronze Med Helm that spawns
 # 11) Walk north to Draynor Mannor
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
+		- get Bronze med helm from XYZ
 	- [ ] Finish quest
 	- [ ] Go into Mannor Basement and kill the Vampire
 		- Finishes Vampire slayer
