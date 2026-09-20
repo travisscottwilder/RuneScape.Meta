@@ -65,14 +65,15 @@
 	- Leave the stronghold and run east to varrock center
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
-		- [ ] Mine 1 copper
-		- [ ] Mine 1 tin
-		- [ ] Mine 1 clay
 		- [ ] Collect 3 redberries
 		- [ ] Collect 1 Cadava berrie
 	- THEN walk directly east along the southern varrock wall
 		- Run past dark wizards and eat if you get hit, they can 3 hit you
-	- Walk north into Varrock Pub
+	- Continue west until you hit the varrock southwest mining area
+		- [ ] Mine 1 copper
+		- [ ] Mine 1 tin
+		- [ ] Mine 1 clay
+	- Walk north / northeast into Varrock Pub
 		- [ ] Purchase 4 beers (3 are for future quest)
 	  	- [ ] Talk to Dr Harlow to progress vampire slayer quest, you'll get a stake from him
 	- Proceed with Romeo and Juliet quest by talking with Apothecary
