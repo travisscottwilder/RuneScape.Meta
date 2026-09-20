@@ -6,7 +6,12 @@
 
 
 # 2) IMMEDIATELY DO QUEST FIRST
-1. Run north outside of castle, follow gray path north
+1. Start Restless Ghost
+	- [ ] Run southeast into altar & start quest talking to father
+	- [ ] Run into swamp shack and get ghost speak ammulet
+	- [ ] Run back to lumbridge and alk with ghost who asks for his skull
+		- stop with this quest
+2. Run north, follow gray path north
 	- Go into Lumbridge pub and talk to Veos
 	- Start "X Marks the Spot" but do nothing further than start the quest
 	- Go across the gray path (west) into the local shop
@@ -20,7 +25,7 @@
             - [ ] Bronze sword & sheild
         - Buy 1 spade
         - Buy 1 hammer
-4. Resume X Marks the Spot
+3. Resume X Marks the Spot
    	- AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
 		- [ ] Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
     - BEFORE running to the docks to finish quest
@@ -28,7 +33,7 @@
    		- [ ] Go upstairs and get garlic
    	- Resume & Complete Quest X Marks the Spot
    		- use xp lamp on ranged
-5. Prep for Witches Potion
+4. Prep for Witches Potion
    	- Run north and get a cabbage
 	- buy eye of newt (run west to magic shop)
 	- Run north into fallador
@@ -40,7 +45,7 @@
 	- Run south to range and burn rat meat
 	- Kill rat inside house to get rat tail
 	- Start & Complete Witches Potion
-8. Cook Beef until you are 15 cooking (and start Alkarid Palace)
+5. Cook Beef until you are 15 cooking (and start Alkarid Palace)
 	- Home tele to lumb and follow gray path northwest to a Desert Gate
  		- Get 6 logs along the way by cutting down 6 trees
      	- Pass through gate and Start quest Alkarid Palace
@@ -52,7 +57,7 @@
    		- Light your own fires in order to cook beef
    		- 15 cooking will take ~4-6 inventories of beef
    		- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
-9. Get your free 10k cash & a free tele
+6. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
@@ -64,7 +69,7 @@
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-10. Start Romeo & Juliet
+7. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
@@ -160,7 +165,7 @@
 	- [ ] Iron Pl8
     - [ ] Iron Chainbody
     - [ ] Iron full legs
-- buy 40 steel arrows (ranged shop - west of varrock square)
+- buy 80 steel arrows (ranged shop - west of varrock square)
 - buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
 
 # 8) Prep inventory
@@ -180,6 +185,8 @@
 	- tin, copper, and clay
 	- ashes
 ```
+# 9) Start Demon Slayer
+	- Get the first two keys and pause this quest once you need to go to the wizards tower
 
 # 9) Prep Items for quests
 1) Home tele to lumbridge castle
@@ -203,9 +210,19 @@
 	- [ ] Get x1 Red dye made by using redberries on aggie
 		- combine one yellow and one red dye to get orange dye
 	- [ ] Get rope talking to Ned and telling him to use wool
+
 # 10) Resume Alkarid Palace
 - [ ] Do every step until the last step where you return to Alkharid Palace
 	- Once you break the prince out of jail move onto next quest
+
+# 11) Walk to Wizards Tower
+	- [ ] Resume demon slayer<sup>proceed one step</sup>
+		- Go upstairs and talk to Wizard Traiborn about Demon Slayer then ask for his key
+			- kill 25 wizards and give him bones<sub>you can give bones incrementally</sub>
+	- [ ] Then resume Restless ghost<sup>proceed one step</sup>
+		- Go downstairs into the basement
+			- Search the altar and get the skull
+
 # 11) Walk north to Draynor Mannor
 - [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
 - [ ] Go into Mannor Basement
@@ -215,6 +232,7 @@
 	- last room when leaving the banner
    	- next to the spade/door
    	- Wear the helmet
+
 # 11.5) Rebank at Draynor Bank
 - Walk south, southwest to the bank
 	- [ ] Remove everything and pull out
@@ -233,8 +251,9 @@
         - (wear) Cape
           
 		
-
 # 12) Walk south East to Port Salmon
+> [!WARNING]
+> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
 - [ ] Start Pirate's treasure <sup>Do not finish</sup>
 - [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
 
@@ -248,30 +267,36 @@
 - [ ] Run south into the White Knights Castle
 - [ ] Grab food before going into the Black Knight's fortress (step 2) 
 - [ ] Finish quest like normal
-# 16) Start Demon Slayer
-- [ ] Run north, then east to Varrock
-- [ ] Start Demon Slayer by talking to Gypsy
+
+# 16) Resume Demon Slayer
+- [ ] Run north, then east to Varrock and resume quest
 - [ ] After you receive the silverlight *STOP QUEST*
 	- Stop by the Varrock pub on your way south to the black wizards altar
 		- Go up stairs of the pub
 		- Go into the bedroom by the bed
 		- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
 - [ ] Finish Demon Slayer quest
-      
-# 17) Run to Fallador
-	- [ ] Run west to the garden and finish Pirates Treasure by digging in the correct spot
 
-# 18) Finish Alkarid Palace
-	- [ ] Use home teleport to lumbridge
-		- Follow gray path northwest over the bridge to the gate
-		- Finish quest
+# 17) Finish Prince Ali Rescue
+- [ ] Run south to Al Kharid Palace and talk with XXXX
+
+# 18) Finish Restless Ghost OR Finish Pirates Treasure
+- [ ] Tele to lumbridge
+	- Finish whichever quest your path is taking you (prayer vs no prayer)
+> [!TIP]
+> *Restless Ghost*
+> *If you are ok with level 9 prayer (1125xp) then do Restless Ghost
+> *This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
+> [!TIP]
+> *Pirates Treasure*
+> *If you do not want any prayer xp then proceed with pirates treasure quest
 
 # 19) Purchase Green dhide Vams
 	- [ ] Walk to the heros guild (southwest of varrock walls)
 		- Purchase vams for 3k
 	
 # 20) Walk To Varrock Magic Shop (south of east bank)
-	- splash for the remaining of your ge time
+	- splash for the remaining of your ge time (20 hours gametime)
 	
 
 
