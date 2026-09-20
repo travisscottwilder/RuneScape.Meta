@@ -222,6 +222,7 @@
      	- Orange dye
         - Blue dye
         - Cabbage
+        - spade
         - 10 food
         - (wear) Bronze med helm
         - (wear) Iron Chainbody
