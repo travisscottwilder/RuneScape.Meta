@@ -196,8 +196,8 @@
 			- use it on clay to make soft clay
      		- fill up bucket again
 5) Run to Draynor
-	- [ ] Get x2 yellow dyes made by talking to aggie
-	- [ ] Get rope made by talking to Ned
+	- [ ] Get x2 yellow dyes made by using onion on aggie
+	- [ ] Get rope talking to Ned and telling him to use wool
 # 10) Resume Alkarid Palace
 	- [ ] Do every step until the last step where you return to Alkharid Palace
 		- The first time you get into Draynor
