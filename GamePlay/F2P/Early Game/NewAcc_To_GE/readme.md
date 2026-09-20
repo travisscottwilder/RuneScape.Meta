@@ -31,16 +31,18 @@
 5. Prep for Witches Potion
 	- buy eye of newt (run east to magic shop)
 	- Continue running east to Onion patch
-		- [ ] Collect XXXX onions
+		- [ ] Collect 5 onions
 	- Run south to range and burn rat meat
 	- Kill rat inside house to get rat tail
 	- Talk to XX and get these dyes made
-	    - [ ] XX
-		- [ ] XXX
+	    - [ ] x2 Yellow
 	- Start & Complete Witches Potion
-8. Cook Beef until you are 15 cooking
-	- Home tele to lumb and follow gray path northwest then north to cow patch
- 		- Get 6 logs along the way by cutting down 6 trees 
+8. Cook Beef until you are 15 cooking (and start Alkarid Palace)
+	- Home tele to lumb and follow gray path northwest to a Desert Gate
+ 		- Get 6 logs along the way by cutting down 6 trees
+     	- Pass through gate and Start quest Alkarid Palace
+        	- Do the first two steps then stop quest
+   		- Walk back through the gate and follow gray path north to the cow path on the right
  	- Hop worlds to a high populated F2P world (301/308/434)
   		- Grab beef off the ground from other player kills
    		- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
@@ -99,6 +101,7 @@
 	- Purchase 1 cape
    	- Purchase 1 gloves
    	- Purchase 1 leather top
+   	- Purchase 1 Pink Skirt
 
 # 5) Start Range Training at Edgeville Men
 	- [ ] Train to level 15 ranged
@@ -150,20 +153,97 @@
 	- Sell no more than 25 of an item and then hop worlds to sell more
 - buy air staff (northeast mage shop varrock square)
 - buy iron armor (north of ranged shop - northwest of varrock square)
+	- [ ] Iron Pl8
+    - [ ] Iron Chainbody
+    - [ ] Iron full legs
 - buy 40 steel arrows (ranged shop - west of varrock square)
 - buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
 
-# 8) Do vampire slayer
-	- tele to lumbridge
-	- Run to dryanor and go into manner down stairs and kill em
+# 8) Prep inventory
+	- Best range gear + steel arrows
+		- wear ironchainbody instead of leather body
+	- Garlic
+	- 2k coins
+	- stake
+	- hammer
+	- x3 red berries
+	- x2 yellow dye
+	- bucket
+	- pot
+	- x3 beer
+	- pink skirt
+	- tin, copper, and clay
+
+# 9) Prep Items for quests
+1) Home tele to lumbridge castle
+2) Run north following path to the smeltor
+   - smelt 1 bronze bar
+4) Continue following the gray path north then west to Fred the Farmer's hut
+	- Grab the sheers from the table
+	- sheer 7 sheep
+		- drop sheers
+	- run to northwest and pick 1 wheat
+		- Run to mill and make pot of flour
+	- run to lumbridge castle 2nd floor
+		- spin the 7 wool into ball of wool
+	- go downstairs
+		- fill up bucket of water
+			- use it on clay to make soft clay
+     		- fill up bucket again
+# 10) Resume Alkarid Palace
+	- [ ] Do every step until the last step where you return to Alkharid Palace
+		- The first time you get into Draynor
+			- [ ] Talk with Ned to get a rope made
+			- [ ] Talk with Aggie to get Red Dye made
+			- [ ] Pick up Bronze Med Helm that spawns
+# 11) Walk north to Draynor Mannor
+	- [ ] Start Ernest the Chicken quest by talking to Veronica
+	- [ ] Finish quest
+	- [ ] Go into Mannor Basement and kill the Vampire
+		- Finishes Vampire slayer
+
+# 12) Walk south East to Port Salmon
+	- [ ] Start Pirate's treasure <sup>Do not finish</sup>
+	- [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
+
+# 13) Start & Complete corsair quest
+- run north and complete the quest
+
+# 14) Start & Finish Goblin Diplomacy
+	- [ ] We first must get blue dye
+		- Run to fallador Park
+			- Pick up x1 cabbage
+			- Talk to Wyson the gardener pick up x2 woad leaves
+		- Run to Draynor and talk to Aggie
+			- Get blue dye 
+	- [ ] Complete quest like normal
+
+# 15) Walk to Fallador 
+	- [ ] Walk directly south to White Knights Castle (upstairs)
+	- [ ] Start Black Knights Fortress
+ 	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
+# 16) Walk to Varrock
+	- [ ] Start Demon Slayer by talking to Gypsy
+ 	- [ ] After you receive the silverlight
+		- Stop by the Varrock pub on your way south to the black wizards altar
+			- Go up stairs of the pub
+     		- Go into the bedroom by the bed
+         	- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
+	- [ ] Finish Demon Slayer quest
+# 17) Run to Fallador
+	- [ ] Run west to the garden and finish Pirates Treasure by digging in the correct spot
+
+# 18) Finish Alkarid Palace
+	- [ ] Use home teleport to lumbridge
+		- Follow gray path northwest over the bridge to the gate
+		- Finish quest
+
+# 19) Purchase Green dhide Vams
+	- [ ] Walk to the heros guild (southwest of varrock walls)
+		- Purchase vams for 3k
 	
-# 9) Do corsair quest
-- run to start quest
-- run to captain and travel to island
-- complete quest
-	
-# 10) todo splashing at corsiar dock
-- splash for the remaining of your ge time
+# 20) Walk To Varrock Magic Shop (south of east bank)
+	- splash for the remaining of your ge time
 	
 
 
