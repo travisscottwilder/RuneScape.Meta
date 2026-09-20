@@ -164,9 +164,10 @@
 - buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
 
 # 8) Prep inventory
-	- Best range gear + steel arrows
-		- wear ironchainbody instead of leather body
-	- Garlic
+- Best range gear + steel arrows
+	- wear ironchainbody instead of leather body
+```
+  	- Garlic
 	- 2k coins
 	- stake
 	- hammer
@@ -178,6 +179,7 @@
 	- pink skirt
 	- tin, copper, and clay
 	- ashes
+```
 
 # 9) Prep Items for quests
 1) Home tele to lumbridge castle
@@ -221,14 +223,13 @@
         - Blue dye
         - Cabbage
         - 10 food
-       WEAR:
-        - Bronze med helm
-        - Iron Chainbody
-        - All steel arrows
-        - Maple Bow
-        - Studded Chaps
-        - Gloves
-        - Cape
+        - (wear) Bronze med helm
+        - (wear) Iron Chainbody
+        - (wear) All steel arrows
+        - (wear) Maple Bow
+        - (wear) Studded Chaps
+        - (wear) Gloves
+        - (wear) Cape
           
 		
 
