@@ -142,7 +142,7 @@
 	- Go through door (you need a brass key)
 	- Run east to varrock bank
 	- Bank everything
-	- Get out 1 brass key and 15 food
+	- Get out 1 brass key and 5 food
 - [ ] Run back to hill giants from varrock
 	- travel east into the shack near the river
 	- east side of the river, north of the stone path
@@ -202,42 +202,45 @@
 		- combine one yellow and one red dye to get orange dye
 	- [ ] Get rope talking to Ned and telling him to use wool
 # 10) Resume Alkarid Palace
-	- [ ] Do every step until the last step where you return to Alkharid Palace
-		- Once you break the prince out of jail move onto next quest
+- [ ] Do every step until the last step where you return to Alkharid Palace
+	- Once you break the prince out of jail move onto next quest
 # 11) Walk north to Draynor Mannor
-- [ ] Start Ernest the Chicken quest by talking to Veronica
-	- get Bronze med helm when picking up the spade in the far east room (ground level)
-- [ ] Finish quest
-- [ ] Go into Mannor Basement and kill the Vampire
-	- Finishes Vampire slayer
+- [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
+- [ ] Go into Mannor Basement
+	- Open the coffin
+   	- Kill the vampire & finish Vampire Slayer
+- [ ] Grab Bronze med helm on the way out of the manner
+	- last room when leaving the banner
+   	- next to the spade/door
+   	- Wear the helmet
 # 11.5) Rebank at Draynor Bank
-	- Walk south, southwest to the bank
-		- grab 10 food
-	- get rid of:
-		- garlic
-		- stake
-		- hammer
-		- bronze key
+- Walk south, southwest to the bank
+	- grab 10 food
+- get rid of:
+	- garlic
+	- stake
+	- hammer
+	- bronze key
 		
 
 # 12) Walk south East to Port Salmon
-	- [ ] Start Pirate's treasure <sup>Do not finish</sup>
-	- [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
+- [ ] Start Pirate's treasure <sup>Do not finish</sup>
+- [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
 
 # 13) Start & Complete corsair quest
 - run north and complete the quest
 
 # 14) Start & Finish Goblin Diplomacy
-	- [ ] We first must get blue dye
-		- Run to fallador Park
-			- Pick up x1 cabbage
-			- Talk to Wyson the gardener pick up x2 woad leaves
-		- Run to Draynor and talk to Aggie
-			- Get blue dye 
-	- [ ] Complete quest like normal
+- [ ] We first must get blue dye
+	- Run to fallador Park
+		- Pick up x1 cabbage
+		- Talk to Wyson the gardener pick up x2 woad leaves
+	- Run to Draynor and talk to Aggie
+		- Get blue dye 
+- [ ] Complete quest like normal
 
 # 15) Walk to Fallador 
-	- [ ] Walk directly south to White Knights Castle (upstairs)
+	- [ ] Walk directly south of fally square to White Knights Castle (upstairs)
 	- [ ] Start Black Knights Fortress
  	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
 # 16) Walk to Varrock
