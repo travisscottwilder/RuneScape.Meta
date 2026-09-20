@@ -196,6 +196,7 @@
 			- use it on clay to make soft clay
      		- fill up bucket again
 5) Run to Draynor
+   	- [ ] get x1 Blue dye made by using woad leaves on aggie
 	- [ ] Get x2 yellow dyes made by using onion on aggie
 	- [ ] Get x1 Red dye made by using redberries on aggie
 		- combine one yellow and one red dye to get orange dye
