@@ -154,9 +154,9 @@
 
 # 8) Do vampire slayer
 	- tele to lumbridge
+	- Run to dryanor and go into manner down stairs and kill em
 	
 # 9) Do corsair quest
-- use home tele
 - run to start quest
 - run to captain and travel to island
 - complete quest
