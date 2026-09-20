@@ -174,6 +174,7 @@
 	- x3 beer
 	- pink skirt
 	- tin, copper, and clay
+	- ashes
 
 # 9) Prep Items for quests
 1) Home tele to lumbridge castle
