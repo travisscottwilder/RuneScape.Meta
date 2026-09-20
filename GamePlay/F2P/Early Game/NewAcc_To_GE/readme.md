@@ -203,12 +203,22 @@
 	- [ ] Get rope talking to Ned and telling him to use wool
 # 10) Resume Alkarid Palace
 	- [ ] Do every step until the last step where you return to Alkharid Palace
+		- Once you break the prince out of jail move onto next quest
 # 11) Walk north to Draynor Mannor
 	- [ ] Start Ernest the Chicken quest by talking to Veronica
 		- get Bronze med helm from XYZ
 	- [ ] Finish quest
 	- [ ] Go into Mannor Basement and kill the Vampire
 		- Finishes Vampire slayer
+# 11.5) Rebank at Draynor Bank
+	- Walk south, southwest to the bank
+		- grab 10 food
+	- get rid of:
+		- garlic
+		- stake
+		- hammer
+		- bronze key
+		
 
 # 12) Walk south East to Port Salmon
 	- [ ] Start Pirate's treasure <sup>Do not finish</sup>
