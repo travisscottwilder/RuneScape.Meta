@@ -245,17 +245,19 @@
 - [ ] Complete quest like normal
 
 # 15) Start & Finish Black Knights Fortress
-	- [ ] Run south into the White Knights Castle
- 	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
-	- [ ] Finish quest like normal
-# 16) Walk to Varrock
-	- [ ] Start Demon Slayer by talking to Gypsy
- 	- [ ] After you receive the silverlight
-		- Stop by the Varrock pub on your way south to the black wizards altar
-			- Go up stairs of the pub
-     		- Go into the bedroom by the bed
-         	- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
-	- [ ] Finish Demon Slayer quest
+- [ ] Run south into the White Knights Castle
+- [ ] Grab food before going into the Black Knight's fortress (step 2) 
+- [ ] Finish quest like normal
+# 16) Start Demon Slayer
+- [ ] Run north, then east to Varrock
+- [ ] Start Demon Slayer by talking to Gypsy
+- [ ] After you receive the silverlight *STOP QUEST*
+	- Stop by the Varrock pub on your way south to the black wizards altar
+		- Go up stairs of the pub
+		- Go into the bedroom by the bed
+		- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
+- [ ] Finish Demon Slayer quest
+      
 # 17) Run to Fallador
 	- [ ] Run west to the garden and finish Pirates Treasure by digging in the correct spot
 
