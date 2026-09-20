@@ -197,6 +197,8 @@
      		- fill up bucket again
 5) Run to Draynor
 	- [ ] Get x2 yellow dyes made by using onion on aggie
+	- [ ] Get x1 Red dye made by using redberries on aggie
+		- combine one yellow and one red dye to get orange dye
 	- [ ] Get rope talking to Ned and telling him to use wool
 # 10) Resume Alkarid Palace
 	- [ ] Do every step until the last step where you return to Alkharid Palace
