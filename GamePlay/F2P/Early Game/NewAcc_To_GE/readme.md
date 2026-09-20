@@ -215,12 +215,21 @@
    	- Wear the helmet
 # 11.5) Rebank at Draynor Bank
 - Walk south, southwest to the bank
-	- grab 10 food
-- get rid of:
-	- garlic
-	- stake
-	- hammer
-	- bronze key
+	- [ ] Remove everything and pull out
+ 		- 2k coins
+     	- Orange dye
+        - Blue dye
+        - Cabbage
+        - 10 food
+       WEAR:
+        - Bronze med helm
+        - Iron Chainbody
+        - All steel arrows
+        - Maple Bow
+        - Studded Chaps
+        - Gloves
+        - Cape
+          
 		
 
 # 12) Walk south East to Port Salmon
