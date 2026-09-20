@@ -168,7 +168,7 @@
 	- stake
 	- hammer
 	- x3 red berries
-	- x2 yellow dye
+	- x4 onion
 	- bucket
 	- pot
 	- x3 beer
