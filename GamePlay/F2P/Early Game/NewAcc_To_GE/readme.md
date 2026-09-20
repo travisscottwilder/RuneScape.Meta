@@ -29,13 +29,16 @@
    	- Resume & Complete Quest X Marks the Spot
    		- use xp lamp on ranged
 5. Prep for Witches Potion
-	- buy eye of newt (run east to magic shop)
-	- Continue running east to Onion patch
-		- [ ] Collect 5 onions
+   	- Run north and get a cabbage
+	- buy eye of newt (run west to magic shop)
+	- Run north into fallador
+		- Run to fallador Park
+         	- [ ] Get x2 Wood leaves from Wyson the gardener (15 coins each)
+	- Follow the gray path south back towards the magic shop
+		- Go directly west once the path T's
+			- [ ] Collect 5 onions
 	- Run south to range and burn rat meat
 	- Kill rat inside house to get rat tail
-	- Talk to XX and get these dyes made
-	    - [ ] x2 Yellow
 	- Start & Complete Witches Potion
 8. Cook Beef until you are 15 cooking (and start Alkarid Palace)
 	- Home tele to lumb and follow gray path northwest to a Desert Gate
@@ -192,6 +195,9 @@
 		- fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
+5) Run to Draynor
+	- [ ] Get x2 yellow dyes made by talking to aggie
+	- [ ] Get rope made by talking to Ned
 # 10) Resume Alkarid Palace
 	- [ ] Do every step until the last step where you return to Alkharid Palace
 		- The first time you get into Draynor
