@@ -14,6 +14,7 @@
 			- [ ] Bucket
          	- [ ] Pot
             - [ ] Bronze Axe
+            - [ ] Bronze pickaxe
             - [ ] Tinderbox
             - [ ] Bow & Arrows
             - [ ] Bronze sword & sheild
