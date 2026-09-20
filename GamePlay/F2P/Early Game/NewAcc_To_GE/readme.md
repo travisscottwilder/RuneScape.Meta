@@ -205,11 +205,11 @@
 	- [ ] Do every step until the last step where you return to Alkharid Palace
 		- Once you break the prince out of jail move onto next quest
 # 11) Walk north to Draynor Mannor
-	- [ ] Start Ernest the Chicken quest by talking to Veronica
-		- get Bronze med helm from XYZ
-	- [ ] Finish quest
-	- [ ] Go into Mannor Basement and kill the Vampire
-		- Finishes Vampire slayer
+- [ ] Start Ernest the Chicken quest by talking to Veronica
+	- get Bronze med helm when picking up the spade in the far east room (ground level)
+- [ ] Finish quest
+- [ ] Go into Mannor Basement and kill the Vampire
+	- Finishes Vampire slayer
 # 11.5) Rebank at Draynor Bank
 	- Walk south, southwest to the bank
 		- grab 10 food
