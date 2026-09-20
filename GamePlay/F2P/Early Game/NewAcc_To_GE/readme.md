@@ -11,49 +11,41 @@
 	- Start "X Marks the Spot" but do nothing further than start the quest
 	- Go across the gray path (west) into the local shop
 		- Sell everything except:
-			- [ ] ~Bucket~
-         	- [ ] ~Pot~
+			- [ ] Bucket
+         	- [ ] Pot
             - [ ] Bronze Axe
             - [ ] Tinderbox
             - [ ] Bow & Arrows
             - [ ] Bronze sword & sheild
         - Buy 1 spade
-2. ~Continue Following Gray Path North -> then west~
-	- Arrive at Fred the Farmer's Shack
-	- [ ] Grab 1 egg from ground
-	- [ ] Grab sheers from Fred's bench
-	- [ ] Sheer 20 sheep and get 20 wool<sup>you can drop your sheers after getting 20 wool</sup>
-	- [ ] Enable quest helper for Cook's Assistant
-		- Pick weat
-		- Make pot of flower
-		- Milk cow to get bucket of milk
-	- [ ] Run back to lumbridge castle (south)
-3. ~Start Cook's Assistant~
-	- Complete quest
-    - Now go to 2nd floor of castle and use wool on spinning wheel for all 20 balls
+        - Buy 1 hammer
 4. Resume X Marks the Spot
    	- AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
 		- [ ] Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
-   	- Complete Quest
-5. Start Witches Potion
-	- ?? buy eye of newt first since you are at dock? then get onion? ??
- 	- .. 
-	-  Run north to get onion
- 	-  Immediately run east to buy eye of nuewt at the mage shop at the docks
-  	-  Find giant rats southeast of rimington for rat meat
-7. ~Finish Sheep Shearer~
-	- Teleport to lumb using home teleport
- 	- Walk north to farmer w\ balls of whool, an axe, and a tinderbox
-  	- Complete quest by talking to farmer w\ balls  
+    - BEFORE running to the docks to finish quest
+   		- [ ] Start vampire slayer quest
+   		- [ ] Go upstairs and get garlic
+   	- Resume & Complete Quest X Marks the Spot
+   		- use xp lamp on ranged
+5. Prep for Witches Potion
+	- buy eye of newt (run east to magic shop)
+	- Continue running east to Onion patch
+		- [ ] Collect XXXX onions
+	- Run south to range and burn rat meat
+	- Kill rat inside house to get rat tail
+	- Talk to XX and get these dyes made
+	    - [ ] XX
+		- [ ] XXX
+	- Start & Complete Witches Potion
 8. Cook Beef until you are 15 cooking
-	- Run directly east and find the more common path of cows
- 	- Get 5 logs along the way by cutting down 5 trees 
- 	- Hop worlds to a high populated F2P world
-  	- Grab beef off the ground from other player kills
-   	- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
-   	- Light your own fires in order to cook beef
-   	- 15 cooking will take ~5 inventories of beef
-   	- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
+	- Home tele to lumb and follow gray path northwest then north to cow patch
+ 		- Get 6 logs along the way by cutting down 6 trees 
+ 	- Hop worlds to a high populated F2P world (301/308/434)
+  		- Grab beef off the ground from other player kills
+   		- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
+   		- Light your own fires in order to cook beef
+   		- 15 cooking will take ~4-6 inventories of beef
+   		- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
 9. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
@@ -68,8 +60,19 @@
 	- Make it all the way to the fourth floor and get yourself boots
 10. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
-	- Start and Complete quest
-
+	- Start and progress until talking to father in the altar
+	- When collecting Cadava berries southwest of varrock walls:
+		- [ ] Mine 1 copper
+		- [ ] Mine 1 tin
+		- [ ] Mine 1 clay
+		- [ ] Collect 3 redberries
+		- [ ] Collect 1 Cadava berrie
+	- THEN walk directly east along the southern varrock wall
+		- Run past dark wizards and eat if you get hit, they can 3 hit you
+	- Walk north into Varrock Pub
+		- [ ] Purchase 4 beers (3 are for future quest)
+	  	- [ ] Talk to Dr Harlow to progress vampire slayer quest, you'll get a stake from him
+	- Proceed with Romeo and Juliet quest by talking with Apothecary
 
 --------------------------
 
@@ -84,9 +87,8 @@
 
 # 4) Purchase First Combat Supplies
 - [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 1k bronze arrows
+	- Purchase 2500 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
-	- Purchase 1 Standard shortbow
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
 	- Purchase 1 Maple shortbow
@@ -97,15 +99,23 @@
    	- Purchase 1 gloves
    	- Purchase 1 leather top
 
-# 5) Start Range Training at Hill Giants
-- [ ] Set up your inventory
-	- Standard shortbow
-   	- Oak shortbow
-   	- 500 bronze arrows
-   	- Cape
-   	- Gloves
-   	- Leather body
-	- 15 unnoted food
+# 5) Start Range Training at Edgeville Men
+	- [ ] Train to level 15 ranged
+		- Pick up:
+			- Arrows
+			- Energy potions
+			- Runes
+	- [ ] Set up your inventory
+		- Standard shortbow
+	   	- Oak shortbow
+	   	- All bronze arrows
+	   	- Cape
+	   	- Gloves
+	   	- Leather body
+		- 15 unnoted food
+	- Located north of Edgeville bank
+
+# 6) Start Range Training at Hill Giants
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
 	- Walk west to edgeville yew logs (south of bank)
 	- Find the dungeon entrance/trapdoor & enter
@@ -114,12 +124,11 @@
 		- Pick up 2-3, hop worlds for quicker pick up
 - [ ] Walk south and safe spot Hill giants with range
 - [ ] Pick up
-	- Big Bones
+	- Coins
 	- All iron armor and weapons
 	- All steel armor and weapons
 	- All runes
 	- All gems
-	- All Talsimins
 - [ ] When inventory is full go to west varrock bank
 	- Walk up ladder
 	- Go through door (you need a brass key)
@@ -130,29 +139,29 @@
 	- travel east into the shack near the river
 	- east side of the river, north of the stone path
 	- take the ladder down
-- [ ] Rinse and repeat this cycle of killing/banking until 40 range
+- [ ] Hop to a populated world (301/308) and pick up other people's runes/Iron/Steel items while you kill your own ogress
+- [ ] Rinse and repeat this cycle of killing/banking until all your bronze arrows are used up
+	- Make sure to pick up arrow piles. You do not need to pick up every arrow but pick most up
+   	- You'll end with ~45 ranged level
 
-# 6) TODO BUY NEXT STAGE
+# 7) BUY PHASE 2 - Varrock
 - sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
+	- Sell no more than 25 of an item and then hop worlds to sell more
+- buy air staff (northeast mage shop varrock square)
+- buy iron armor (north of ranged shop - northwest of varrock square)
+- buy 40 steel arrows (ranged shop - west of varrock square)
+- buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
 
-- buy iron armor
-  
-- buy air staff
-
-- buy 50 addy arrows
-  
-- buy as many mind runes as you can
-
-# 7) Do vampire slayer
+# 8) Do vampire slayer
 	- tele to lumbridge
 	
-# 8) Do corsair quest
+# 9) Do corsair quest
 - use home tele
 - run to start quest
 - run to captain and travel to island
 - complete quest
 	
-# 9) todo splashing at corsiar dock
+# 10) todo splashing at corsiar dock
 - splash for the remaining of your ge time
 	
 
