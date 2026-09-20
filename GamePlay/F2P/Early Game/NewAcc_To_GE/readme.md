@@ -244,10 +244,10 @@
 # 14) Start & Finish Goblin Diplomacy
 - [ ] Complete quest like normal
 
-# 15) Walk South Back to Fallador 
-	- [ ] Walk directly south of fally square to White Knights Castle (upstairs)
-	- [ ] Start Black Knights Fortress
+# 15) Start & Finish Black Knights Fortress
+	- [ ] Run south into the White Knights Castle
  	- [ ] Grab food before going into the Black Knight's fortress (step 2) 
+	- [ ] Finish quest like normal
 # 16) Walk to Varrock
 	- [ ] Start Demon Slayer by talking to Gypsy
  	- [ ] After you receive the silverlight
