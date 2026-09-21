@@ -289,11 +289,12 @@
 	- Finish whichever quest your path is taking you (prayer vs no prayer)
 > [!TIP]
 > *Restless Ghost*
-> *If you are ok with level 9 prayer (1125xp) then do Restless Ghost
-> *This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
+> - If you are ok with level 9 prayer (1125xp) then do Restless Ghost
+> - This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
+
 > [!TIP]
 > *Pirates Treasure*
-> *If you do not want any prayer xp then proceed with pirates treasure quest
+> - If you do not want any prayer xp then proceed with pirates treasure quest
 
 # 22) Purchase Green dhide Vams
 	- [ ] Walk to the heros guild (southwest of varrock walls)
