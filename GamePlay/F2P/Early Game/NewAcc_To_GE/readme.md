@@ -99,9 +99,11 @@
 - [ ] Run north to edgevile to bank
 - [ ] Rinse and repeat until you have ~100 cooked food
 
+--------------------------
+
 # 4) Purchase First Combat Supplies
 - [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 2500 bronze arrows
+	- Purchase 2000 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
@@ -113,6 +115,8 @@
    	- Purchase 1 gloves
    	- Purchase 1 leather top
    	- Purchase 1 Pink Skirt
+
+--------------------------
 
 # 5) Start Range Training at Edgeville Men
 	- [ ] Train to level 15 ranged
@@ -129,6 +133,8 @@
 	   	- Leather body
 		- 15 unnoted food
 	- Located north of Edgeville bank
+
+--------------------------
 
 # 6) Start Range Training at Hill Giants
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
@@ -159,6 +165,8 @@
 	- Make sure to pick up arrow piles. You do not need to pick up every arrow but pick most up
    	- You'll end with ~45 ranged level
 
+--------------------------
+
 # 7) BUY PHASE 2 - Varrock
 - sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
 	- Sell no more than 25 of an item and then hop worlds to sell more
@@ -169,6 +177,8 @@
     - [ ] Iron full legs
 - buy 80 steel arrows (ranged shop - west of varrock square)
 - buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
+
+--------------------------
 
 # 8) Prep inventory
 - Best range gear + steel arrows
@@ -187,8 +197,13 @@
 	- tin, copper, and clay
 	- ashes
 ```
+
+--------------------------
+
 # 9) Start Demon Slayer
 - Get the first two keys and pause this quest once you need to go to the wizards tower
+
+--------------------------
 
 # 10) Prep Items for quests
 1) Home tele to lumbridge castle
@@ -213,9 +228,13 @@
 		- combine one yellow and one red dye to get orange dye
 	- [ ] Get rope talking to Ned and telling him to use wool
 
+--------------------------
+
 # 11) Resume Alkarid Palace
 - [ ] Do every step until the last step where you return to Alkharid Palace
 	- Once you break the prince out of jail move onto next quest
+
+--------------------------
 
 # 12) Walk to Wizards Tower
 - [ ] Resume demon slayer<sup>proceed one step</sup>
@@ -224,6 +243,8 @@
 - [ ] Then resume Restless ghost<sup>proceed one step</sup>
 	- Go downstairs into the basement
 		- Search the altar and get the skull
+
+--------------------------
 
 # 13) Walk north to Draynor Mannor
 - [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
@@ -234,6 +255,8 @@
 	- last room when leaving the banner
    	- next to the spade/door
    	- Wear the helmet
+
+--------------------------
 
 # 14) Rebank at Draynor Bank
 - Walk south, southwest to the bank
@@ -251,7 +274,8 @@
         - (wear) Studded Chaps
         - (wear) Gloves
         - (wear) Cape
-          
+ 
+--------------------------         
 		
 # 15) Walk south East to Port Salmon
 > [!WARNING]
@@ -259,16 +283,24 @@
 - [ ] Start Pirate's treasure <sup>Do not finish</sup>
 - [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
 
+--------------------------
+
 # 16) Start & Complete corsair quest
 - run north and complete the quest
 
+--------------------------
+
 # 17) Start & Finish Goblin Diplomacy
 - [ ] Complete quest like normal
+
+--------------------------
 
 # 18) Start & Finish Black Knights Fortress
 - [ ] Run south into the White Knights Castle
 - [ ] Grab food before going into the Black Knight's fortress (step 2) 
 - [ ] Finish quest like normal
+
+--------------------------
 
 # 19) Resume Demon Slayer
 - [ ] Run north, then east to Varrock and resume quest
@@ -281,8 +313,12 @@
 		- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
 - [ ] Finish Demon Slayer quest
 
+--------------------------
+
 # 20) Finish Prince Ali Rescue
 - [ ] Run south to Al Kharid Palace and talk with XXXX
+
+--------------------------
 
 # 21) Finish Restless Ghost OR Finish Pirates Treasure
 - [ ] Tele to lumbridge
@@ -296,14 +332,24 @@
 > *Pirates Treasure*
 > - If you do not want any prayer xp then proceed with pirates treasure quest
 
-# 22) Purchase Green dhide Vams
+--------------------------
+
+# 22) Purchase Green dhide + coif
 - [ ] Walk to the heros guild (southwest of varrock walls)
 	- Purchase vams for 3k
-	
-# 23) Walk To Varrock Magic Shop (south of east bank)
-- splash for the remaining of your ge time (20 hours gametime)
-- can buy more runes since you have money from quests
-	
+   	- Purchase chaps for 4k
+   	- Purchase coif for 1k
+
+--------------------------
+
+# 23) Travel to Corsair
+	- Splash all your mind runes on seagulls using full iron + green vam braces
+	- Then kill ogress until time runs out
+		- pick up everything but
+			- big bones
+			- limpwurt roots
+
+--------------------------
 
 
 
@@ -319,5 +365,12 @@
 
 
 
+--------------------------
 
+
+
+
+
+
+--------------------------
 
