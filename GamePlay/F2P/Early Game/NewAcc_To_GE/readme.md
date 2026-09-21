@@ -4,60 +4,62 @@
 
 --------------------------
 
-
 # 2) IMMEDIATELY DO QUEST FIRST
 1. Start Restless Ghost
-	- [ ] Run southeast into altar & start quest talking to father
-	- [ ] Run into swamp shack and get ghost speak ammulet
-	- [ ] Run back to lumbridge and alk with ghost who asks for his skull
-		- stop with this quest
-2. Run north, follow gray path north
-	- Go into Lumbridge pub and talk to Veos
-	- Start "X Marks the Spot" but do nothing further than start the quest
-	- Go across the gray path (west) into the local shop
-		- Sell everything except:
-			- [ ] Bucket
-         	- [ ] Pot
-            - [ ] Bronze Axe
-            - [ ] Bronze pickaxe
-            - [ ] Tinderbox
-            - [ ] Bow & Arrows
-            - [ ] Bronze sword & sheild
-        - Buy 1 spade
-        - Buy 1 hammer
-3. Resume X Marks the Spot
-   	- AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
-		- [ ] Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
-    - BEFORE running to the docks to finish quest
-   		- [ ] Start vampire slayer quest
-   		- [ ] Go upstairs and get garlic
-   	- Resume & Complete Quest X Marks the Spot
+- [ ] Run southeast into altar & start quest talking to father
+- [ ] Run into swamp shack and get ghost speak ammulet
+- [ ] Run back to lumbridge and talk with ghost who asks for his skull
+	- stop with this quest
+2. Start X Marks the Spot
+- Run north, follow gray path north
+- Go into Lumbridge pub and talk to Veos
+- Start "X Marks the Spot"
+- Go across the gray path (west) into the local shop
+	- [ ] Sell everything except:
+		- Bucket
+		- Pot
+		- Bronze Axe
+		- Bronze pickaxe
+		- Tinderbox
+		- Bow & Arrows
+		- Bronze sword & sheild
+	- [ ] Buy 1 spade
+	- [ ] Buy 1 hammer
+4. Resume X Marks the Spot
+   	- [ ] AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
+		- Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
+   	- [ ] Run east to draynor and start vampire slayer
+  		- Go upstairs and get garlic (Step 2)
+   	- [ ] Resume & Complete Quest X Marks the Spot
    		- use xp lamp on ranged
-4. Prep for Witches Potion
-   	- Run north and get a cabbage
-	- buy eye of newt (run west to magic shop)
-	- Run north into fallador
+5. Prep for Witches Potion
+   	- Pick a Cabbage (Run north)
+	- Buy eye of newt (run west to magic shop)
+	- Get x2 Woad Leaves
+ 		- Run north into fallador
 		- Run to fallador Park
          	- [ ] Get x2 Wood leaves from Wyson the gardener (15 coins each)
 	- Follow the gray path south back towards the magic shop
 		- Go directly west once the path T's
 			- [ ] Collect 5 onions
-	- Run south to range and burn rat meat
+	- Run south to range and burn rat meat<sup>if you cook the meat, use cooked meat on range to burn</sup>
 	- Kill rat inside house to get rat tail
 	- Start & Complete Witches Potion
-5. Cook Beef until you are 15 cooking (and start Alkarid Palace)
+6. Start Prince Ali Rescue
 	- Home tele to lumb and follow gray path northwest to a Desert Gate
  		- Get 6 logs along the way by cutting down 6 trees
-     	- Pass through gate and Start quest Alkarid Palace
+     	- Pass through gate and go to Alkarid Palace
         	- Do the first two steps then stop quest
-   		- Walk back through the gate and follow gray path north to the cow path on the right
+7. Cook Beef until you are 15 cooking
+	- Walk back through the gate and follow gray path north to the cow path on the right
  	- Hop worlds to a high populated F2P world (301/308/434)
   		- Grab beef off the ground from other player kills
    		- Cook beef, drop all burnt and cooked beef on the ground in order to pick up more raw beef
    		- Light your own fires in order to cook beef
    		- 15 cooking will take ~4-6 inventories of beef
    		- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
-6. Get your free 10k cash & a free tele
+     - *Grab ashes from one of your fires*<sup>for future quest</sup>
+8. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
@@ -69,7 +71,7 @@
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-7. Start Romeo & Juliet
+9. Start Romeo & Juliet
 	- Leave the stronghold and run east to varrock center
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
@@ -85,9 +87,9 @@
 		- [ ] Purchase 4 beers (3 are for future quest)
 	  	- [ ] Talk to Dr Harlow to progress vampire slayer quest, you'll get a stake from him
 	- Proceed with Romeo and Juliet quest by talking with Apothecary
+   	- Finish Romeo and Juliet
 
 --------------------------
-
 
 # 3) GATHER 100 Food at Barbarian Village
 > [!TIP]
@@ -297,6 +299,7 @@
 	
 # 20) Walk To Varrock Magic Shop (south of east bank)
 	- splash for the remaining of your ge time (20 hours gametime)
+	- can buy more runes since you have money from quests
 	
 
 
