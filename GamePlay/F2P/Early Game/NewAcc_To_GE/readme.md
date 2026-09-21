@@ -6,25 +6,25 @@
 
 # 2) IMMEDIATELY DO QUEST FIRST
 1. Start Restless Ghost
-- [ ] Run southeast into altar & start quest talking to father
-- [ ] Run into swamp shack and get ghost speak ammulet
-- [ ] Run back to lumbridge and talk with ghost who asks for his skull
+	- [ ] Run southeast into altar & start quest talking to father
+	- [ ] Run into swamp shack and get ghost speak ammulet
+	- [ ] Run back to lumbridge and talk with ghost who asks for his skull
 	- stop with this quest
 2. Start X Marks the Spot
-- Run north, follow gray path north
-- Go into Lumbridge pub and talk to Veos
-- Start "X Marks the Spot"
-- Go across the gray path (west) into the local shop
-	- [ ] Sell everything except:
-		- Bucket
-		- Pot
-		- Bronze Axe
-		- Bronze pickaxe
-		- Tinderbox
-		- Bow & Arrows
-		- Bronze sword & sheild
-	- [ ] Buy 1 spade
-	- [ ] Buy 1 hammer
+	- Run north, follow gray path north
+	- Go into Lumbridge pub and talk to Veos
+	- Start "X Marks the Spot"
+	- Go across the gray path (west) into the local shop
+		- [ ] Sell everything except:
+			- Bucket
+			- Pot
+			- Bronze Axe
+			- Bronze pickaxe
+			- Tinderbox
+			- Bow & Arrows
+			- Bronze sword & sheild
+		- [ ] Buy 1 spade
+		- [ ] Buy 1 hammer
 4. Resume X Marks the Spot
    	- [ ] AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
 		- Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
