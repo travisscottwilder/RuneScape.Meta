@@ -10,4 +10,5 @@
 
 -------------------------------------------------------------------------------------------------------
 
-
+# Create a new Account
+https://account.runescape.com/en-GB/game?modal=create
