@@ -188,9 +188,9 @@
 	- ashes
 ```
 # 9) Start Demon Slayer
-	- Get the first two keys and pause this quest once you need to go to the wizards tower
+- Get the first two keys and pause this quest once you need to go to the wizards tower
 
-# 9) Prep Items for quests
+# 10) Prep Items for quests
 1) Home tele to lumbridge castle
 2) Run north following path to the furnace
    - smelt 1 bronze bar
@@ -213,19 +213,19 @@
 		- combine one yellow and one red dye to get orange dye
 	- [ ] Get rope talking to Ned and telling him to use wool
 
-# 10) Resume Alkarid Palace
+# 11) Resume Alkarid Palace
 - [ ] Do every step until the last step where you return to Alkharid Palace
 	- Once you break the prince out of jail move onto next quest
 
-# 11) Walk to Wizards Tower
-	- [ ] Resume demon slayer<sup>proceed one step</sup>
-		- Go upstairs and talk to Wizard Traiborn about Demon Slayer then ask for his key
-			- kill 25 wizards and give him bones<sub>you can give bones incrementally</sub>
-	- [ ] Then resume Restless ghost<sup>proceed one step</sup>
-		- Go downstairs into the basement
-			- Search the altar and get the skull
+# 12) Walk to Wizards Tower
+- [ ] Resume demon slayer<sup>proceed one step</sup>
+	- Go upstairs and talk to Wizard Traiborn about Demon Slayer then ask for his key
+		- kill 25 wizards and give him bones<sub>you can give bones incrementally</sub>
+- [ ] Then resume Restless ghost<sup>proceed one step</sup>
+	- Go downstairs into the basement
+		- Search the altar and get the skull
 
-# 11) Walk north to Draynor Mannor
+# 13) Walk north to Draynor Mannor
 - [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
 - [ ] Go into Mannor Basement
 	- Open the coffin
@@ -235,7 +235,7 @@
    	- next to the spade/door
    	- Wear the helmet
 
-# 11.5) Rebank at Draynor Bank
+# 14) Rebank at Draynor Bank
 - Walk south, southwest to the bank
 	- [ ] Remove everything and pull out
  		- 2k coins
@@ -253,36 +253,38 @@
         - (wear) Cape
           
 		
-# 12) Walk south East to Port Salmon
+# 15) Walk south East to Port Salmon
 > [!WARNING]
 > ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
 - [ ] Start Pirate's treasure <sup>Do not finish</sup>
 - [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
 
-# 13) Start & Complete corsair quest
+# 16) Start & Complete corsair quest
 - run north and complete the quest
 
-# 14) Start & Finish Goblin Diplomacy
+# 17) Start & Finish Goblin Diplomacy
 - [ ] Complete quest like normal
 
-# 15) Start & Finish Black Knights Fortress
+# 18) Start & Finish Black Knights Fortress
 - [ ] Run south into the White Knights Castle
 - [ ] Grab food before going into the Black Knight's fortress (step 2) 
 - [ ] Finish quest like normal
 
-# 16) Resume Demon Slayer
+# 19) Resume Demon Slayer
 - [ ] Run north, then east to Varrock and resume quest
 - [ ] After you receive the silverlight *STOP QUEST*
+	> [!WARNING]
+	> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
 	- Stop by the Varrock pub on your way south to the black wizards altar
 		- Go up stairs of the pub
 		- Go into the bedroom by the bed
 		- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
 - [ ] Finish Demon Slayer quest
 
-# 17) Finish Prince Ali Rescue
+# 20) Finish Prince Ali Rescue
 - [ ] Run south to Al Kharid Palace and talk with XXXX
 
-# 18) Finish Restless Ghost OR Finish Pirates Treasure
+# 21) Finish Restless Ghost OR Finish Pirates Treasure
 - [ ] Tele to lumbridge
 	- Finish whichever quest your path is taking you (prayer vs no prayer)
 > [!TIP]
@@ -293,11 +295,11 @@
 > *Pirates Treasure*
 > *If you do not want any prayer xp then proceed with pirates treasure quest
 
-# 19) Purchase Green dhide Vams
+# 22) Purchase Green dhide Vams
 	- [ ] Walk to the heros guild (southwest of varrock walls)
 		- Purchase vams for 3k
 	
-# 20) Walk To Varrock Magic Shop (south of east bank)
+# 23) Walk To Varrock Magic Shop (south of east bank)
 	- splash for the remaining of your ge time (20 hours gametime)
 	- can buy more runes since you have money from quests
 	
