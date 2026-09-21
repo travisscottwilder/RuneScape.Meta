@@ -297,12 +297,12 @@
 > - If you do not want any prayer xp then proceed with pirates treasure quest
 
 # 22) Purchase Green dhide Vams
-	- [ ] Walk to the heros guild (southwest of varrock walls)
-		- Purchase vams for 3k
+- [ ] Walk to the heros guild (southwest of varrock walls)
+	- Purchase vams for 3k
 	
 # 23) Walk To Varrock Magic Shop (south of east bank)
-	- splash for the remaining of your ge time (20 hours gametime)
-	- can buy more runes since you have money from quests
+- splash for the remaining of your ge time (20 hours gametime)
+- can buy more runes since you have money from quests
 	
 
 
