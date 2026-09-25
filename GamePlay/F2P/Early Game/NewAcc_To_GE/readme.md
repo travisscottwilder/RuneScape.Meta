@@ -247,17 +247,26 @@
 			- use it on clay to make soft clay
      		- fill up bucket again
 4) Run to Draynor
-   	- [ ] get x1 Blue dye made by using woad leaves on aggie
-	- [ ] Get x2 yellow dyes made by using onion on aggie
-	- [ ] Get x1 Red dye made by using redberries on aggie
-		- combine one yellow and one red dye to get orange dye
-	- [ ] Get rope talking to Ned and telling him to use wool
+	- Talk with Aggie
+		- [ ] Get skin paste made
+		- [ ] Use woad leave on Aggie -> x1 blue dye
+		- [ ] Use onion on Aggie -> x2 yellow dyes
+		- [ ] Use Redberries on Aggie -> x1 red dye
+	- Combine a red and yellow dye to get an orange dye
+	- Talk with Ned
+		- [ ] Purchase a rope
+		- [ ] Have him make you a wig
+ 	- Use yellow dye on wig
+	- Rebank
+		- [ ] Get 15 food
+		- [ ] Get 2 energy potions (if you have them)
 
 --------------------------
 
-# 11) Resume Alkarid Palace
+# 11) Resume Prince Ali Rescue
 - [ ] Do every step until the last step where you return to Alkharid Palace
 	- Once you break the prince out of jail move onto next quest
+   	- You can destroy the bronze key now
 
 --------------------------
 
@@ -265,6 +274,7 @@
 - [ ] Resume demon slayer<sup>proceed one step</sup>
 	- Go upstairs and talk to Wizard Traiborn about Demon Slayer then ask for his key
 		- kill 25 wizards and give him bones<sub>you can give bones incrementally</sub>
+		- Pick up leather boots & wear them
 - [ ] Then resume Restless ghost<sup>proceed one step</sup>
 	- Go downstairs into the basement
 		- Search the altar and get the skull
@@ -272,6 +282,10 @@
 --------------------------
 
 # 13) Walk north to Draynor Mannor
+- [ ] Stop by bank while walking north
+	- Bank all runes/blue robes
+   	- Get 5 food
+   	- Grab any additional energy potions you have
 - [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
 - [ ] Go into Mannor Basement
 	- Open the coffin
@@ -280,6 +294,10 @@
 	- last room when leaving the banner
    	- next to the spade/door
    	- Wear the helmet
+- [ ] Drop items
+	- Stake
+   	- Garlic
+   	- "key"
 
 --------------------------
 
@@ -311,7 +329,7 @@
 --------------------------
 
 # 16) Start & Complete corsair quest
-- run north and complete the quest
+- Travel back to mainland after completion
 
 --------------------------
 
@@ -321,14 +339,24 @@
 --------------------------
 
 # 18) Start & Finish Black Knights Fortress
-- [ ] Run south into the White Knights Castle
-- [ ] Grab food before going into the Black Knight's fortress (step 2) 
 - [ ] Finish quest like normal
 
 --------------------------
 
 # 19) Resume Demon Slayer
-- [ ] Run north, then east to Varrock and resume quest
+- [ ] Run north, then east to Varrock bank
+	- Pick up
+		- [ ] All Coins
+        - [ ] All three special keys
+        - [ ] 5-10 food
+
+		> [!TIP]
+  		> IF YOU ARE NOT GETTING PRAYER:
+  			- [ ] key for pirates treasure
+  		> [!TIP]
+  		> ELSE
+  			- [ ] Skull
+  			- [ ] Ghostspeak amulet
 - [ ] After you receive the silverlight *STOP QUEST*
 	> [!WARNING]
 	> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
@@ -346,8 +374,7 @@
 --------------------------
 
 # 21) Finish Restless Ghost OR Finish Pirates Treasure
-- [ ] Tele to lumbridge
-	- Finish whichever quest your path is taking you (prayer vs no prayer)
+- Finish whichever quest your path is taking you (prayer vs no prayer)
 > [!TIP]
 > *Restless Ghost*
 > - If you are ok with level 9 prayer (1125xp) then do Restless Ghost
@@ -368,11 +395,12 @@
 --------------------------
 
 # 23) Travel to Corsair
-	- Splash all your mind runes on seagulls using full iron + green vam braces
-	- Then kill ogress until time runs out
-		- pick up everything but
-			- big bones
-			- limpwurt roots
+- Use Home Tele
+- Splash all your mind runes on seagulls using full iron + green vam braces
+- Then kill ogress until time runs out
+	- pick up everything but
+		- big bones
+		- limpwurt roots
 
 --------------------------
 
