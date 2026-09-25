@@ -99,13 +99,11 @@
 
 # 3) Purchase First Combat Supplies
 - [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 2500 bronze arrows
+	- Purchase 2600 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
 	- Purchase 1 Maple shortbow
-   	- Purchase 1 crossbow
-   	- Purchase 500 bronze bolts
 - [ ] Walk north of the ranged shop into the armor shop
 	- Purchase 1 legchaps
 - [ ] Walk to varrock square and go to the clothing shop (Thessalia)
@@ -195,7 +193,7 @@
 	- [ ] Iron Pl8
     - [ ] Iron Chainbody
     - [ ] Iron full legs
-- buy 450 iron arrows (ranged shop - west of varrock square)
+- buy 1000 iron arrows (ranged shop - west of varrock square) <sup>Buy in sets of 200 then hop</sup>
 - buy 5k mind runes (south of varrock's east bank)<sup>Buy 50 mind rune packs in batches of 20 then hop</sup>
 
 --------------------------
@@ -391,6 +389,7 @@
 	- Purchase vams for 3k
    	- Purchase chaps for 4k
    	- Purchase coif for 1k
+- [ ] Start Dragon Slayer 1 (don't do any steps)
 
 --------------------------
 
