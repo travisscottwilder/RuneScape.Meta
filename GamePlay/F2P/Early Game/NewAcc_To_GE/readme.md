@@ -7,8 +7,8 @@
 # 2) IMMEDIATELY DO QUEST FIRST
 1. Start Restless Ghost
 	- [ ] Run southeast into altar & start quest talking to father
-	- [ ] Run into swamp shack and get ghost speak ammulet
-	- [ ] Run back to lumbridge and talk with ghost who asks for his skull
+	- [ ] Run into swamp shack and talk to Father Urhney to  get ghost speak amulet
+	- [ ] Run back to lumbridge graveyard and talk with ghost who asks for his skull
 	- stop with this quest
 2. Start X Marks the Spot
 	- Run north, follow gray path north
@@ -41,13 +41,12 @@
          	- [ ] Get x2 Wood leaves from Wyson the gardener (15 coins each)
 	- Follow the gray path south back towards the magic shop
 		- Go directly west once the path T's
-			- [ ] Collect 5 onions
+			- [ ] Collect 5 onions 
 	- Run south to range and burn rat meat<sup>if you cook the meat, use cooked meat on range to burn</sup>
-	- Kill rat inside house to get rat tail
 	- Start & Complete Witches Potion
 6. Start Prince Ali Rescue
 	- Home tele to lumb and follow gray path northwest to a Desert Gate
- 		- Get 6 logs along the way by cutting down 6 trees
+ 		- Get 8 logs along the way by cutting down 8 trees
      	- Pass through gate and go to Alkarid Palace
         	- Do the first two steps then stop quest
 7. Cook Beef until you are 15 cooking
@@ -64,23 +63,30 @@
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
   	- Go down into the stronghold and make it to the center as fast as you can
-   	- Always run by enemies, so if you need to pause in order for run energy to regenerate- do it
+   	- First floor is not aggressive, you can walk it while regenerating energy
+	- Always run by enemies, so if you need to pause in order for run energy to regenerate- do it
+		- Turn off auto retaliate
 		- plan your route from the mini map
 		- always have run, wait for generation
 		- always eat to max hp before opening a door because there is hit lag
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-9. Start Romeo & Juliet
-	- Leave the stronghold and run east to varrock center
+9. Rebank for more items
+	- Leave the stronghold and run east to varrock west bank
+	- Bank everything except:
+		- [ ] All coins
+		- [ ] Bronze Pickaxe
+		- [ ] x5 food
+10. Start Romeo & Juliet
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
+		- [ ] Mine 1 copper at first (east) mining spot
 		- [ ] Collect 4 redberries
 		- [ ] Collect 1 Cadava berrie
 	- THEN walk directly east along the southern varrock wall
 		- Run past dark wizards and eat if you get hit, they can 3 hit you
 	- Continue west until you hit the varrock southwest mining area
-		- [ ] Mine 1 copper
 		- [ ] Mine 1 tin
 		- [ ] Mine 1 clay
 	- Walk north / northeast into Varrock Pub
@@ -91,23 +97,15 @@
 
 --------------------------
 
-# 3) GATHER 100 Food at Barbarian Village
-> [!TIP]
-> People who are _power fishing_ drop their fish so they don't waste time banking
-- [ ] Pick up all raw food and cook it on the fire
-      - only bank cooked food
-- [ ] Run north to edgevile to bank
-- [ ] Rinse and repeat until you have ~100 cooked food
-
---------------------------
-
-# 4) Purchase First Combat Supplies
+# 3) Purchase First Combat Supplies
 - [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 2000 bronze arrows
+	- Purchase 2500 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
 	- Purchase 1 Maple shortbow
+   	- Purchase 1 crossbow
+   	- Purchase 500 bronze bolts
 - [ ] Walk north of the ranged shop into the armor shop
 	- Purchase 1 legchaps
 - [ ] Walk to varrock square and go to the clothing shop (Thessalia)
@@ -118,12 +116,23 @@
 
 --------------------------
 
+# 4) GATHER 170 Food at Barbarian Village
+> [!TIP]
+> People who are _power fishing_ drop their fish so they don't waste time banking
+- [ ] Pick up all raw food and cook it on the fire
+      - only bank cooked food
+- [ ] Run north to edgevile to bank
+- [ ] Rinse and repeat until you have ~170 cooked food<sup>(do 7 bank runs)</sup>
+
+--------------------------
+
 # 5) Start Range Training at Edgeville Men
-	- [ ] Train to level 15 ranged
+	- [ ] Train to level 15 ranged<sup>(~72 men)</sup>
 		- Pick up:
 			- Arrows
 			- Energy potions
 			- Runes
+			- Coins
 	- [ ] Set up your inventory
 		- Standard shortbow
 	   	- Oak shortbow
@@ -137,6 +146,17 @@
 --------------------------
 
 # 6) Start Range Training at Hill Giants
+```
+	-> bank everything, get out:
+		-> 8 food
+		-> get willow bow
+		-> get studded chaps
+		-> get 1 energy potion
+		-> all bronze arrows
+		-> oak shortbow
+		-> gloves
+		-> cape
+```
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
 	- Walk west to edgeville yew logs (south of bank)
 	- Find the dungeon entrance/trapdoor & enter
@@ -163,32 +183,34 @@
 - [ ] Hop to a populated world (301/308) and pick up other people's runes/Iron/Steel items while you kill your own ogress
 - [ ] Rinse and repeat this cycle of killing/banking until all your bronze arrows are used up
 	- Make sure to pick up arrow piles. You do not need to pick up every arrow but pick most up
-   	- You'll end with ~45 ranged level
 
 --------------------------
 
 # 7) BUY PHASE 2 - Varrock
+- Get all coins from Bank
+- Buy air staff from varrock square magic shop
 - sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
-	- Sell no more than 25 of an item and then hop worlds to sell more
-- buy air staff (northeast mage shop varrock square)
+	- Sell no more than 10 of an item and then hop worlds to sell more
 - buy iron armor (north of ranged shop - northwest of varrock square)
 	- [ ] Iron Pl8
     - [ ] Iron Chainbody
     - [ ] Iron full legs
-- buy 80 steel arrows (ranged shop - west of varrock square)
-- buy as many mind runes as you can (south of varrock's east bank) (5k runes????)
+- buy 450 iron arrows (ranged shop - west of varrock square)
+- buy 5k mind runes (south of varrock's east bank)<sup>Buy 50 mind rune packs in batches of 20 then hop</sup>
 
 --------------------------
 
 # 8) Prep inventory
-- Best range gear + steel arrows
+- Go to varrock east bank
+- Withdraw Best range gear + all iron arrows
 	- wear ironchainbody instead of leather body
 ```
-  	- Garlic
+	- (if you have them) 3 unnoted energy potions
+	- Garlic
 	- 2k coins
 	- stake
 	- hammer
-	- x3 red berries
+	- x4 red berries
 	- x4 onion
 	- bucket
 	- pot
@@ -196,6 +218,9 @@
 	- pink skirt
 	- tin, copper, and clay
 	- ashes
+	- x2 woad leaves
+
+	- NOTE - do not grab any food
 ```
 
 --------------------------
@@ -209,19 +234,19 @@
 1) Home tele to lumbridge castle
 2) Run north following path to the furnace
    - smelt 1 bronze bar
-4) Continue following the gray path north then west to Fred the Farmer's hut
+3) Continue following the gray path north then west to Fred the Farmer's hut
 	- Grab the sheers from the table
-	- sheer 7 sheep
+	- sheer 3 sheep
 		- drop sheers
 	- run to northwest and pick 1 wheat
-		- Run to mill and make pot of flour
+		- Run to windmill and make pot of flour
 	- run to lumbridge castle 2nd floor
-		- spin the 7 wool into ball of wool
+		- spin the 3 wool into ball of wool
 	- go downstairs
 		- fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
-5) Run to Draynor
+4) Run to Draynor
    	- [ ] get x1 Blue dye made by using woad leaves on aggie
 	- [ ] Get x2 yellow dyes made by using onion on aggie
 	- [ ] Get x1 Red dye made by using redberries on aggie
