@@ -25,6 +25,7 @@
 			- Bronze sword & sheild
 		- [ ] Buy 1 spade
 		- [ ] Buy 1 hammer
+		- [ ] Buy 1 pot <sup>(yes another pot so you have 2 total)</sup>
 4. Resume X Marks the Spot
    	- [ ] AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
 		- Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
@@ -195,14 +196,17 @@
     - [ ] Iron full legs
 - buy 200 iron arrows (ranged shop - west of varrock square)
 - buy Runes (south of varrock's east bank)<sup>Buy in batches of 20 then hop</sup>
-	> [!WARNING]
- 	> If you do not want any HP xp then
- 	> - [ ] Purchase 5k mind runes to splash <sup>50 packs</sup>
-	- OR
-	> [!WARNING]
- 	> Maximize mage XP + money by purchasing spells for PVM killing:
-  	> - [ ] Buy 2.5k mind runes <sup>25 packs</sup>
-	> - [ ] Buy 2.7k air runes <sup>27 packs</sup>
+
+> [!INFO]
+> If you do not want any HP xp then
+> - [ ] Purchase 5k mind runes to splash <sup>50 packs</sup>
+
+**OR**
+
+> [!INFO]
+> Maximize mage XP + money by purchasing spells for PVM killing:
+> - [ ] Buy 2.5k mind runes <sup>25 packs</sup>
+> - [ ] Buy 2.7k air runes <sup>27 packs</sup>
 
 --------------------------
 
@@ -219,7 +223,7 @@
 	- x4 red berries
 	- x4 onion
 	- bucket
-	- pot
+	- x2 pots
 	- x3 beer
 	- pink skirt
 	- tin, copper, and clay
@@ -241,14 +245,16 @@
 2) Run north following path to the furnace
    - smelt 1 bronze bar
 3) Continue following the gray path north then west to Fred the Farmer's hut
+	- Pick up x1 egg
 	- Grab the sheers from the table
-	- sheer 3 sheep
+	- sheer x3 sheep
 		- drop sheers
-	- run to northwest and pick 1 wheat
-		- Run to windmill and make pot of flour
+	- run to northwest and pick x2 wheat
+		- Run to windmill and make x2 pot of flour
 	- run to lumbridge castle 2nd floor
 		- spin the 3 wool into ball of wool
 	- go downstairs
+		- Start & Complete **Cook's Assistant**
 		- fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
