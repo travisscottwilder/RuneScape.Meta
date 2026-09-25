@@ -99,7 +99,7 @@
 
 # 3) Purchase First Combat Supplies
 - [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 2600 bronze arrows
+	- Purchase 2400 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
@@ -114,7 +114,7 @@
 
 --------------------------
 
-# 4) GATHER 170 Food at Barbarian Village
+# 4) GATHER ~170 Food at Barbarian Village
 > [!TIP]
 > People who are _power fishing_ drop their fish so they don't waste time banking
 - [ ] Pick up all raw food and cook it on the fire
@@ -125,35 +125,35 @@
 --------------------------
 
 # 5) Start Range Training at Edgeville Men
-	- [ ] Train to level 15 ranged<sup>(~72 men)</sup>
-		- Pick up:
-			- Arrows
-			- Energy potions
-			- Runes
-			- Coins
-	- [ ] Set up your inventory
-		- Standard shortbow
-	   	- Oak shortbow
-	   	- All bronze arrows
-	   	- Cape
-	   	- Gloves
-	   	- Leather body
-		- 15 unnoted food
-	- Located north of Edgeville bank
+- [ ] Train to level 15 ranged<sup>(~72 men)</sup>
+	- Pick up:
+		- Arrows
+		- Energy potions
+		- Runes
+		- Coins
+- [ ] Set up your inventory
+	- Standard shortbow
+	- Oak shortbow
+	- All bronze arrows
+	- Cape
+	- Gloves
+	- Leather body
+	- 15 unnoted food
+- Located north of Edgeville bank
 
 --------------------------
 
 # 6) Start Range Training at Hill Giants
 ```
-	-> bank everything, get out:
-		-> 8 food
-		-> get willow bow
-		-> get studded chaps
-		-> get 1 energy potion
-		-> all bronze arrows
-		-> oak shortbow
-		-> gloves
-		-> cape
+-> bank everything, get out:
+	-> 8 food
+	-> get willow bow
+	-> get studded chaps
+	-> get 1 energy potion
+	-> all bronze arrows
+	-> oak shortbow
+	-> gloves
+	-> cape
 ```
 - [ ] Get yourself 2 Brass Keys<sup>So we can enter from the varrock west bank on future visits</sup>
 	- Walk west to edgeville yew logs (south of bank)
@@ -186,15 +186,23 @@
 
 # 7) BUY PHASE 2 - Varrock
 - Get all coins from Bank
-- Buy air staff from varrock square magic shop
+- Buy earth staff from varrock square magic shop
 - sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
 	- Sell no more than 10 of an item and then hop worlds to sell more
 - buy iron armor (north of ranged shop - northwest of varrock square)
 	- [ ] Iron Pl8
     - [ ] Iron Chainbody
     - [ ] Iron full legs
-- buy 1000 iron arrows (ranged shop - west of varrock square) <sup>Buy in sets of 200 then hop</sup>
-- buy 5k mind runes (south of varrock's east bank)<sup>Buy 50 mind rune packs in batches of 20 then hop</sup>
+- buy 200 iron arrows (ranged shop - west of varrock square)
+- buy Runes (south of varrock's east bank)<sup>Buy in batches of 20 then hop</sup>
+	> [!WARNING]
+ 	> If you do not want any HP xp then
+ 	> - [ ] Purchase 5k mind runes to splash <sup>50 packs</sup>
+	- OR
+	> [!WARNING]
+ 	> Maximize mage XP + money by purchasing spells for PVM killing:
+  	> - [ ] Buy 2.5k mind runes <sup>25 packs</sup>
+	> - [ ] Buy 2.7k air runes <sup>27 packs</sup>
 
 --------------------------
 
@@ -395,10 +403,17 @@
 
 # 23) Travel to Corsair
 - Use Home Tele
-- Splash all your mind runes on seagulls using full iron + green vam braces
+- Travel to Corsair to either splash seagulls, range ogress, and/or mage ogress
+
+> [!TIP]
+> You if you do not want HP xp then 5k splashing casts will get you 37 mage
+> Use full iron + green d hide vams to splash
+
+> [!TIP]
+> If you kill Ogress with your casts in stead of splashing you'll make XXXX cash and XXXX magic level
+
 - Then kill ogress until time runs out
-	- pick up everything but
-		- big bones
+	- pick up & bank everything but
 		- limpwurt roots
 
 --------------------------
