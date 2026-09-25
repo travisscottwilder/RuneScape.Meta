@@ -249,13 +249,15 @@
 	- Grab the sheers from the table
 	- sheer x3 sheep
 		- drop sheers
-	- run to northwest and pick x2 wheat
-		- Run to windmill and make x2 pot of flour
+	- run northwest and pick x2 wheat
+		- [ ] Run to windmill and make x2 pot of flour
+	- Run north to Cow field
+		- [ ] Get bucket of milk
 	- run to lumbridge castle 2nd floor
-		- spin the 3 wool into ball of wool
+		- [ ] spin the 3 wool into ball of wool
 	- go downstairs
-		- Start & Complete **Cook's Assistant**
-		- fill up bucket of water
+		- [ ] Start & Complete **Cook's Assistant**
+		- [ ] fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
 4) Run to Draynor
