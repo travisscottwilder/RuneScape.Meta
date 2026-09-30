@@ -1,6 +1,5 @@
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
-- [ ] get level 3 mining & smithing <sup>(mine 10 copper and 10 tin<sub>make them all bronze daggers</sub>)</sup> 
 
 --------------------------
 
@@ -16,13 +15,13 @@
 	- Start "X Marks the Spot"
 	- Go across the gray path (west) into the local shop
 		- [ ] Sell everything except:
+			- Food (bread and shardines)
 			- Bucket
 			- Pot
 			- Bronze Axe
 			- Bronze pickaxe
 			- Tinderbox
 			- Bow & Arrows
-			- Bronze sword & sheild
 		- [ ] Buy 1 spade
 		- [ ] Buy 1 hammer
 		- [ ] Buy 1 pot <sup>(yes another pot so you have 2 total)</sup>
@@ -50,7 +49,14 @@
  		- Get 8 logs along the way by cutting down 8 trees
      	- Pass through gate and go to Alkarid Palace
         	- Do the first two steps then stop quest
-7. Cook Beef until you are 15 cooking
+7. Bank inside Alkarid
+	- [ ] Bank everything except:
+		- Coins
+		- Bow & arrows
+		- Logs
+		- Tinderbox
+		- Bronze Axe
+8. Cook Beef until you are 15 cooking
 	- Walk back through the gate and follow gray path north to the cow path on the right
  	- Hop worlds to a high populated F2P world (301/308/434)
   		- Grab beef off the ground from other player kills
@@ -59,7 +65,7 @@
    		- 15 cooking will take ~4-6 inventories of beef
    		- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
      - *Grab ashes from one of your fires*<sup>for future quest</sup>
-8. Get your free 10k cash & a free tele
+9. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
@@ -73,25 +79,25 @@
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-9. Rebank for more items
+10. Rebank for more items
 	- Leave the stronghold and run east to varrock west bank
 	- Bank everything except:
 		- [ ] All coins
 		- [ ] Bronze Pickaxe
 		- [ ] x5 food
-10. Start Romeo & Juliet
+11. Start Romeo & Juliet
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
 		- [ ] Mine 1 copper at first (east) mining spot
 		- [ ] Collect 4 redberries
 		- [ ] Collect 1 Cadava berrie
-	- THEN walk directly east along the southern varrock wall
+	- THEN walk directly west along the southern varrock wall
 		- Run past dark wizards and eat if you get hit, they can 3 hit you
 	- Continue west until you hit the varrock southwest mining area
 		- [ ] Mine 1 tin
 		- [ ] Mine 1 clay
 	- Walk north / northeast into Varrock Pub
-		- [ ] Purchase 4 beers (3 are for future quest)
+		- [ ] Purchase 4 beers <sup>(3 are for future quest)</sup>
 	  	- [ ] Talk to Dr Harlow to progress vampire slayer quest, you'll get a stake from him
 	- Proceed with Romeo and Juliet quest by talking with Apothecary
    	- Finish Romeo and Juliet
@@ -99,29 +105,34 @@
 --------------------------
 
 # 3) Purchase First Combat Supplies
-- [ ] Walk east-southeast of varrock square into the range shop
-	- Purchase 2400 bronze arrows
+- [ ] Walk to GE (if you are not an ironman)
+	- Purchase amulet of power
+   	- Purchase Coif
+   	- Purchase leather vambraces
+- [ ] Walk to varrock square and go to the clothing shop (Thessalia)
+	- Purchase 1 leather body
+	- Purchase 1 cape
+   	- Purchase 1 Pink Skirt
+- [ ] Walk north of the ranged shop into the armor shop
+	- Purchase 1 legchaps
+ - [ ] Walk east-southeast of varrock square into the range shop  	  
+	- Purchase 2450 bronze arrows
    		- Buy in sets of 200 then hop worlds <sup>(only buy when quantity is > 1800)</sup>
 	- Purchase 1 Oak shortbow
 	- Purchase 1 Willow shortbow
 	- Purchase 1 Maple shortbow
-- [ ] Walk north of the ranged shop into the armor shop
-	- Purchase 1 legchaps
-- [ ] Walk to varrock square and go to the clothing shop (Thessalia)
-	- Purchase 1 cape
-   	- Purchase 1 gloves
-   	- Purchase 1 leather top
-   	- Purchase 1 Pink Skirt
 
 --------------------------
 
-# 4) GATHER ~170 Food at Barbarian Village
+# 4) GATHER ~200 Food at Barbarian Village
 > [!TIP]
 > People who are _power fishing_ drop their fish so they don't waste time banking
+- [ ] Bank everything in west varrock bank
+- [ ] Run west to barbarian village
 - [ ] Pick up all raw food and cook it on the fire
       - only bank cooked food
 - [ ] Run north to edgevile to bank
-- [ ] Rinse and repeat until you have ~170 cooked food<sup>(do 7 bank runs)</sup>
+- [ ] Rinse and repeat until you have ~200 cooked food<sup>(do 8 bank runs)</sup>
 
 --------------------------
 
@@ -148,8 +159,6 @@
 ```
 -> bank everything, get out:
 	-> 8 food
-	-> get willow bow
-	-> get studded chaps
 	-> get 1 energy potion
 	-> all bronze arrows
 	-> oak shortbow
@@ -183,19 +192,30 @@
 - [ ] Rinse and repeat this cycle of killing/banking until all your bronze arrows are used up
 	- Make sure to pick up arrow piles. You do not need to pick up every arrow but pick most up
 
+> [!TIP]
+> Make sure to upgrade your bow and gear when you level up your ranged
+> Go to Ge and sell runes/gems to purchase green dhide chaps and vams at 40 ranged 
+
 --------------------------
 
 # 7) BUY PHASE 2 - Varrock
+- [ ] If you are not an iron man go to GE <sup>If you are an iron man then use shops to buy & sell your gear, it will cost more for you though</sup>
+	- Sell loot:
+   		- Runes (that you can)
+       	- Gems
+       	- Iron daggers (sell for > 14 gp)
+	- Buy at GE
+   		- Earth Staff
+       	- 1k Mith Arrows
+       	- Mind runes (see below for quantity)
+       	- Beads (yellow, white, black, and red)
 - Get all coins from Bank
-- Buy earth staff from varrock square magic shop
-- sell everything in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
+- Sell rest in general store *(KEEP x1 iron full helm, x1 iron kitesheild)*
 	- Sell no more than 10 of an item and then hop worlds to sell more
 - buy iron armor (north of ranged shop - northwest of varrock square)
 	- [ ] Iron Pl8
     - [ ] Iron Chainbody
     - [ ] Iron full legs
-- buy 200 iron arrows (ranged shop - west of varrock square)
-- buy Runes (south of varrock's east bank)<sup>Buy in batches of 20 then hop</sup>
 
 > [!INFO]
 > If you do not want any HP xp then
@@ -205,8 +225,8 @@
 
 > [!INFO]
 > Maximize mage XP + money by purchasing spells for PVM killing:
-> - [ ] Buy 2.5k mind runes <sup>25 packs</sup>
-> - [ ] Buy 2.7k air runes <sup>27 packs</sup>
+> - Buy 2.5k mind runes <sup>25 packs</sup>
+> - Buy 2.7k air runes <sup>27 packs</sup>
 
 --------------------------
 
@@ -216,10 +236,7 @@
 	- wear ironchainbody instead of leather body
 ```
 	- (if you have them) 3 unnoted energy potions
-	- Garlic
 	- 2k coins
-	- stake
-	- hammer
 	- x4 red berries
 	- x4 onion
 	- bucket
@@ -236,7 +253,7 @@
 --------------------------
 
 # 9) Start Demon Slayer
-- Get the first two keys and pause this quest once you need to go to the wizards tower
+- Get the first two keys and pause this quest once you need to go to the wizards tower (when you are on the 25 unnoted bones step)
 
 --------------------------
 
