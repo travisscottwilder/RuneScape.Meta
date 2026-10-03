@@ -345,14 +345,6 @@
    	- "key"
 
 --------------------------       
-		
-# 15) Walk south East to Port Salmon
-> [!WARNING]
-> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
-- [ ] Start Pirate's treasure <sup>Do not finish</sup>
-- [ ] Complete every step until needing to go to Varrock <sub>Stop once you receive the key from Redbeard Frank</sub>
-
---------------------------
 
 # 16) Start & Complete corsair quest
 - Travel back to mainland after completion
@@ -425,17 +417,74 @@
 > Use full iron + green d hide vams to splash
 
 > [!TIP]
-> If you kill Ogress with your casts in stead of splashing you'll make XXXX cash and XXXX magic level
+> If you kill Ogress with your casts in stead of splashing you'll make ~200k cash with 51 magic and 42 hp
 
 - Then kill ogress until time runs out
 	- pick up & bank everything but
 		- limpwurt roots
+    	- big bones
+       	- arrows
 
 --------------------------
 
 
+# 24) NEXT STEPS
+ Continue to kill Ogress for money. 
+ When you run out of arrows or earth strike go to the GE, sell your loot, and purchase more.
+ Rinse and repeat until desired levels/money gained.
+
+> [!INFO]
+> High alch All rune items
+
+> [!TIP]
+> Purchase 5k more earth strikes to get to level 55 mage (9k total casts)
+
+> [!WARNING]
+> If you are getting defense XP then at 18.5 hours played start & Finish Dragon slayer quest
 
 
+----------------------------
+
+#  25) Do Dragon Slayer Quest
+- You will have to use melee to flitch the dragon and it will take ~ 1 hour of flitching
+
+- [ ] Purchase
+```
+	-> mith scimmi
+	-> 20 swordfish
+	
+	-> unfired bowl
+	-> wizard's mind bomb
+	-> lobster pot
+	-> silk
+```
+- [ ] Gear Up
+```
+	-> 3k coins
+	-> coif
+	-> power ammy
+	-> mith scimmi
+	-> leather body
+	-> green d hide chaps
+	-> green d hide vambraces
+	-> maple bow
+	-> all mith arrows
+	-> 10 trout
+	
+	-> x40 air runes
+	-> x20 law
+	-> x10 water
+	-> x10 earth
+```
+
+- During the quest after teleporting to fally
+	- When running south to port S.
+   		- kill 115 chickens
+       		- [ ] Get 11 strength
+         	- [ ] Get 21 attack
+- Finish Dragon Slayer
+
+----------------------------
 
 
 
