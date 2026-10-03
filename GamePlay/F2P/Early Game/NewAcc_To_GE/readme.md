@@ -9,6 +9,26 @@
 	-> 18.5 hr 			Start dragon slayer or staying at ogress
 ```
 
+--------------------------
+
+# ACCOUNT ENDING
+- [ ] 40 ranged
+- IF SPLASHING
+	- [ ] 37 Mage
+ 	- [ ] 32 HP
+- ELSE IF KILLING OGRESS
+  	- WITH DRAGON SLAYER
+  		- [ ] 49 Mage
+  		- [ ] 40 HP
+  		- [ ] 34 strength
+  		- [ ] 33 defense
+  	- WITHOUT DRAGON SLAYER
+  		- [ ] 51 Mage
+  	 	- [ ] 42 HP
+  	  	- [ ] 1 strength
+  	  	- [ ] 1 defense
+
+--------------------------
 
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
