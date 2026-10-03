@@ -262,14 +262,15 @@
 2) Run north following path to the furnace
    - smelt 1 bronze bar
 3) Continue following the gray path north then west to Fred the Farmer's hut
-	- Pick up x1 egg
-	- Grab the sheers from the table
-	- sheer x3 sheep
-		- drop sheers
 	- run northwest and pick x2 wheat
 		- [ ] Run to windmill and make x2 pot of flour
 	- Run north to Cow field
 		- [ ] Get bucket of milk
+   	- Run south back to Fred's Hut
+		- Pick up x1 egg
+		- Grab the sheers from the table
+			- sheer x3 sheep
+				- drop sheers
 	- run to lumbridge castle 2nd floor
 		- [ ] spin the 3 wool into ball of wool
 	- go downstairs
@@ -277,11 +278,11 @@
 		- [ ] fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
-4) Run to Draynor
+5) Run to Draynor
 	- Talk with Aggie
 		- [ ] Get skin paste made
 		- [ ] Use woad leave on Aggie -> x1 blue dye
-		- [ ] Use onion on Aggie -> x2 yellow dyes
+		- [ ] Use <sub>DO NOT EAT</sub> onion on Aggie -> x2 yellow dyes
 		- [ ] Use Redberries on Aggie -> x1 red dye
 	- Combine a red and yellow dye to get an orange dye
 	- Talk with Ned
@@ -289,8 +290,12 @@
 		- [ ] Have him make you a wig
  	- Use yellow dye on wig
 	- Rebank
-		- [ ] Get 15 food
-		- [ ] Get 2 energy potions (if you have them)
+		- [ ] DEPOSITE
+			- Your two keys
+     	- [ ] WITHDRAW:
+			- 15 food
+			- 2 energy potions (if you have them)
+			- All your beads (red, white, black, yellow)
 
 --------------------------
 
@@ -302,6 +307,7 @@
 --------------------------
 
 # 12) Walk to Wizards Tower
+- [ ] Start & Complete Imp Catcher
 - [ ] Resume demon slayer<sup>proceed one step</sup>
 	- Go upstairs and talk to Wizard Traiborn about Demon Slayer then ask for his key
 		- kill 25 wizards and give him bones<sub>you can give bones incrementally</sub>
@@ -313,10 +319,18 @@
 --------------------------
 
 # 13) Walk north to Draynor Mannor
-- [ ] Stop by bank while walking north
-	- Bank all runes/blue robes
-   	- Get 5 food
-   	- Grab any additional energy potions you have
+- [ ] Start walking north and bank
+	- [ ] DEPOSITE:
+		- Bank all runes/blue robes
+		- key
+    	- skull
+    - [ ] WITHDAW:
+  		- Stake
+      	- Hammer
+      	- Garlic
+      	- Cabage
+   		- 10 food
+   		- Grab any additional energy potions you have
 - [ ] Start & Finish Ernest the Chicken quest by talking to Veronica
 - [ ] Go into Mannor Basement
 	- Open the coffin
@@ -326,30 +340,11 @@
    	- next to the spade/door
    	- Wear the helmet
 - [ ] Drop items
-	- Stake
+	- Hammer
    	- Garlic
    	- "key"
 
---------------------------
-
-# 14) Rebank at Draynor Bank
-- Walk south, southwest to the bank
-	- [ ] Remove everything and pull out
- 		- 2k coins
-     	- Orange dye
-        - Blue dye
-        - Cabbage
-        - spade
-        - 10 food
-        - (wear) Bronze med helm
-        - (wear) Iron Chainbody
-        - (wear) All steel arrows
-        - (wear) Maple Bow
-        - (wear) Studded Chaps
-        - (wear) Gloves
-        - (wear) Cape
- 
---------------------------         
+--------------------------       
 		
 # 15) Walk south East to Port Salmon
 > [!WARNING]
@@ -376,18 +371,20 @@
 
 # 19) Resume Demon Slayer
 - [ ] Run north, then east to Varrock bank
-	- Pick up
+	- DROP:
+   		- [ ] bronze med helm
+       	- [ ] iron chainbody
+	- WITHDRAW:
 		- [ ] All Coins
         - [ ] All three special keys
-        - [ ] 5-10 food
+        - [ ] 10 food
+        - [ ] leatherbody
 
 		> [!TIP]
-  		> IF YOU ARE NOT GETTING PRAYER:
-  			- [ ] key for pirates treasure
-  		> [!TIP]
-  		> ELSE
-  			- [ ] Skull
-  			- [ ] Ghostspeak amulet
+  		> IF YOU ARE GETTING PRAYER:
+  			- [ ] Withdraw Skull
+  			- [ ] Withdraw Ghostspeak amulet
+
 - [ ] After you receive the silverlight *STOP QUEST*
 	> [!WARNING]
 	> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
@@ -400,29 +397,22 @@
 --------------------------
 
 # 20) Finish Prince Ali Rescue
-- [ ] Run south to Al Kharid Palace and talk with XXXX
+- [ ] Run south to Al Kharid Palace and talk with Chancellor Hassan
 
 --------------------------
 
-# 21) Finish Restless Ghost OR Finish Pirates Treasure
-- Finish whichever quest your path is taking you (prayer vs no prayer)
+# 21) Finish Restless Ghost
 > [!TIP]
 > *Restless Ghost*
 > - If you are ok with level 9 prayer (1125xp) then do Restless Ghost
 > - This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
 
-> [!TIP]
-> *Pirates Treasure*
-> - If you do not want any prayer xp then proceed with pirates treasure quest
-
 --------------------------
 
-# 22) Purchase Green dhide + coif
-- [ ] Walk to the heros guild (southwest of varrock walls)
-	- Purchase vams for 3k
-   	- Purchase chaps for 4k
-   	- Purchase coif for 1k
-- [ ] Start Dragon Slayer 1 (don't do any steps)
+> [!TIP]
+> IF YOU ARE AN IRON MAN YOU CAN GET GREEN D HIDE + COIF AT THE HEROS GUILD
+> ....
+> GO BUY GREEN D HIDE NOW
 
 --------------------------
 
