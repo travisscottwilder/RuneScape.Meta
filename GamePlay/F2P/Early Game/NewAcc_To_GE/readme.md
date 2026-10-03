@@ -1,3 +1,15 @@
+```
+	-> 0 hr 			Phase 1 Questing
+	-> 1 hr 15 min		Gathering & Cooking Food
+	-> 1 hr 50 min 		Killing men (76)
+	-> 2 hr 30 min		Killing Hill giants (400)
+	-> 10 hr 			Phase 2 questing
+	-> 12 hr 			Killing ogress/splashing
+	-> 16 hr 			GE restock
+	-> 18.5 hr 			Start dragon slayer or staying at ogress
+```
+
+
 # 1) TUTORIAL ISLAND
 - [ ] get level 3 fishing & cooking
 
@@ -25,14 +37,14 @@
 		- [ ] Buy 1 spade
 		- [ ] Buy 1 hammer
 		- [ ] Buy 1 pot <sup>(yes another pot so you have 2 total)</sup>
-4. Resume X Marks the Spot
+3. Resume X Marks the Spot
    	- [ ] AFTER getting the mysterious orb <sup>(2nd time digging)<sub>(after digging behind the castle)</sub></sup>
 		- Kill 1 giant rat behind the lumbridge castle and collect *rat meat*
    	- [ ] Run east to draynor and start vampire slayer
   		- Go upstairs and get garlic (Step 2)
    	- [ ] Resume & Complete Quest X Marks the Spot
    		- use xp lamp on ranged
-5. Prep for Witches Potion
+4. Prep for Witches Potion
    	- Pick a Cabbage (Run north)
 	- Buy eye of newt (run west to magic shop)
 	- Get x2 Woad Leaves
@@ -44,19 +56,19 @@
 			- [ ] Collect 5 onions 
 	- Run south to range and burn rat meat<sup>if you cook the meat, use cooked meat on range to burn</sup>
 	- Start & Complete Witches Potion
-6. Start Prince Ali Rescue
+5. Start Prince Ali Rescue
 	- Home tele to lumb and follow gray path northwest to a Desert Gate
  		- Get 8 logs along the way by cutting down 8 trees
      	- Pass through gate and go to Alkarid Palace
         	- Do the first two steps then stop quest
-7. Bank inside Alkarid
+6. Bank inside Alkarid
 	- [ ] Bank everything except:
 		- Coins
 		- Bow & arrows
 		- Logs
 		- Tinderbox
 		- Bronze Axe
-8. Cook Beef until you are 15 cooking
+7. Cook Beef until you are 15 cooking
 	- Walk back through the gate and follow gray path north to the cow path on the right
  	- Hop worlds to a high populated F2P world (301/308/434)
   		- Grab beef off the ground from other player kills
@@ -65,7 +77,7 @@
    		- 15 cooking will take ~4-6 inventories of beef
    		- After you are 15 cooking make sure you keep 5-10 cooked beef afterwards
      - *Grab ashes from one of your fires*<sup>for future quest</sup>
-9. Get your free 10k cash & a free tele
+8. Get your free 10k cash & a free tele
 	- WALK back to Lumbridge castle <sup>(keep run energy > 80% we will need it)</sup> 
 	- Do not enter the castle keep walking south to the graveyard
  	- Talk to "Count check" and ask "where can I learn more about security" and say "yes" you want to be teleported there
@@ -79,13 +91,13 @@
 		- continue eating any time you run by enemies even if you are max hp just incase
    	- <sup>NOTE you can spam click the door and ignore answering the questions. Eventually it'll let you pass without answering</sup>
 	- Make it all the way to the fourth floor and get yourself boots
-10. Rebank for more items
+9. Rebank for more items
 	- Leave the stronghold and run east to varrock west bank
 	- Bank everything except:
 		- [ ] All coins
 		- [ ] Bronze Pickaxe
 		- [ ] x5 food
-11. Start Romeo & Juliet
+10. Start Romeo & Juliet
 	- Start and progress until talking to father in the altar
 	- When collecting Cadava berries southwest of varrock walls:
 		- [ ] Mine 1 copper at first (east) mining spot
@@ -278,7 +290,7 @@
 		- [ ] fill up bucket of water
 			- use it on clay to make soft clay
      		- fill up bucket again
-5) Run to Draynor
+4) Run to Draynor
 	- Talk with Aggie
 		- [ ] Get skin paste made
 		- [ ] Use woad leave on Aggie -> x1 blue dye
@@ -346,22 +358,22 @@
 
 --------------------------       
 
-# 16) Start & Complete corsair quest
+# 14) Start & Complete corsair quest
 - Travel back to mainland after completion
 
 --------------------------
 
-# 17) Start & Finish Goblin Diplomacy
+# 15) Start & Finish Goblin Diplomacy
 - [ ] Complete quest like normal
 
 --------------------------
 
-# 18) Start & Finish Black Knights Fortress
+# 16) Start & Finish Black Knights Fortress
 - [ ] Finish quest like normal
 
 --------------------------
 
-# 19) Resume Demon Slayer
+# 17) Resume Demon Slayer
 - [ ] Run north, then east to Varrock bank
 	- DROP:
    		- [ ] bronze med helm
@@ -388,33 +400,30 @@
 
 --------------------------
 
-# 20) Finish Prince Ali Rescue
+# 18) Finish Prince Ali Rescue
 - [ ] Run south to Al Kharid Palace and talk with Chancellor Hassan
 
 --------------------------
 
-# 21) Finish Restless Ghost
+# 19) Finish Restless Ghost
 > [!TIP]
 > *Restless Ghost*
-> - If you are ok with level 9 prayer (1125xp) then do Restless Ghost
+> - If you are ok with level 9 prayer (1125xp) then do Restless Ghost<br>
 > - This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
 
 --------------------------
 
 > [!TIP]
-> IF YOU ARE AN IRON MAN YOU CAN GET GREEN D HIDE + COIF AT THE HEROS GUILD
-> ....
-> GO BUY GREEN D HIDE NOW
+> IF YOU ARE AN IRON MAN YOU CAN GET GREEN D HIDE + COIF AT THE HEROS GUILD<br>GO BUY GREEN D HIDE NOW
 
 --------------------------
 
-# 23) Travel to Corsair
+# 20) Travel to Corsair
 - Use Home Tele
 - Travel to Corsair to either splash seagulls, range ogress, and/or mage ogress
 
 > [!TIP]
-> You if you do not want HP xp then 5k splashing casts will get you 37 mage
-> Use full iron + green d hide vams to splash
+> You if you do not want HP xp then 5k splashing casts will get you 37 mage. <br>Use full iron + green d hide vams to splash
 
 > [!TIP]
 > If you kill Ogress with your casts in stead of splashing you'll make ~200k cash with 51 magic and 42 hp
@@ -427,8 +436,7 @@
 
 --------------------------
 
-
-# 24) NEXT STEPS
+# 21) NEXT STEPS
  Continue to kill Ogress for money. 
  When you run out of arrows or earth strike go to the GE, sell your loot, and purchase more.
  Rinse and repeat until desired levels/money gained.
@@ -442,11 +450,17 @@
 > [!WARNING]
 > If you are getting defense XP then at 18.5 hours played start & Finish Dragon slayer quest
 
+*At 20 hours of game time all restrictions are unlocked and you are free.*
 
 ----------------------------
 
-#  25) Do Dragon Slayer Quest
-- You will have to use melee to flitch the dragon and it will take ~ 1 hour of flitching
+#  22) (OPTIONAL) Do Dragon Slayer Quest
+
+> [!INFO]
+> You will have to use melee to flitch the dragon and it will take ~ 1 hour of flitching
+
+> [!WARNING]
+> You will get 18k defense XP completing this quest
 
 - [ ] Purchase
 ```
@@ -486,17 +500,6 @@
 
 ----------------------------
 
-
-
-
-
-
-
-
-
-
-
---------------------------
 
 
 
