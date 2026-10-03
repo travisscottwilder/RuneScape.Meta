@@ -12,6 +12,7 @@
 --------------------------
 
 # ACCOUNT ENDING
+
 - [ ] 40 ranged
 - IF SPLASHING
 	- [ ] 37 Mage
