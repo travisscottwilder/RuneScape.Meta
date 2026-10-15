@@ -252,7 +252,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - xxx
 
 > [!IMPORTANT]
-> # 33: Lost City <sup(<R4D Prereq)</sup>
+> # 33: Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 
 > [!IMPORTANT]
