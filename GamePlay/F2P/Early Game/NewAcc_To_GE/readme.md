@@ -230,7 +230,6 @@
 
 > [!TIP]
 > Make sure to upgrade your bow and gear when you level up your ranged<br>
-> Go to Ge and sell runes/gems to purchase green dhide chaps and vams at 40 ranged 
 
 --------------------------
 
@@ -243,6 +242,8 @@
 	- Buy at GE
    		- Earth Staff
        	- 1k Mith Arrows
+        - Green d hide legs
+       	- Green d hide vams
        	- Mind runes (see below for quantity)
        	- Beads (yellow, white, black, and red)
 - Get all coins from Bank
