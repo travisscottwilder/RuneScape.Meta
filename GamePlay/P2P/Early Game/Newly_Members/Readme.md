@@ -163,7 +163,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 5: Plague City <sup>(R4D Prereq)</sup>
-> - Access to Ardy Teleports
+> - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
 
 > [!IMPORTANT]
@@ -211,6 +211,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 16: Troll Stronghold <sup>(DT1 Prereq)</sup>
+> - Unlocked Godwars
 
 > [!IMPORTANT]
 > # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
