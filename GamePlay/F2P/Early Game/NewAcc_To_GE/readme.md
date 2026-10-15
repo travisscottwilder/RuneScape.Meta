@@ -15,6 +15,7 @@
 
 - [ ] 40 ranged
 - [ ] 20 attack
+- [ ] 9 or 1 prayer
 - IF SPLASHING
 	- [ ] 37 Mage
  	- [ ] 32 HP
