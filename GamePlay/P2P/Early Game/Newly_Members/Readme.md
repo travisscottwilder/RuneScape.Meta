@@ -155,11 +155,13 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Note gives 18k def xp
 > - Only do if you want def XP otherwise skip
 > - Ability to wear rune pl8 and dragonhide body
+> - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
 > # 4: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - [ ] *start the Alfred Grimhand's Barcrawl miniquest when you are there, and visit nearby bars while questing. Grants access to the dwarf multicannon and allows smithing of cannonballs.*
 
 > [!IMPORTANT]
 > # 5: Plague City <sup>(R4D Prereq)</sup>
