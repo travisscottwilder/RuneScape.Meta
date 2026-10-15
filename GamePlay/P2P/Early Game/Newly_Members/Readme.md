@@ -1,3 +1,4 @@
+# 1) Build F2P starter account before buying members
 
 # 1) Quality Of Life Upgrade [1.3m<sup>/2.8m for rich setup</sup>]
 - [ ] Go to GE and purchase:
@@ -75,6 +76,7 @@
 			x5 climbing boots						(5k)
 		-> Gertrude's Cat
 			x1 bucket of milk						(500)
+			x40 raw sardines						(2000)
 		-> Horror from the Deep
 			x1 steel longsword						(500)
 			x1 adamant arrow						(500)
@@ -100,9 +102,6 @@
 			x1 polished buttons						(1k)
 ```
 
-
-
-
 # 3) Start Questing mainly for Accumulator & Agility levels
 > [!CAUTION]
 > Do these in order as the experience from one quest is needed for the next
@@ -116,130 +115,220 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] bring full invy (25) unoted and then rest of bones noted inside invy too
 > - [ ] Use bones on altar, talk to guy to un-note bones, repeat
 
+> [!IMPORTANT]
+> # 2: Witch's House<sup>R4d Prereq</sup>
 
 > [!IMPORTANT]
-> # 2: Dwarf Cannon
+> # 3: Waterfall Quest<sup>R4D prereq & great xp</sup>
+
+> [!Tip]
+> # 4: Dragon Slayer<sup>R4D prereq</sup>
+> - Note gives 18k def xp
+> - Only do if you want def XP otherwise skip
+
+> [!IMPORTANT]
+> # 5: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>for future prereq on quest</sup>
 
 > [!IMPORTANT]
-> # 3: The Knight's Sword
+> # 6: The Knight's Sword
 > - Smithing xp <sup>for future prereq on quest</sup>
 > - Will be complete if you have complete Dragon Slayer
 
 > [!IMPORTANT]
-> # 4: Get 10 Fletching
+> # 7: Get 10 Fletching
 > - get 5 fletching making shafts (logs + knife)
 > - get 10 fletching making shortbow(u)
 
 > [!IMPORTANT]
-> # 5: Get 16 Firemaking
+> # 8: Get 16 Firemaking
 > - burn 60 normal logs (logs + tinderbox)
 
 > [!IMPORTANT]
-> # 6: The Tourist Trap
+> # 9: The Tourist Trap
 > - [ ] Use one lamp on Agility
 > - [ ] Use one lamp on Slayer
 
 > [!IMPORTANT]
-> # 7: The Grand Tree
+> # 10: The Grand Tree
 > - Agility XP
 
 > [!IMPORTANT]
-> # 8: Druidic Ritual
+> # 11: Druidic Ritual
 > - Unlocks Herblore <sup>for future prereq on quest</sup>
 
 > [!IMPORTANT]
-> # 9: Client of Kourend
+> # 12: Client of Kourend
 > - Slayer XP <sup>for future prereq on quest</sup>
 
 > [!TIP]
-> # 10: Recruitment Drive
+> # 13: Recruitment Drive
 > - **WARNING** This gives 1000 prayer xp
 > - Optional, is for Agility XP
 
 > [!IMPORTANT]
-> # 11: The Depths of Despair
+> # 14: The Depths of Despair
 > - Agility XP
 
 > [!IMPORTANT]
-> # 12: Death Platau
+> # 15: Death Platau
 > - Unlocks Climbing Boots best cheap boots <sup>for future prereq on quest</sup>
 
 > [!IMPORTANT]
-> # 13: Troll Stronghold
-> - for future prereq on quest
+> # 16: Troll Stronghold<sup>Desert Treasure prereq</sup>
 
 > [!IMPORTANT]
-> # 14: Gertrude's Cat
-> - Prereq for woodcutting xp
+> # 17: Gertrude's Cat
+> - Prereq for woodcutting xp & R4D
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!TIP]
-> # 15: Horror from the Deep
+> # 18: Horror from the Deep
 > - Unlocks godbook
+> - Prereq for R4D
 
 > [!IMPORTANT]
-> # 16: Tree Gnome Village
+> # 19: Tree Gnome Village
 > - Unlocks spirit trees for navigation
 
 > [!IMPORTANT]
-> # 17: Priest in peril
+> # 20: Priest in peril
 > - **WARNING** Gives 1406 Prayer XP
-> - Prereq for future quest
+> - Prereq for Animal magnetism & R4D
 
 
 > [!IMPORTANT]
-> # 18: Fight Arena
+> # 21: Fight Arena
 > - Thieving XP
 
 
 > [!IMPORTANT]
-> # 19: The Giant Dwarff
+> # 22: The Giant Dwarff
 > - Crafting XP
 
 > [!IMPORTANT]
-> # 20: Get 19 Crafting
+> # 23: Get 19 Crafting
 > - make bodies (use needle on leather w\ thread in invy)
 
 
 > [!IMPORTANT]
-> # 21: Monks Friend
+> # 24: Monks Friend
 > - Woodcutting XP
 
 
 > [!IMPORTANT]
-> # 22: Children of the Sun
-> - Prereq for future quest
+> # 25: Children of the Sun
+> - Prereq for Lily Pad Labour (woodcutting xp)
 
 
 > [!IMPORTANT]
-> # 23: Ribbiting Tale of Lily Pad L
+> # 26: Ribbiting Tale of Lily Pad L
 > - Woodcutting XP
 
 
 > [!IMPORTANT]
-> # 24: Icthlarin's Little Helper
+> # 27: Itchlarin's Little Helper
 > - Woodcutting XP
 > - Agility XP
 
 
 > [!IMPORTANT]
-> # 25: Get 35 Woodcutting
+> # 28: Get 35 Woodcutting
 > - [ ] cut oak logs till level 32
 > - [ ] cut willow logs to 35
 
 
 > [!IMPORTANT]
-> # 26: Animal Magnetism
+> # 29: Animal Magnetism
 > - Unlocks Accumulator
 > - NOTE you will get 1406 prayer XP from previous quests in order to do this quest
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
 >   - [ ] x4 empty pots
 >   - [ ] x4 empty buckets 	
+
+
+> [!IMPORTANT]
+> # 30: Murder Mystery
+> - Crafting XP <sup>prereq for R4d</sup>
+
+
+> [!IMPORTANT]
+> # 31: Nature Spirit
+> - [WARNING] Gives 2k def xp
+> - Crafting xp <sup>prereq for R4D</sup>
+
+
+> [!IMPORTANT]
+> # 32: The Golem
+> - Crafting & Theiving XP <sup>prereq for R4D</sup>
+
+
+> [!IMPORTANT]
+> # 33: Get 31 crafting
+> - xxx
+
+
+> [!IMPORTANT]
+> # 34: Lost City
+> - Unlocks Dragon Weapons
+> - Prereq for R4D
+
+
+> [!IMPORTANT]
+> # 35: If we are 30 firemaking
+> - Do sea slug to get 10 fishing
+> - ELSE if we are not 30 firemaking
+> - do we get 30 firemaking or 10 fishing?
+
+
+> [!IMPORTANT]
+> # 36: FairyTale i
+> - Unlocks fairy rings for transportation
+
+
+> [!IMPORTANT]
+> # 37: Fishing Content<sup>R4D Prereq</sup>
+
+
+> [!IMPORTANT]
+> # 38: Big Chompy Bird Hunting<sup>R4D Prereq</sup>
+
+
+> [!IMPORTANT]
+> # 39: Plague City<sup>R4D Prereq</sup>
+> - Access to Ardy Teleports
+
+
+> [!IMPORTANT]
+> # 40: BioHazard<sup>R4D Prereq</sup>
+
+
+> [!IMPORTANT]
+> # 41: Shadow of the Storm<sup>R4D Prereq</sup>
+> - [NOTE maybe use 10k lamp for theiving but not first run to test the grind]
+
+
+> [!IMPORTANT]
+> # 42: The Dig Site<supR4D, DT1 Prereq</sup>
+
+
+> [!IMPORTANT]
+> # 43: Get 43 Theiving
+> - steal from the Hosidius fruit stalls
+
+
+> [!IMPORTANT]
+> # 44: Temple of Ikov<sup>R4D Prereq</sup>
+
+
+> [!IMPORTANT]
+> # 45: Start R4D
+> - Do XYZ based on what we can (todo list who we can free)
+
 
 
 
@@ -267,38 +356,20 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 DO SOME OTHER LATER TIME
 ==================================================	
 	
-    TODO look up prereqs for lost city, fairy tale, monkey madness, RFD (the whole quest)
-		-> spinkle in the prereqs inbetween the ones already mentioned
-	
-	
-	-> Waterfall Quest
-	
-	-> LOST CITY
-		31 crafting
-		36 woodcutting
-		
-	-> Nature Spirit
-		[NOTE GIVES 2k DEFENSE]
-		
-	-> Fairy Tale I (and 2) for fairy rings
-	
 	-> mage arena i				>> god cape
 		60 mage
 	-> mage arena ii				>> imbued god cape
 		75 mage
-	
-	-> recipe for disasster
-		TODO see which ones we can do ASAP to get gloves asap
-	
+
 	-> monkey madness i
-	
 	-> desert treasure 1
+	-> recipe for disasster
+		TODO need more quests probably heros and ledgends quest
 	
 	-> [The Ectophial teleport] Ghosts Ahoy → Ectophial
-	
 	-> [The Camule teleport] Enakhra's Lament → Camulet
-	
-	-> back to recipe for disasster
+	-> wilderness diaries for wilderness boss access??
+	-> final recipe for disasster
 ```
 
 
