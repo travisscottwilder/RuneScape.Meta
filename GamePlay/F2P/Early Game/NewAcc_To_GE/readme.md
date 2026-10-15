@@ -455,18 +455,18 @@
 --------------------------
 
 # 21) NEXT STEPS
- Continue to kill Ogress for money. 
+ Continue to kill Ogress.
  When you run out of arrows or earth strike go to the GE, sell your loot, and purchase more.
  Rinse and repeat until desired levels/money gained.
 
 > [!INFO]
-> High alch All rune items
+> First work towards 55 Magic then High alch All rune items
 
 > [!TIP]
-> Purchase 5k more earth strikes to get to level 55 mage (9k total casts)
+> Work towards ~1m cash stash (After selling gems & half your runes)
+> Then pay for members
+> After your first paying you can maintain membership via in game GP instead of irl money
 
-> [!WARNING]
-> If you are getting defense XP then at 18.5 hours played start & Finish Dragon slayer quest
 
 *At 20 hours of game time all restrictions are unlocked and you are free.*
 
@@ -476,6 +476,10 @@
 
 > [!INFO]
 > You will have to use melee to flitch the dragon and it will take ~ 1 hour of flitching
+
+> [!TIP]
+> If you plan to get members this quest is much easier if you do later
+> I advize only doing this quest if you plan to stay F2P for a long time
 
 > [!WARNING]
 > You will get 18k defense XP completing this quest
