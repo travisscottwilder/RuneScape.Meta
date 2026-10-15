@@ -311,7 +311,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Unlocks fairy rings for transportation
 
 > [!IMPORTANT]
-> # 37: Fishing Content <sup>(R4D Prereq)</sup>
+> # 37: Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
 > # 38: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
