@@ -148,7 +148,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
-> - Great XP (13,750 attack & str)
+> - Great Attack & Strength XP (13,750)
 
 > [!Tip]
 > # 3: Dragon Slayer <sup>(R4D Prereq)</sup>
