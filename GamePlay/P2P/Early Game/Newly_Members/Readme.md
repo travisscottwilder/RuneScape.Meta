@@ -336,7 +336,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 45: Start R4D
 > - Do XYZ based on what we can (todo list who we can free)
 
-
+> [!Tip]
+> # 46: Finish Pandemonium
+> - Unlocks Sailing skill
 
 
 ---------------------------------------------------------------------------------------------
