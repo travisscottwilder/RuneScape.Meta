@@ -217,7 +217,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
-> - Woodcutting xp (Animal Magnatism & Lost City Prereq)
+> - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
