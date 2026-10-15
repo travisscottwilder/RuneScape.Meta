@@ -227,7 +227,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 19: Tree Gnome Village <sup>(R4D Prereq)</sup>
+> # 19: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
 > - Unlocks spirit trees for navigation
 > - Good Attack XP (11,450)
 
