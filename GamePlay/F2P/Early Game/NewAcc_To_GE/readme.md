@@ -410,16 +410,9 @@
 
 		> [!TIP]
   		> IF YOU ARE GETTING PRAYER:
-  			- [ ] Withdraw Skull
-  			- [ ] Withdraw Ghostspeak amulet
+  		> - [ ] Withdraw Skull
+  		> - [ ] Withdraw Ghostspeak amulet
 
-- [ ] After you receive the silverlight *STOP QUEST*
-	> [!WARNING]
-	> ONLY DO THIS STEP IF YOU ARE NOT WANTING TO GET ANY PRAYER XP
-	- Stop by the Varrock pub on your way south to the black wizards altar
-		- Go up stairs of the pub
-		- Go into the bedroom by the bed
-		- Use the key from Redbeard Frank (Pirate's Treasure) on the chest & get scroll
 - [ ] Finish Demon Slayer quest
 
 --------------------------
