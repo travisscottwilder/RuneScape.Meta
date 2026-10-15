@@ -280,16 +280,16 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 30: Murder Mystery <sup>(R4D Prereq)</sup>
-> - Crafting XP <sup>(Animal Magnatism & Lost City Prereq)</sup>
+> - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!IMPORTANT]
 > # 31: Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
-> - Crafting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
+> - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!IMPORTANT]
 > # 32: The Golem
-> - Crafting XP <sup>(Animal Magnatism & Lost City Prereq)</sup>
+> - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
