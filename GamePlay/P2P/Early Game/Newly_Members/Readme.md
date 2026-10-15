@@ -35,12 +35,12 @@ IF RICH (1.5m):
 # 2) Purchase Quest Items [100k]
 ```
 -> x5 knife							(500)
--> x3 spade
+-> x3 spade							()
 -> x4 tinderbox						(500)
 -> x2 hammer						(500)
 -> x2 bucket						(500)
--> x2 vial
--> x2 pestle and mortar
+-> x2 vial							()
+-> x2 pestle and mortar				()
 -> x600 normal logs					(16.5k)
 -> x25 soft leather					(5k)
 -> x75 thread						(5k)
@@ -52,9 +52,9 @@ IF RICH (1.5m):
 -> x2 swamp tar						(500)
 -> x50 pure essence					(1k)
 -> x1 jug of water					(500)
--> x2 Bucket of milk
--> x1 pot
--> x4 rope
+-> x2 Bucket of milk				()
+-> x1 pot							()
+-> x4 rope							()
 
 -> Touris Trap
 	x1 desert shirt					(500)
@@ -104,11 +104,11 @@ IF RICH (1.5m):
 	x1 holy symbol					(500)
 	x1 polished buttons				(1k)
 -> witches house
-	x3 cheese
+	x3 cheese						()
 -> Nature spirit
-	x1 silver sickle
+	x1 silver sickle				()
 -> The Golem
-	x4 soft clay
+	x4 soft clay					()
 	x1 papyrus
 -> sea slug
 	x1 swamp paste
