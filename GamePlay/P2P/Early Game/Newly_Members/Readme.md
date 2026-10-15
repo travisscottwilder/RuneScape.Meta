@@ -117,16 +117,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 3: Dragon Slayer<sup>R4D prereq</sup>
 > - Note gives 18k def xp
 > - Only do if you want def XP otherwise skip
+> - Ability to wear rune pl8 and dragonhide body
 
 > [!IMPORTANT]
 > # 4: Dwarf Cannon
 > - Unlocks Cannon
-> - Crafting xp <sup>for future prereq on quest</sup>
+> - Crafting xp <sup>prereq on Animal Magnetism & Lost City</sup>
 
 > [!IMPORTANT]
 > # 5: The Knight's Sword
-> - Smithing xp <sup>for future prereq on quest</sup>
-> - Will be complete if you have complete Dragon Slayer
+> - Smithing xp <sup>prereq on quest</sup>
+> - <sub>(Will be complete if you have complete Dragon Slayer)</sub>
 
 > [!IMPORTANT]
 > # 6: Get 10 Fletching
@@ -140,19 +141,19 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 8: The Tourist Trap
 > - [ ] Use one lamp on Agility
-> - [ ] Use one lamp on Slayer
+> - [ ] Use one lamp on Slayer <sup>(for Animal Magnetism)</sup>
 
 > [!IMPORTANT]
 > # 9: The Grand Tree
 > - Agility XP
 
 > [!IMPORTANT]
-> # 10: Druidic Ritual
-> - Unlocks Herblore <sup>for future prereq on quest</sup>
+> # 10: Druidic Ritual<sup>R4D prereq</sup>
+> - Unlocks Herblore
 
 > [!IMPORTANT]
 > # 11: Client of Kourend
-> - Slayer XP <sup>for future prereq on quest</sup>
+> - Slayer XP <sup>prereq on Animal Magnetism</sup>
 
 > [!TIP]
 > # 12: Recruitment Drive
@@ -164,74 +165,64 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Agility XP
 
 > [!IMPORTANT]
-> # 14: Death Platau
-> - Unlocks Climbing Boots best cheap boots <sup>for future prereq on quest</sup>
+> # 14: Death Plateau<sup>R4D prereq</sup>
+> - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 15: Troll Stronghold<sup>Desert Treasure prereq</sup>
+> # 15: Troll Stronghold<sup>DT1 prereq</sup>
 
 > [!IMPORTANT]
-> # 16: Gertrude's Cat
-> - Prereq for woodcutting xp & R4D
+> # 16: Gertrude's Cat<sup>R4D Prereq</sup>
+> - Prereq for woodcutting xp for Lost City
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!TIP]
-> # 17: Horror from the Deep
-> - Unlocks godbook
-> - Prereq for R4D
+> # 17: Horror from the Deep<sup>R4D Prereq</sup>
+> - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
 > # 18: Tree Gnome Village
 > - Unlocks spirit trees for navigation
 
 > [!IMPORTANT]
-> # 19: Priest in peril
+> # 19: Priest in peril<sup>Animal magnetism & R4D Prereq</sup>
 > - **WARNING** Gives 1406 Prayer XP
-> - Prereq for Animal magnetism & R4D
-
 
 > [!IMPORTANT]
 > # 20: Fight Arena
-> - Thieving XP
-
+> - Thieving XP <sup>prereq for DT</sup>
 
 > [!IMPORTANT]
 > # 21: The Giant Dwarff
-> - Crafting XP
+> - Crafting XP <sup>prereq for Animal Magnetism & Lost City</sup>
 
 > [!IMPORTANT]
 > # 22: Get 19 Crafting
 > - make bodies (use needle on leather w\ thread in invy)
 
-
 > [!IMPORTANT]
 > # 23: Monks Friend
-> - Woodcutting XP
-
+> - Woodcutting XP <sup>prereq for Animal Magnetism & Lost City</sup>
 
 > [!IMPORTANT]
 > # 24: Children of the Sun
-> - Prereq for Lily Pad Labour (woodcutting xp)
-
-
-> [!IMPORTANT]
-> # 25: Ribbiting Tale of Lily Pad L
-> - Woodcutting XP
-
+> - Prereq for Lily Pad Labour (woodcutting xp for Animal Magnetism & Lost City)
 
 > [!IMPORTANT]
-> # 26: Itchlarin's Little Helper
-> - Woodcutting XP
+> # 25: Ribbiting Tale of Lily Pad 
+> - Woodcutting XP <sup>prereq for Animal Magnetism & Lost City</sup>
+
+> [!IMPORTANT]
+> # 26: Icthlarin's Little Helper
+> - Woodcutting XP <sup>prereq for Animal Magnetism & Lost City</sup>
 > - Agility XP
 
-
 > [!IMPORTANT]
-> # 27: Get 35 Woodcutting
+> # 27: Get 35 Woodcutting<sup>Animal Magnetism & Lost City Prereq</sup>
 > - [ ] cut oak logs till level 32
 > - [ ] cut willow logs to 35
-
 
 > [!IMPORTANT]
 > # 28: Animal Magnetism
@@ -242,33 +233,27 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   - [ ] x4 empty pots
 >   - [ ] x4 empty buckets 	
 
-
 > [!IMPORTANT]
 > # 29: Murder Mystery
 > - Crafting XP <sup>prereq for R4d</sup>
-
 
 > [!IMPORTANT]
 > # 30: Nature Spirit
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>prereq for R4D</sup>
 
-
 > [!IMPORTANT]
 > # 31: The Golem
 > - Crafting & Theiving XP <sup>prereq for R4D</sup>
-
 
 > [!IMPORTANT]
 > # 32: Get 31 crafting
 > - xxx
 
-
 > [!IMPORTANT]
 > # 33: Lost City
 > - Unlocks Dragon Weapons
 > - Prereq for R4D
-
 
 > [!IMPORTANT]
 > # 34: If we are 30 firemaking
@@ -276,46 +261,36 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - ELSE if we are not 30 firemaking
 > - do we get 30 firemaking or 10 fishing?
 
-
 > [!IMPORTANT]
 > # 35: FairyTale i
 > - Unlocks fairy rings for transportation
 
-
 > [!IMPORTANT]
 > # 36: Fishing Content<sup>R4D Prereq</sup>
 
-
 > [!IMPORTANT]
 > # 37: Big Chompy Bird Hunting<sup>R4D Prereq</sup>
-
 
 > [!IMPORTANT]
 > # 38: Plague City<sup>R4D Prereq</sup>
 > - Access to Ardy Teleports
 
-
 > [!IMPORTANT]
 > # 39: BioHazard<sup>R4D Prereq</sup>
-
 
 > [!IMPORTANT]
 > # 40: Shadow of the Storm<sup>R4D Prereq</sup>
 > - [NOTE maybe use 10k lamp for theiving but not first run to test the grind]
 
-
 > [!IMPORTANT]
 > # 41: The Dig Site<supR4D, DT1 Prereq</sup>
-
 
 > [!IMPORTANT]
 > # 42: Get 43 Theiving
 > - steal from the Hosidius fruit stalls
 
-
 > [!IMPORTANT]
 > # 43: Temple of Ikov<sup>R4D Prereq</sup>
-
 
 > [!IMPORTANT]
 > # 44: Start R4D
