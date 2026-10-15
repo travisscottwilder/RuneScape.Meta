@@ -150,86 +150,86 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
 > - Great Attack & Strength XP (13,750)
 
+> [!IMPORTANT]
+> # 3: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
+> - Unlocks spirit trees for navigation
+> - Good Attack XP (11,450)
+
 > [!Tip]
-> # 3: Dragon Slayer <sup>(R4D Prereq)</sup>
+> # 4: Dragon Slayer <sup>(R4D Prereq)</sup>
 > - Note gives 18k def xp
 > - Only do if you want def XP otherwise skip
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
 
 > [!IMPORTANT]
-> # 4: Dwarf Cannon
+> # 5: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] *start the Alfred Grimhand's Barcrawl miniquest when you are there, and visit nearby bars while questing. Grants access to the dwarf multicannon and allows smithing of cannonballs.*
 
 > [!IMPORTANT]
-> # 5: Plague City <sup>(R4D Prereq)</sup>
+> # 6: Plague City <sup>(R4D Prereq)</sup>
 > - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
 
 > [!IMPORTANT]
-> # 6: The Knight's Sword
+> # 7: The Knight's Sword
 > - Smithing xp <sup>(Tourist Trap Prereq)/sup>
 
 > [!IMPORTANT]
-> # 7: Get 10 Fletching
+> # 8: Get 10 Fletching
 > - get 5 fletching making shafts (logs + knife)
 > - get 10 fletching making shortbow(u)
 
 > [!IMPORTANT]
-> # 8: Get 16 Firemaking
+> # 9: Get 16 Firemaking
 > - burn 60 normal logs (logs + tinderbox)
 
 > [!IMPORTANT]
-> # 9: The Tourist Trap
+> # 10: The Tourist Trap
 > - [ ] Use one lamp on Agility
 > - [ ] Use one lamp on Slayer <sup>(Animal Magnetism Prereq)</sup>
 
 > [!IMPORTANT]
-> # 10: The Grand Tree
+> # 11: The Grand Tree
 > - Agility XP
 
 > [!IMPORTANT]
-> # 11: Druidic Ritual <sup>(R4D prereq)</sup>
+> # 12: Druidic Ritual <sup>(R4D prereq)</sup>
 > - Unlocks Herblore
 
 > [!IMPORTANT]
-> # 12: Client of Kourend
+> # 13: Client of Kourend
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
 
 > [!TIP]
-> # 13: Recruitment Drive
+> # 14: Recruitment Drive
 > - **WARNING** This gives 1000 prayer xp
 > - Optional, is for Agility XP
 
 > [!IMPORTANT]
-> # 14: The Depths of Despair
+> # 15: The Depths of Despair
 > - Agility XP
 
 > [!IMPORTANT]
-> # 15: Death Plateau <sup>(R4D Prereq)</sup>
+> # 16: Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 16: Troll Stronghold <sup>(DT1 Prereq)</sup>
+> # 17: Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 
 > [!IMPORTANT]
-> # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
+> # 18: Gertrude's Cat <sup>(R4D Prereq)</sup>
 > - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!TIP]
-> # 18: Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 19: Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
-
-> [!IMPORTANT]
-> # 19: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
-> - Unlocks spirit trees for navigation
-> - Good Attack XP (11,450)
 
 > [!IMPORTANT]
 > # 20: Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
@@ -246,7 +246,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 23: Get 19 Crafting
 > - make bodies (use needle on leather w\ thread in invy)
+> - ------
 > - NOTE consider getting 24 crafting for the 3k xp gap we need to fill below (step 32)
+> - NOTE get 25 crafting if you are not getting def xp
 
 > [!IMPORTANT]
 > # 24: Monks Friend
@@ -282,7 +284,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 30: Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
-> [!IMPORTANT]
+> [!Tip]
 > # 31: Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
@@ -317,28 +319,28 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 38: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 40: BioHazard <sup>(R4D Prereq)</sup>
+> # 39: BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 41: Shadow of the Storm <sup>(R4D Prereq)</sup>
+> # 40: Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [NOTE maybe use 10k lamp for theiving but not first run to test the grind]
 
 > [!IMPORTANT]
-> # 42: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
+> # 41: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 43: Get 43 Theiving
+> # 42: Get 43 Theiving
 > - steal from the Hosidius fruit stalls
 
 > [!IMPORTANT]
-> # 44: Temple of Ikov <sup>(R4D Prereq)</sup>
+> # 43: Temple of Ikov <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 45: Start R4D
+> # 44: Start R4D
 > - Do XYZ based on what we can (todo list who we can free)
 
 > [!Tip]
-> # 46: Finish Pandemonium
+> # 45: Finish Pandemonium
 > - Unlocks Sailing skill
 
 
