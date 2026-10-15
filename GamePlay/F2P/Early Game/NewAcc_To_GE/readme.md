@@ -229,7 +229,7 @@
 	- Make sure to pick up arrow piles. You do not need to pick up every arrow but pick most up
 
 > [!TIP]
-> Make sure to upgrade your bow and gear when you level up your ranged
+> Make sure to upgrade your bow and gear when you level up your ranged<br>
 > Go to Ge and sell runes/gems to purchase green dhide chaps and vams at 40 ranged 
 
 --------------------------
