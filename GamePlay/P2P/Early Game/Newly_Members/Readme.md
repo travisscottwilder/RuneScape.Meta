@@ -213,7 +213,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 16: Troll Stronghold <sup>(DT1 Prereq)</sup>
-> - Unlocked Godwars
+> - Unlocks access to Godwars
 
 > [!IMPORTANT]
 > # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
