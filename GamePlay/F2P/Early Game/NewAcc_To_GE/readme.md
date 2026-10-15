@@ -14,6 +14,7 @@
 # ACCOUNT ENDING
 
 - [ ] 40 ranged
+- [ ] 20 attack
 - IF SPLASHING
 	- [ ] 37 Mage
  	- [ ] 32 HP
@@ -21,6 +22,7 @@
   	- WITH DRAGON SLAYER
   		- [ ] 49 Mage
   		- [ ] 40 HP
+  	 	- [ ] 21 attack 
   		- [ ] 34 strength
   		- [ ] 33 defense
   	- WITHOUT DRAGON SLAYER
