@@ -3,7 +3,7 @@
 # 2) Quality Of Life Upgrade [900k<sup>/2.8m for rich setup</sup>]
 - [ ] Go to GE and purchase:
 ```
--> x100 energy potion(4) 					(20k)
+-> x100 energy potion(4)				(20k)
 -> "teleport" tabs for: 					(100k)
 	x20 Varrock teleport
 	x20 Falador teleport
@@ -21,7 +21,7 @@
 -> x10 Games necklace 						(10k)
 -> x3 combat bracelet 						(40k)
 -> x3 burning amulet						(8k)
--> x2 full dragonhide set (black/red/blue) 	(35k)
+-> x2 full dragonhide set (black/red/blue)	(35k)
 -> x4 runecross bow 						(50k)
 -> x5000 broad bolts 						(300k)
 -> x200 Dragonstone bolts (e) 				(80k)
