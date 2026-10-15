@@ -34,70 +34,106 @@ IF RICH (1.5m):
 
 # 2) Purchase Quest Items [100k]
 ```
--> x2 knife									(500)
--> x2 tinderbox								(500)
--> x2 hammer								(500)
--> x2 bucket								(500)
--> x600 normal logs							(16.5k)
--> x25 soft leather							(5k)
--> x75 thread								(5k)
--> x1 needle								(500)
--> x1 mythril axe							(500)
--> x1 adamant axe							(1k)
--> x55 feathers								(500)
--> x10 iron bar								(2k)
--> x2 swamp tar								(500)
--> x50 pure essence							(1k)
--> x1 jug of water							(500)
--> x150 raw sardine							(5k)
+-> x5 knife							(500)
+-> x3 spade
+-> x4 tinderbox						(500)
+-> x2 hammer						(500)
+-> x2 bucket						(500)
+-> x2 vial
+-> x2 pestle and mortar
+-> x600 normal logs					(16.5k)
+-> x25 soft leather					(5k)
+-> x75 thread						(5k)
+-> x1 needle						(500)
+-> x1 mythril axe					(500)
+-> x1 adamant axe					(1k)
+-> x155 feathers					(500)
+-> x10 iron bar						(2k)
+-> x2 swamp tar						(500)
+-> x50 pure essence					(1k)
+-> x1 jug of water					(500)
+-> x2 Bucket of milk
+-> x1 pot
+-> x4 rope
+
 -> Touris Trap
-	x1 desert shirt							(500)
-	x1 desert robe							(500)
-	x1 desert boots							(500)
-	x3 bronze bars							(500)			
-	x1 black pickaxe						(2k)
+	x1 desert shirt					(500)
+	x1 desert robe					(500)
+	x1 desert boots					(500)
+	x3 bronze bars					(500)			
+	x1 black pickaxe				(2k)
 -> Druidic Ritual
-	x1 raw rat meat							(500)
-	x1 raw bear meat						(500)
-	x1 raw beef								(500)
-	x1 raw chicken							(500)
+	x1 raw rat meat					(500)
+	x1 raw bear meat				(500)
+	x1 raw beef						(500)
+	x1 raw chicken					(500)
 -> Death Plateau	
-	x1 premade blurb'sp						(1k)
-	x10 bread								(1k)
-	x10 trout								(500)
+	x1 premade blurb'sp				(1k)
+	x10 bread						(1k)
+	x10 trout						(500)
 -> Troll Romance 
-	x1 maple logs							(500)
-	x1 yew logs								(500)
-	x1 rope									(500)
-	x1 cake tin								(500)
-	x1 bucket of wax						(1k)
-	x5 climbing boots						(5k)
+	x1 maple logs					(500)
+	x1 yew logs						(500)
+	x1 rope							(500)
+	x1 cake tin						(500)
+	x1 bucket of wax				(1k)
+	x5 climbing boots				(5k)
 -> Gertrude's Cat
-	x1 bucket of milk						(500)
-	x40 raw sardines						(2000)
+	x40 raw sardines				(2000)
 -> Horror from the Deep
-	x1 steel longsword						(500)
-	x1 adamant arrow						(500)
-	x1 molten glass							(500)
-	x60 steel nails							(3k)
-	x2 plank								(500)
+	x1 steel longsword				(500)
+	x1 adamant arrow				(500)
+	x1 molten glass					(500)
+	x60 steel nails					(3k)
+	x2 plank						(500)
 -> The Giant Dwarf
-	x1 coal									(500)
-	x1 cut sapphires						(500)
-	x1 redberry pie							(1k)
+	x1 coal							(500)
+	x1 cut sapphires				(500)
+	x1 redberry pie					(1k)
 -> Icthlarin's Little Helper
-	x1 willow log							(500)
-	x1 bucket of sap						(500)
-	x1 bag of salt							(500)
-	x3 waterskin(4)							(500)
-	x1 linen								(2k)
+	x1 willow log					(500)
+	x1 bucket of sap				(500)
+	x1 bag of salt					(500)
+	x3 waterskin(4)					(500)
+	x1 linen						(2k)
 -> Animal Magnetism
-	x4 bones								(500)
-	x4 empty pots							(500)
-	x4 empty buckets						(500)
-	x1 hard leather							(500)
-	x1 holy symbol							(500)
-	x1 polished buttons						(1k)
+	x4 bones						(500)
+	x4 empty pots					(500)
+	x4 empty buckets				(500)
+	x1 hard leather					(500)
+	x1 holy symbol					(500)
+	x1 polished buttons				(1k)
+-> witches house
+	x3 cheese
+-> Nature spirit
+	x1 silver sickle
+-> The Golem
+	x4 soft clay
+	x1 papyrus
+-> sea slug
+	x1 swamp paste
+-> fairytale i
+	x1 specateurs
+-> big chompy bird hunting
+	x1 chisel
+	x4 wolf bones
+-> plague city
+	x1 dwellberries
+	x1 chocolate dust
+	x1 snape grass
+	x4 bucket of water
+-> shadow of the storm
+	x1 silver bar
+	x1 black wizard hat
+	x1 cape (black)
+	x1 shade robe
+-> the dig site
+	x1 cup of tea
+	x1 opal
+	x1 charcoal
+-> temple of ikov
+	x1 candle
+	x20 limpwurt
 ```
 
 # 3) Start Questing mainly for Accumulator & Agility levels
