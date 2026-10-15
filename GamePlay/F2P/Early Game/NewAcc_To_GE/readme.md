@@ -427,6 +427,7 @@
 > *Restless Ghost*
 > - If you are ok with level 9 prayer (1125xp) then do Restless Ghost<br>
 > - This quest is needed for Animal Magnetism<sup>In order to get an accumulator<sup>
+> - This quest is needed for R4D
 
 --------------------------
 
