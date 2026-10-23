@@ -49,8 +49,8 @@
 			-> ??? if we have more can we make arrows for our 69 ranged?
 				
 	3) sail to a location with crab trap on way trim sails get 69 sailing
-		-> build crab bait trap using 69 plank get 69 construction
-		-> bait trap using 69 fish/cook bait get 69 hunter
+		-> build crab bait trap using 69wc plank get 69 construction
+		-> bait trap using 69fish/cook bait get 69 hunter
 		-> pickpocket pirate get 69 thieving
 			-> kill pirate using 69 fletched bow get 69 ranged
 		-> sail to location with slayer monser
