@@ -4,7 +4,10 @@
 		-> where do we sail to slayer monster
 		-> todo what slayer monster do we kill?
 		-> todo what tiara to create? then what runes?
-		-> are pirates on the same island as where crab baits are?
+		-> location to sail to that has:
+			-> crab baits (must be red or blue)
+			-> pirates (for thieving and ranged)
+			-> slayer monster that drops bones (for att/str/def/hp/slayer/prayer)
 	
 	
 	
