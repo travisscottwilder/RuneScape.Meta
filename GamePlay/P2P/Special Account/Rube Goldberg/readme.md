@@ -32,7 +32,7 @@
 	
 	
 	
-	1) mine silver 69 mining
+	1) mine silver get 69 mining
 		-> smith into silver bar get 69 smithing
 			-> craft into tiara get 69 crafting
 				-> enchant tiara get 69 runecrafting
