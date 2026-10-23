@@ -1,14 +1,14 @@
 	
-	TODO
-		-> does fly fishing require fly fishing rod + feathers or do we need something else?
-		-> where do we sail to slayer monster
-		-> todo what slayer monster do we kill?
-		-> todo what tiara to create? then what runes?
-		-> location to sail to that has:
-			-> crab baits (must be red or blue)
-			-> pirates (for thieving and ranged)
-			-> slayer monster that drops bones (for att/str/def/hp/slayer/prayer)
-	
+TODO
+	-> does fly fishing require fly fishing rod + feathers or do we need something else?
+	-> where do we sail to slayer monster
+	-> todo what slayer monster do we kill?
+	-> todo what tiara to create? then what runes?
+	-> location to sail to that has:
+		-> crab baits (must be red or blue)
+		-> pirates (for thieving and ranged)
+		-> slayer monster that drops bones (for att/str/def/hp/slayer/prayer)
+
 
 ```
 TO GET 69 COMBAT:
