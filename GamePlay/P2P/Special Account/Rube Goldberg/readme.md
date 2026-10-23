@@ -13,22 +13,7 @@
 	
 	
 	Starting items needed:
-		*pickaxe
-		*tiara mold
-		*tree seed 
-			-> (must be able to farm, cut down, and get 3+ logs)
-		*woodcutting axe
-		*tinderbox
-		*fly fishing rod 
-		*knife
-		*bow string
-		*vial of water 
-			-> whatever else is needed with eye of newt second ingrediant
-		*magic gear ????
-			-> runes that aren't crafted but needed for spell for 69 mage
-		*hammer
-			-> probably need nails, extra planks (for construction to build boat)
-	
+
 	
 	
 	
