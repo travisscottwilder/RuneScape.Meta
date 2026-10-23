@@ -362,6 +362,32 @@ at 75+ range go to blue dragons OR rev caves
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
+After you have money for a few bonds start slayer
+
+
+Do quest: A Porcine of Interest
+
+TODO any other quests to give slayer xp?
+
+now start getting slayer tasks
+
+```
+	Complete the Natural History Quiz in the Varrock Museum basement to jump straight to level 9 Slayer
+```
+
+```
+SLAYER MASTERS:
+	• Turael / Spria: Combat level 1. Best for low-level players or resetting/skipping tasks.
+	• Mazchna: Combat level 20 (requires Priest in Peril quest). Good for early low-level tasks.
+	• Vannaka: Combat level 40. Found in the Edgeville Dungeon.
+	• Chaeldar: Combat level 70. Popular mid-level choice located in Zanaris.
+	• Konar quo Maten: Combat level 75. Assigns tasks in specific locations and rewards Brimstone Keys.
+	• Nieve /认 / Duradel: Combat level 85 to 100+ for fast experience and high-level bosses
+```
+
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 # 4) Finish mid game
 ```
