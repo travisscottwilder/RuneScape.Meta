@@ -9,6 +9,15 @@
 			-> pirates (for thieving and ranged)
 			-> slayer monster that drops bones (for att/str/def/hp/slayer/prayer)
 	
+
+```
+TO GET 69 COMBAT:
+	37 attack and defense
+		OR
+	28 attack and 41 defense (28 + 41 = 69)
+		OR
+	19 defense and 19 prayer
+```
 	
 	
 	
@@ -22,16 +31,17 @@
 			-> craft into tiara get 69 crafting
 				-> enchant tiara get 69 runecrafting
 					-> create runes for 69 magic
-						-> kill chicken get 69 mage
+						-> kill chicken get 69 mage (kill XX chickens for XX feathers)
 							-> use 69mage feathers get 69 fishing (trout)
 								-> use knife on 69fishing trout for bait get 69 cooking
 	
 	2) plant TREE to get 69 farming [NOTE MUST GET 3+ LOGS]
 		-> cut down tree get 69 wcing
-			-> use one log to get 69 firemaking
 			-> fletch log into bow get 69 fletching
+				-> use 69bow on another cut down log get 69 firemaking (barbarian firemaking)
 			-> turn one log into plank
-			-> ??? if we have more can we make arrows for our 69 ranged?
+			-> TODO make arrow shafts
+				-> make arrows 
 				
 	3) sail to a location with crab trap on way trim sails get 69 sailing
 		-> build crab bait trap using 69wc plank get 69 construction
