@@ -38,8 +38,8 @@
 				-> enchant tiara get 69 runecrafting
 					-> create runes for 69 magic
 						-> kill chicken get 69 mage
-							-> use feathers get 69 fishing (trout)
-								-> use knife on trout for bait get 69 cooking
+							-> use 69mage feathers get 69 fishing (trout)
+								-> use knife on 69fishing trout for bait get 69 cooking
 	
 	2) plant TREE to get 69 farming [NOTE MUST GET 3+ LOGS]
 		-> cut down tree get 69 wcing
@@ -52,7 +52,7 @@
 		-> build crab bait trap using 69wc plank get 69 construction
 		-> bait trap using 69fish/cook bait get 69 hunter
 		-> pickpocket pirate get 69 thieving
-			-> kill pirate using 69 fletched bow get 69 ranged
+			-> kill pirate using 69fletched bow get 69 ranged
 		-> sail to location with slayer monser
 	
 	
