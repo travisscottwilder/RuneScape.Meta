@@ -3,33 +3,35 @@
 # 2) Quality Of Life Upgrade [900k<sup>/2.8m for rich setup</sup>]
 - [ ] Go to GE and purchase:
 ```
--> x100 energy potion(4)				(20k)
+-> x50 energy potion(4)				(20k)
+-> x100 extreme energy potion(4)
 -> "teleport" tabs for: 					(100k)
-	x20 Varrock teleport
-	x20 Falador teleport
-	x20 Lumbridge teleport
-	x20 Camelot teleport
-	x20 Ardougne teleport
-	x10 Watchtower teleport
-	x10 Trollheim teleport
-	x10 Kourend Castle teleport
-	x10 Weiss teleport
-	x10 Barbarian teleport
--> x4 ammulet of glory(6) 					(50k)
+	x30 Varrock teleport
+	x30 Falador teleport
+	x30 Lumbridge teleport
+	x30 Camelot teleport
+	x30 Ardougne teleport
+	x30 Watchtower teleport
+	x30 Kourend Castle teleport
+	x30 Barbarian teleport
+	x30 Salve graveyard teleport
+	x30 Draynor Teleport
+	x30 Digsite Teleport
+-> x4 amulet of glory(6) 					(50k)
 -> x50 ring of recoil 						(50k)
 -> x10 ring of dueling 						(10k)
 -> x10 Games necklace 						(10k)
 -> x3 combat bracelet 						(40k)
 -> x3 burning amulet						(8k)
+-> x3 necklace of passage(5)
 -> x2 full dragonhide set (black/red/blue)	(35k)
 -> x4 runecross bow 						(50k)
--> x5000 broad bolts 						(300k)
 -> x200 Dragonstone bolts (e) 				(80k)
+-> x2000 Runite Bolts
 
 IF RICH (1.5m):
 	-> x1 full saradomin d'hide set (300k)	
 	-> x1 dragoncrossbow (700k)
-		-> x200 Dragonstone Dragon bolts (e) (500k)
 ```
 
 # 2) Purchase Quest Items [100k]
@@ -42,12 +44,13 @@ IF RICH (1.5m):
 -> x2 vial							()
 -> x2 pestle and mortar				()
 -> x600 normal logs					(16.5k)
--> x25 soft leather					(5k)
--> x75 thread						(5k)
+-> x300 leather					(5k)
+-> x150 thread						(5k)
 -> x1 needle						(500)
+-> x1 black axe
 -> x1 mythril axe					(500)
 -> x1 adamant axe					(1k)
--> x155 feathers					(500)
+-> x255 feathers					(500)
 -> x10 iron bar						(2k)
 -> x2 swamp tar						(500)
 -> x50 pure essence					(1k)
@@ -94,7 +97,7 @@ IF RICH (1.5m):
 	x1 willow log					(500)
 	x1 bucket of sap				(500)
 	x1 bag of salt					(500)
-	x3 waterskin(4)					(500)
+	x5 waterskin(4)					(500)
 	x1 linen						(2k)
 -> Animal Magnetism
 	x4 bones						(500)
@@ -116,7 +119,7 @@ IF RICH (1.5m):
 	x1 specateurs
 -> big chompy bird hunting
 	x1 chisel
-	x4 wolf bones
+	x12 wolf bones
 -> plague city
 	x1 dwellberries
 	x1 chocolate dust
@@ -155,13 +158,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Unlocks spirit trees for navigation
 > - Good Attack XP (11,450)
 
-> [!Tip]
-> # 4: Dragon Slayer <sup>(R4D Prereq)</sup>
-> - Note gives 18k def xp
-> - Only do if you want def XP otherwise skip
-> - Ability to wear rune pl8 and dragonhide body
-> - Ability to be assigned Slayer Tasks for slayer skill
-
 > [!IMPORTANT]
 > # 5: Dwarf Cannon
 > - Unlocks Cannon
@@ -179,38 +175,55 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 8: Get 10 Fletching
-> - get 5 fletching making shafts (logs + knife)
-> - get 10 fletching making shortbow(u)
+> - make shafts the whole time (logs + knife)
 
 > [!IMPORTANT]
-> # 9: Get 16 Firemaking
-> - burn 60 normal logs (logs + tinderbox)
+> # 9: Get 29 Firemaking
+> - burn normal logs till 15 (logs + tinderbox)
+> - burn 175 oak logs to 29
 
 > [!IMPORTANT]
 > # 10: The Tourist Trap
-> - [ ] Use one lamp on Agility
-> - [ ] Use one lamp on Slayer <sup>(Animal Magnetism Prereq)</sup>
+> - [ ] Use both lamps on Agility
+> - On Complete drop:
+> 	-> keys
+>   -> dart
+>   -> shantay pass
+>   -> slave gear
 
 > [!IMPORTANT]
 > # 11: The Grand Tree
 > - Agility XP
+> - Attack xp (18,400)
+> - [ ] Teleport to Ardy then run south west to gnome strongold
+> - [ ] Alternatively go to GE then northeast to use Spirit Tree Travel
+> - When completed drop:
+> 	-> All scrolls
+>   -> All books
+>   -> key
 
 > [!IMPORTANT]
 > # 12: Druidic Ritual <sup>(R4D prereq)</sup>
 > - Unlocks Herblore
 
 > [!IMPORTANT]
-> # 13: Client of Kourend
+> # 13: Client of Kourend <sup>(Depths of Despair prereq)</sup>
 > - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
-
-> [!TIP]
-> # 14: Recruitment Drive
-> - **WARNING** This gives 1000 prayer xp
-> - Optional, is for Agility XP
+> - [ ] Teleport to fally
+>	-> Bank at west bank
+>	-> south to port
+> - [ ] After completion drop:
+> 	-> broken glass
 
 > [!IMPORTANT]
-> # 15: The Depths of Despair
+> # 15: The Depths of Despair <sup>(RfD prereq)</sup>
 > - Agility XP
+> - [ ] Gear up with best ranged
+> - [ ] grab tele tabs
+> - [ ] 4 food
+> - [ ] 8 energy potions
+> - [ ] When completed drop:
+> 	-> book
 
 > [!IMPORTANT]
 > # 16: Death Plateau <sup>(R4D Prereq)</sup>
@@ -238,17 +251,24 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 21: Fight Arena
 > - Thieving XP <sup>(DT1 Prereq)</sup>
-
-> [!IMPORTANT]
-> # 22: The Giant Dwarff
-> - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - Attack xp (12,175)
+> - [ ] When completed drop:
+> 	-> Khazard helmet and plate
 
 > [!IMPORTANT]
 > # 23: Get 19 Crafting
-> - make bodies (use needle on leather w\ thread in invy)
-> - ------
-> - NOTE consider getting 24 crafting for the 3k xp gap we need to fill below (step 32)
-> - NOTE get 25 crafting if you are not getting def xp
+> ```
+> -> make one leather boot
+> -> make cowls to level 11
+> -> make vambraces till 14
+> -> make bodies to level 18
+> -> make chaps till 26
+> ```
+
+> [!IMPORTANT]
+> # 22: The Giant Dwarf
+> - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
+
 
 > [!IMPORTANT]
 > # 24: Monks Friend
@@ -267,10 +287,22 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
 
+
+> [!Tip]
+> # 4: Dragon Slayer <sup>(R4D Prereq)</sup>
+> - Note gives 18k def xp
+> - Only do if you want def XP otherwise skip
+> - Ability to wear rune pl8 and dragonhide body
+> - Ability to be assigned Slayer Tasks for slayer skill
+
+
 > [!IMPORTANT]
 > # 28: Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
-> - [ ] cut oak logs till level 32
-> - [ ] cut willow logs to 35
+> - [ ] cut oak logs till level 35
+> - [ ] Withdraw all axes so you automatically use the best axe
+> 	-> black axe
+>	-> mithril axe
+>	-> adamant axe
 
 > [!IMPORTANT]
 > # 29: Animal Magnetism
@@ -278,7 +310,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
 >   - [ ] x4 empty pots
->   - [ ] x4 empty buckets 	
+>   - [ ] x4 empty buckets
+> - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
 
 > [!IMPORTANT]
 > # 30: Murder Mystery <sup>(R4D Prereq)</sup>
@@ -295,22 +328,13 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Thieving XP <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 33: Get 31 crafting
-> - xxx
-
-> [!IMPORTANT]
 > # 34: Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 
-> [!IMPORTANT]
-> # 35: If we are 30 firemaking
-> - Do sea slug to get 10 fishing
-> - ELSE if we are not 30 firemaking
-> - do we get 30 firemaking or 10 fishing?
 
 > [!IMPORTANT]
-> # 36: FairyTale i
-> - Unlocks fairy rings for transportation
+> # 35: Do sea slug quest
+> TODO move this to some time useful when in ardy
 
 > [!IMPORTANT]
 > # 37: Fishing Contest <sup>(R4D Prereq)</sup>
