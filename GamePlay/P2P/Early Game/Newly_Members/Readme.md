@@ -18,6 +18,7 @@
 	x30 Draynor Teleport
 	x30 Digsite Teleport
 	x30 Catherby teleport
+	x5 Nardah teleport
 -> x4 amulet of glory(6) 					(50k)
 -> x50 ring of recoil 						(50k)
 -> x10 ring of dueling 						(10k)
@@ -144,6 +145,17 @@ IF RICH (1.5m):
 	x1 ashes
 	x1 fruit blast
 	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
+	x2 pot of flour
+	x2 egg
+	x1 bowl of water
+	x4 asgarnian ale
+	x1 empty fishbowl
+	x3 bronze wire
+	x3 raw cod
+	x12 stews
+	x1 cake tin
+	x1 iron spit
+	x1 balls of wool
 ```
 
 # 3) Start Questing mainly for Accumulator & Agility levels
@@ -369,12 +381,17 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 43: Temple of Ikov <sup>(R4D Prereq)</sup>
+> - [ ] Do NOT bring energy potions, you need food
+> - [ ] After getting boots of lightness remove candle and tinderbox from inventory and get more food
+> - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
 
 > [!IMPORTANT]
 > # 44: Start R4D
 > - Complete the subquests in this order:
 > - [ ] Mountain Dwarf
-> - [ ] Pirate Pete
+> - [ ] Pirate Pete<br>
+> 	- Must weigh less than 27kg <sub>(bank d hide body, chaps, coif, and acumulator)</sub><br>
+>	- Must bank cat, cannot have it out or in your inventory
 > - [ ] Wartface and Bentnoz
 > - [ ] Evil Dave
 > - [ ] Lumbridge Guide
