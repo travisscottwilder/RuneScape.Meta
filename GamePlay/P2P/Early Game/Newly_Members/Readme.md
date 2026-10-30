@@ -17,6 +17,7 @@
 	x30 Salve graveyard teleport
 	x30 Draynor Teleport
 	x30 Digsite Teleport
+	x30 Catherby teleport
 -> x4 amulet of glory(6) 					(50k)
 -> x50 ring of recoil 						(50k)
 -> x10 ring of dueling 						(10k)
@@ -36,17 +37,17 @@ IF RICH (1.5m):
 
 # 2) Purchase Quest Items [100k]
 ```
--> x5 knife							(500)
+-> x6 knife							(500)
 -> x3 spade							()
--> x4 tinderbox						(500)
+-> x5 tinderbox						(500)
 -> x2 hammer						(500)
 -> x2 bucket						(500)
 -> x2 vial							()
--> x2 pestle and mortar				()
+-> x3 pestle and mortar				()
 -> x600 normal logs					(16.5k)
 -> x300 leather					(5k)
 -> x150 thread						(5k)
--> x1 needle						(500)
+-> x2 needle						(500)
 -> x1 black axe
 -> x1 mythril axe					(500)
 -> x1 adamant axe					(1k)
@@ -55,9 +56,11 @@ IF RICH (1.5m):
 -> x2 swamp tar						(500)
 -> x50 pure essence					(1k)
 -> x1 jug of water					(500)
--> x2 Bucket of milk				()
+-> x4 Bucket of milk				()
 -> x1 pot							()
 -> x4 rope							()
+-> x13 bread						(1k)
+-> x2 cake tin						(500)
 
 -> Touris Trap
 	x1 desert shirt					(500)
@@ -72,13 +75,11 @@ IF RICH (1.5m):
 	x1 raw chicken					(500)
 -> Death Plateau	
 	x1 premade blurb'sp				(1k)
-	x10 bread						(1k)
 	x10 trout						(500)
 -> Troll Romance 
 	x1 maple logs					(500)
 	x1 yew logs						(500)
 	x1 rope							(500)
-	x1 cake tin						(500)
 	x1 bucket of wax				(1k)
 	x5 climbing boots				(5k)
 -> Gertrude's Cat
@@ -137,6 +138,12 @@ IF RICH (1.5m):
 -> temple of ikov
 	x1 candle
 	x20 limpwurt
+-> Recipe for Disaster
+	x1 eye of newt
+	x1 greenman's ale
+	x1 ashes
+	x1 fruit blast
+	x1 rotten tomato (must buy near varrock ranged shop, south of ranged shop, north of the pub on the east side of town)
 ```
 
 # 3) Start Questing mainly for Accumulator & Agility levels
@@ -341,6 +348,10 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 38: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> - NOTE keep the following items:
+> - [ ] Use all 14 wolf bones for arrow tips
+> - [ ] Make ~50 arrows
+> - [ ] Keep bellow, bow, and arrows after quest completion
 
 > [!IMPORTANT]
 > # 39: BioHazard <sup>(R4D Prereq)</sup>
@@ -361,7 +372,13 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 44: Start R4D
-> - Do XYZ based on what we can (todo list who we can free)
+> - Complete the subquests in this order:
+> - [ ] Mountain Dwarf
+> - [ ] Pirate Pete
+> - [ ] Wartface and Bentnoz
+> - [ ] Evil Dave
+> - [ ] Lumbridge Guide
+> - [ ] Scratch Uglogwee
 
 > [!Tip]
 > # 45: Finish Pandemonium
