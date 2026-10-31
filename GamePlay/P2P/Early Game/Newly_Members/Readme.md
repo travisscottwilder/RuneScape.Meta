@@ -1,3 +1,16 @@
+```
+-> 0 minutes  	>> questing
+-> 10 minutes 	>> buying items at GE
+-> 40 minutes 	>> questing
+-> 8 hours		>> working on woodcutting
+-> 9 hours		>> accumulator gained
+-> 9 hours		>> back to questing
+-> 14 hours		>> training thieving
+-> 22 hours		>> finished, onto money makers
+```
+
+
+
 # 1) Build F2P starter account before buying members
 
 # 2) Do quest Children of The Sun
@@ -218,10 +231,59 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 1: Witch's House <sup>(R4d Prereq)</sup>
+```
+	-> update to "witches house & Druidic Ritual"
+	-> bring all items needed for both
+		-> do druidic ritual first
+		-> then witches house
+	-> add 4 energy potions
+	-> teleport to falador run north
+	-> drop:
+		-> extra cheese
+		-> diary
+		-> both keys
+```
 
 > [!IMPORTANT]
 > # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
 > - Great Attack & Strength XP (13,750)
+```
+waterall quest
+	-> get 8 energy potions
+	-> get 7 logs
+	-> jug of water
+	-> best ranged gear
+	-> teleport to camelot run east to seers bank, get quest items and go
+	
+	-> When running north to talk to XXXX 
+		-> start Drwaft Cannon by talking to Captain Lawgof
+			-> STOP after giving goblin remains to Captain Lawgof
+		-> resume Waterfall quest
+	-> When doing down gnome village ladder
+		-> After you are done
+		-> Go back up ladder
+		-> Keep running past and sqeeze through loose railing
+		-> start & finish Tree Gnome Village by talking to King Bolren
+	
+	-> Start & Complete monks friend
+	-> Start & Complete Fight Arena
+	
+	-> use camelote teleport to get out of gnome village
+		-> bank everything but:
+			-> pebble
+			-> 4 energy potions
+			-> 12 food
+			-> 6 air, water, earth runes
+			-> rope
+			-> teletabs
+	-> resume dwarf cannon when running by fishing guild
+		-> STOP after fixing the cannon
+		-> resume waterfall quest
+	-> on completion drop:
+		-> key
+		-> urn
+		-> pebble
+```
 
 > [!IMPORTANT]
 > # 3: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
@@ -427,6 +489,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 40: Shadow of the Storm <sup>(R4D Prereq)</sup>
+> - [ ] Bring x2 Waterskins
+> - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
 > # 41: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
@@ -447,6 +511,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 44: Start R4D
+> - TODO do meet quest if we need more cooking
 > - Complete the subquests in this order:
 > - [ ] Mountain Dwarf
 > - [ ] Pirate Pete<br>
@@ -596,5 +661,61 @@ SLAYER MASTERS:
 
 
 
+NOTES
+
+```
+quest:
+		-> add haunted mine for 22k str xp
+			-> AFTER priest in peril
+			-> AFTER 35 crafting TODO find out when we get 35 crafting during next run through
+```
+
+```		
+-> on defense accounts
+	-> do fremennik trials for helmet wearing
+		-> NOTE this quest gives 3k defense xp
+		-> 40 woodcutting needed
+			-> no meaningful quests left
+		-> 40 crafting needed (14k xp)
+			-> 5k elemental workshop
+			-> 7.5k elemental workshop 2
+			-> jungle potion (prereq for shilo)
+				-> 3.8k shilo village (legends prereq)
+```
 
 
+```
+
+->  NOTE
+	Dessert treasure requires:
+		53 thieving
+			-> left at 42
+				-> quest twilight's promise?
+				-> quest ratchers?
+				-> quest contact??? (need to be stronger)
+				-> quest ethically acically acquired
+					-> must do shield of arrav first
+				-> now we are XXXXX???
+					-> do XYZ till 50 thieving
+				-> at 50 thieving do quest: mourning's end part 1
+				-> more training needed????
+			
+		50 firemaking
+			-> left at 30
+				-> todo do minigame????
+				-> burn XXX willow logs
+				-> burn XXX XXXX logs
+				-> burn XXX XXXX logs
+```
+
+```
+"70+ ranged @ kuraks (big green monkey looking thing) 1m+ an hour"
+```
+
+```
+-> NOTES
+	-> 33 cooking + doing the meet quest + all r4d quest
+		got me 39 cooking but needed 40
+		
+	-> need to add small amount of cooking, idk if everyone will be 33 cooking either
+```
