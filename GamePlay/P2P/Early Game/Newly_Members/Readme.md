@@ -1,6 +1,9 @@
 # 1) Build F2P starter account before buying members
 
-# 2) Quality Of Life Upgrade [900k<sup>/2.8m for rich setup</sup>]
+# 2) Do quest Children of The Sun
+> - When going to GE finish this quest in varrock square
+
+# 3) Quality Of Life Upgrade [900k<sup>/2.8m for rich setup</sup>]
 - [ ] Go to GE and purchase:
 ```
 -> x50 energy potion(4)				(20k)
@@ -36,13 +39,13 @@ IF RICH (1.5m):
 	-> x1 dragoncrossbow (700k)
 ```
 
-# 2) Purchase Quest Items [100k]
+# 3) Purchase Quest Items [100k]
 ```
 -> x6 knife							(500)
--> x4 spade							()
--> x5 tinderbox						(500)
+-> x5 spade							()
+-> x6 tinderbox						(500)
 -> x2 hammer						(500)
--> x2 bucket						(500)
+-> x3 bucket						(500)
 -> x2 vial							()
 -> x3 pestle and mortar				()
 -> x600 normal logs					(16.5k)
@@ -59,10 +62,10 @@ IF RICH (1.5m):
 -> x1 jug of water					(500)
 -> x4 Bucket of milk				()
 -> x1 pot							()
--> x4 rope							()
+-> x7 rope							()
 -> x13 bread						(1k)
--> x2 cake tin						(500)
-
+-> x3 cake tin						(500)
+x3 plank						    (500)
 -> Touris Trap
 	x1 desert shirt					(500)
 	x1 desert robe					(500)
@@ -89,7 +92,6 @@ IF RICH (1.5m):
 	x1 adamant arrow				(500)
 	x1 molten glass					(500)
 	x60 steel nails					(3k)
-	x2 plank						(500)
 -> The Giant Dwarf
 	x1 coal							(500)
 	x3 sapphire				        (500)
@@ -176,48 +178,23 @@ IF RICH (1.5m):
 	x1 balls of wool
 ```
 
-# 3) Start Questing mainly for Accumulator & Agility levels
+# 4) Start Questing mainly for Accumulator & Agility levels
 > [!CAUTION]
 > Do these in order as the experience from one quest is needed for the next
 
 Goal of these quests is to work towards completing Recipe For Disaster, Lost City, Monkey Madness, and Desert treasure but also gain meaningful XP at lower levels.
 
 
-> [!IMPORTANT]
-> # 1: Witch's House <sup>(R4d Prereq)</sup>
-
-> [!IMPORTANT]
-> # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
-> - Great Attack & Strength XP (13,750)
-
-> [!IMPORTANT]
-> # 3: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
-> - Unlocks spirit trees for navigation
-> - Good Attack XP (11,450)
-
-> [!IMPORTANT]
-> # 5: Dwarf Cannon
-> - Unlocks Cannon
-> - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
-> - [ ] *start the Alfred Grimhand's Barcrawl miniquest when you are there, and visit nearby bars while questing. Grants access to the dwarf multicannon and allows smithing of cannonballs.*
 
 > [!IMPORTANT]
 > # 6: Plague City <sup>(R4D Prereq)</sup>
 > - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
+> - [ ] Do not drop your gas mask when completed <sub>(you'll need it later)</sub>
 
 > [!IMPORTANT]
 > # 7: The Knight's Sword
 > - Smithing xp <sup>(Tourist Trap Prereq)/sup>
-
-> [!IMPORTANT]
-> # 8: Get 10 Fletching
-> - make shafts the whole time (logs + knife)
-
-> [!IMPORTANT]
-> # 9: Get 29 Firemaking
-> - burn normal logs till 15 (logs + tinderbox)
-> - burn 175 oak logs to 29
 
 > [!IMPORTANT]
 > # 10: The Tourist Trap
@@ -238,6 +215,33 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	-> All scrolls
 >   -> All books
 >   -> key
+
+> [!IMPORTANT]
+> # 1: Witch's House <sup>(R4d Prereq)</sup>
+
+> [!IMPORTANT]
+> # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
+> - Great Attack & Strength XP (13,750)
+
+> [!IMPORTANT]
+> # 3: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
+> - Unlocks spirit trees for navigation
+> - Good Attack XP (11,450)
+
+> [!IMPORTANT]
+> # 5: Dwarf Cannon
+> - Unlocks Cannon
+> - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - [ ] *start the Alfred Grimhand's Barcrawl miniquest when you are there, and visit nearby bars while questing. Grants access to the dwarf multicannon and allows smithing of cannonballs.*
+
+> [!IMPORTANT]
+> # 8: Get 10 Fletching
+> - make shafts the whole time (logs + knife)
+
+> [!IMPORTANT]
+> # 9: Get 29 Firemaking
+> - burn normal logs till 15 (logs + tinderbox)
+> - burn 175 oak logs to 29
 
 > [!IMPORTANT]
 > # 12: Druidic Ritual <sup>(R4D prereq)</sup>
@@ -269,6 +273,12 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 17: Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
+> - Troll romance prereq
+
+> [!IMPORTANT]
+> # 17: Troll Romance
+> - Agility XP
+> - [ ] Bring food for this quest
 
 > [!IMPORTANT]
 > # 18: Gertrude's Cat <sup>(R4D Prereq)</sup>
@@ -287,14 +297,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Attack xp (12,175)
 > - [ ] When completed drop:
 > 	-> Khazard helmet and plate
-
-
-
-> [!IMPORTANT]
-> # 25: Children of the Sun
-> - Ribbiting Tale of Lily Pad Prereq
-> - Death on the isle Prereq
-
 
 > [!IMPORTANT]
 > # 25: Death on the Isle
@@ -418,6 +420,10 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 39: BioHazard <sup>(R4D Prereq)</sup>
+
+> [!IMPORTANT]
+> # 39: Underground Pass <sup>(R4D Prereq)</sup>
+> - Agility xp
 
 > [!IMPORTANT]
 > # 40: Shadow of the Storm <sup>(R4D Prereq)</sup>
