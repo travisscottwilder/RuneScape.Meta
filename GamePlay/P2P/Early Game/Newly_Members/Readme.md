@@ -198,19 +198,18 @@ x3 plank						    (500)
 Goal of these quests is to work towards completing Recipe For Disaster, Lost City, Monkey Madness, and Desert treasure but also gain meaningful XP at lower levels.
 
 
-
 > [!IMPORTANT]
-> # 6: Plague City <sup>(R4D Prereq)</sup>
+> # 1: Plague City <sup>(R4D Prereq)</sup>
 > - Access to ardougne Teleports
 > - Mining xp <sup>(The Knight's Sword Prereq)</sup>
 > - [ ] Do not drop your gas mask when completed <sub>(you'll need it later)</sub>
 
 > [!IMPORTANT]
-> # 7: The Knight's Sword
+> # 2: The Knight's Sword
 > - Smithing xp <sup>(Tourist Trap Prereq)/sup>
 
 > [!IMPORTANT]
-> # 10: The Tourist Trap
+> # 3: The Tourist Trap
 > - [ ] Use both lamps on Agility
 > - On Complete drop:
 > 	-> keys
@@ -219,7 +218,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> slave gear
 
 > [!IMPORTANT]
-> # 11: The Grand Tree
+> # 4: The Grand Tree
 > - Agility XP
 > - Attack xp (18,400)
 > - [ ] Teleport to Ardy then run south west to gnome strongold
@@ -230,7 +229,26 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   -> key
 
 > [!IMPORTANT]
-> # 1: Witch's House <sup>(R4d Prereq)</sup>
+> # 5: Client of Kourend <sup>(Depths of Despair prereq)</sup>
+> - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
+> - [ ] Teleport to fally
+>	-> Bank at west bank
+>	-> south to port
+> - [ ] After completion drop:
+> 	-> broken glass
+
+> [!IMPORTANT]
+> # 6: The Depths of Despair <sup>(RfD prereq)</sup>
+> - Agility XP
+> - [ ] Gear up with best ranged
+> - [ ] grab tele tabs
+> - [ ] 4 food
+> - [ ] 8 energy potions
+> - [ ] When completed drop:
+> 	-> book
+
+> [!IMPORTANT]
+> # 7: Witch's House <sup>(R4d Prereq)</sup>
 ```
 	-> update to "witches house & Druidic Ritual"
 	-> bring all items needed for both
@@ -245,7 +263,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 ```
 
 > [!IMPORTANT]
-> # 2: Waterfall Quest <sup>(R4D Prereq)</sup>
+> # 8: Waterfall Quest <sup>(R4D Prereq)</sup>
 > - Great Attack & Strength XP (13,750)
 ```
 waterall quest
@@ -286,91 +304,72 @@ waterall quest
 ```
 
 > [!IMPORTANT]
-> # 3: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
+> # 9: Tree Gnome Village <sup>(Monkey Madness Prereq)</sup>
 > - Unlocks spirit trees for navigation
 > - Good Attack XP (11,450)
 
 > [!IMPORTANT]
-> # 5: Dwarf Cannon
+> # 10: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 8: Get 10 Fletching
+> # 11: Get 10 Fletching
 > - make shafts the whole time (logs + knife)
 
 > [!IMPORTANT]
-> # 9: Get 29 Firemaking
+> # 12: Get 29 Firemaking
 > - burn normal logs till 15 (logs + tinderbox)
 > - burn 175 oak logs to 29
 
 > [!IMPORTANT]
-> # 12: Druidic Ritual <sup>(R4D prereq)</sup>
+> # 13: Druidic Ritual <sup>(R4D prereq)</sup>
 > - Unlocks Herblore
 
 > [!IMPORTANT]
-> # 13: Client of Kourend <sup>(Depths of Despair prereq)</sup>
-> - Slayer XP <sup>(Animal Magnetism Prereq)</sup>
-> - [ ] Teleport to fally
->	-> Bank at west bank
->	-> south to port
-> - [ ] After completion drop:
-> 	-> broken glass
-
-> [!IMPORTANT]
-> # 15: The Depths of Despair <sup>(RfD prereq)</sup>
-> - Agility XP
-> - [ ] Gear up with best ranged
-> - [ ] grab tele tabs
-> - [ ] 4 food
-> - [ ] 8 energy potions
-> - [ ] When completed drop:
-> 	-> book
-
-> [!IMPORTANT]
-> # 16: Death Plateau <sup>(R4D Prereq)</sup>
+> # 14: Death Plateau <sup>(R4D Prereq)</sup>
 > - Unlocks Climbing Boots, best in slot cheap boots 
 
 > [!IMPORTANT]
-> # 17: Troll Stronghold <sup>(DT1 Prereq)</sup>
+> # 15: Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
 
 > [!IMPORTANT]
-> # 17: Troll Romance
+> # 16: Troll Romance
 > - Agility XP
 > - [ ] Bring food for this quest
 
 > [!IMPORTANT]
-> # 18: Gertrude's Cat <sup>(R4D Prereq)</sup>
+> # 17: Gertrude's Cat <sup>(R4D Prereq)</sup>
 > - Woodcutting xp <sup>(Animal Magnatism & Lost City Prereq)</sup>
 > - NOTE Start growing a cat for future quest
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
 > [!IMPORTANT]
-> # 20: Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
+> # 18: Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
 > - **WARNING** Gives 1406 Prayer XP
 
 > [!IMPORTANT]
-> # 21: Fight Arena
+> # 19: Fight Arena
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 > - Attack xp (12,175)
 > - [ ] When completed drop:
 > 	-> Khazard helmet and plate
 
 > [!IMPORTANT]
-> # 25: Death on the Isle
+> # 20: Death on the Isle
 > - Agility xp
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 25: The Fued
+> # 21: The Fued
 > - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 23: Get 19 Crafting
+> # 22: Get 19 Crafting
 > ```
 > -> make one leather boot
 > -> make cowls to level 11
@@ -380,7 +379,7 @@ waterall quest
 > ```
 
 > [!IMPORTANT]
-> # 22: The Giant Dwarf
+> # 23: The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
@@ -388,21 +387,21 @@ waterall quest
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 26: Ribbiting Tale of Lily Pad 
+> # 25: Ribbiting Tale of Lily Pad 
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - [ ] Withdraw black axe
 > - [ ] withdraw 3 sardines
 > - [ ] Chop down normal trees to 15 WC right before talking to Marcellus
 
 > [!IMPORTANT]
-> # 27: Icthlarin's Little Helper
+> # 26: Icthlarin's Little Helper
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
 > - [ ] Withdraw Bag of Salt
 > - [ ] Withdraw Linen
 
 > [!Tip]
-> # 4: Dragon Slayer <sup>(R4D Prereq)</sup>
+> # 27: Dragon Slayer <sup>(R4D Prereq)</sup>
 > - Note gives 18k def xp
 > - Only do if you want def XP otherwise skip
 > - Ability to wear rune pl8 and dragonhide body
@@ -417,17 +416,17 @@ waterall quest
 >	-> adamant axe
 
 > [!IMPORTANT]
-> # 19: Porcine of Interest
+> # 29: Porcine of Interest
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 
 > [!IMPORTANT]
-> # 19: Natural History Quiz 
+> # 30: Natural History Quiz 
 > - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
 > - [Runelite has a helper](https://oldschool.runescape.wiki/w/Natural_history_quiz)
 > - Located in Varrock Museum (north of the east bank)
 
 > [!IMPORTANT]
-> # 29: Animal Magnetism
+> # 31: Animal Magnetism
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
@@ -436,81 +435,79 @@ waterall quest
 > - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
 
 > [!IMPORTANT]
-> # 19: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
+> # 32: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
 > - https://oldschool.runescape.wiki/w/Alfred_Grimhand%27s_Barcrawl#mapFullscreen
 > - There is a RuneLite quest help for this, search barcrawl
 
 > [!IMPORTANT]
-> # 19: Horror from the Deep <sup>(R4D Prereq)</sup>
+> # 33: Horror from the Deep <sup>(R4D Prereq)</sup>
 > - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
-> # 30: Murder Mystery <sup>(R4D Prereq)</sup>
+> # 34: Murder Mystery <sup>(R4D Prereq)</sup>
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 
 > [!Tip]
-> # 31: Nature Spirit <sup>(R4D Prereq)</sup>
+> # 35: Nature Spirit <sup>(R4D Prereq)</sup>
 > - [WARNING] Gives 2k def xp
 > - Crafting xp <sup>(Lost City Prereq)</sup>
 
 > [!IMPORTANT]
-> # 32: The Golem
+> # 36: The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
 > - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
-> # 34: Lost City <sup>(R4D Prereq)</sup>
+> # 37: Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
 > - [ ] When you are told to bank everything:
 > 		- Add food to your invy (you will fight monsters with no armor)
 >		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup>
 
 > [!IMPORTANT]
-> # 35: Do sea slug quest
-> TODO move this to some time useful when in ardy
+> # 38: Do sea slug quest
 
 > [!IMPORTANT]
-> # 37: Fishing Contest <sup>(R4D Prereq)</sup>
+> # 39: Fishing Contest <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 38: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
+> # 40: Big Chompy Bird Hunting <sup>(R4D Prereq)</sup>
 > - NOTE keep the following items:
 > - [ ] Use all 14 wolf bones for arrow tips
 > - [ ] Make ~50 arrows
 > - [ ] Keep bellow, bow, and arrows after quest completion
 
 > [!IMPORTANT]
-> # 39: BioHazard <sup>(R4D Prereq)</sup>
+> # 41: BioHazard <sup>(R4D Prereq)</sup>
 
 > [!IMPORTANT]
-> # 39: Underground Pass <sup>(R4D Prereq)</sup>
+> # 42: Underground Pass <sup>(R4D Prereq)</sup>
 > - Agility xp
 
 > [!IMPORTANT]
-> # 40: Shadow of the Storm <sup>(R4D Prereq)</sup>
+> # 43: Shadow of the Storm <sup>(R4D Prereq)</sup>
 > - [ ] Bring x2 Waterskins
 > - [ ] when you go past alkarid bank start this quest by tlaking to Father Reen who is at the bank in al karihd
 
 > [!IMPORTANT]
-> # 41: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
-
+> # 44: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 42: Get 43 Theiving
+> # 45: Get 43 Theiving
 > - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
 >	- [ ] Use skills necklace tele
 > 	- [ ] Run back and forth stealing from each stall inside the closed room
 > 	- [ ] Drop your LAST item right after stealing from the stall, then click the other stall 
 
 > [!IMPORTANT]
-> # 43: Temple of Ikov <sup>(R4D Prereq)</sup>
+> # 46: Temple of Ikov <sup>(R4D Prereq)</sup>
 > - [ ] Do NOT bring energy potions, you need food
 > - [ ] After getting boots of lightness remove candle and tinderbox from inventory and get more food
 > - [ ] Bring magic shortbow and rune arrows w\ boots of lightness into temple
 
 > [!IMPORTANT]
-> # 44: Start R4D
+> # 47: Start R4D
 > - TODO do meet quest if we need more cooking
 > - Complete the subquests in this order:
 > - [ ] Mountain Dwarf
@@ -529,13 +526,12 @@ waterall quest
 ---------------------------------------------------------------------------------------------
 
 
-# 3) Now go make moneyyyyyyy
+# 5) Now go make moneyyyyyyy
 
--> green dragons to build quick money & ranged xp
--> once you have some money switch to lava dragons and train mage (higher your mage the better your mage defense so even if you don't attack with mage it is useful against enemies)
--> go to revs once you are ready to get attacked more often
--> blue dragons for non wilderness but is intensive
-
+-> green dragons to build quick money & ranged xp<br>
+-> once you have some money switch to lava dragons and train mage (higher your mage the better your mage defense so even if you don't attack with mage it is useful against enemies)<br>
+-> go to revs once you are ready to get attacked more often<br>
+-> blue dragons for non wilderness but is intensive<br>
 
 ```
 for green dragons level 79
@@ -640,7 +636,7 @@ SLAYER MASTERS:
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
 
-# 4) Finish mid game
+# 6) Finish mid game
 ```
 -> mage arena i				>> god cape
 	60 mage
@@ -665,9 +661,9 @@ NOTES
 
 ```
 quest:
-		-> add haunted mine for 22k str xp
-			-> AFTER priest in peril
-			-> AFTER 35 crafting TODO find out when we get 35 crafting during next run through
+-> add haunted mine for 22k str xp
+	-> AFTER priest in peril
+	-> AFTER 35 crafting TODO find out when we get 35 crafting during next run through
 ```
 
 ```		
@@ -687,25 +683,25 @@ quest:
 ```
 
 ->  NOTE
-	Dessert treasure requires:
-		53 thieving
-			-> left at 42
-				-> quest twilight's promise?
-				-> quest ratchers?
-				-> quest contact??? (need to be stronger)
-				-> quest ethically acically acquired
-					-> must do shield of arrav first
-				-> now we are XXXXX???
-					-> do XYZ till 50 thieving
-				-> at 50 thieving do quest: mourning's end part 1
-				-> more training needed????
-			
-		50 firemaking
-			-> left at 30
-				-> todo do minigame????
-				-> burn XXX willow logs
-				-> burn XXX XXXX logs
-				-> burn XXX XXXX logs
+Dessert treasure requires:
+	53 thieving
+		-> left at 42
+			-> quest twilight's promise?
+			-> quest ratchers?
+			-> quest contact??? (need to be stronger)
+			-> quest ethically acically acquired
+				-> must do shield of arrav first
+			-> now we are XXXXX???
+				-> do XYZ till 50 thieving
+			-> at 50 thieving do quest: mourning's end part 1
+			-> more training needed????
+		
+	50 firemaking
+		-> left at 30
+			-> todo do minigame????
+			-> burn XXX willow logs
+			-> burn XXX XXXX logs
+			-> burn XXX XXXX logs
 ```
 
 ```
