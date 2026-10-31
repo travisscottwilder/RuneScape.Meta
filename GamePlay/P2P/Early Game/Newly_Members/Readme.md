@@ -277,10 +277,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > 	- West varrock talk to Gertrude in her house
 >   - Give your cat raw sardines to keep it fed  
 
-> [!TIP]
-> # 19: Horror from the Deep <sup>(R4D Prereq)</sup>
-> - Unlocks godbook for mage bonus
-
 > [!IMPORTANT]
 > # 20: Priest in peril <sup>(Animal magnetism & R4D Prereq)</sup>
 > - **WARNING** Gives 1406 Prayer XP
@@ -291,6 +287,24 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Attack xp (12,175)
 > - [ ] When completed drop:
 > 	-> Khazard helmet and plate
+
+
+
+> [!IMPORTANT]
+> # 25: Children of the Sun
+> - Ribbiting Tale of Lily Pad Prereq
+> - Death on the isle Prereq
+
+
+> [!IMPORTANT]
+> # 25: Death on the Isle
+> - Agility xp
+> - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - Thieving XP <sup>(DT1 Prereq)</sup>
+
+> [!IMPORTANT]
+> # 25: The Fued
+> - Thieving XP <sup>(DT1 Prereq)</sup>
 
 > [!IMPORTANT]
 > # 23: Get 19 Crafting
@@ -306,14 +320,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 22: The Giant Dwarf
 > - Crafting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 
-
 > [!IMPORTANT]
 > # 24: Monks Friend
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
-
-> [!IMPORTANT]
-> # 25: Children of the Sun
-> - Ribbiting Tale of Lily Pad Prereq
 
 > [!IMPORTANT]
 > # 26: Ribbiting Tale of Lily Pad 
@@ -326,7 +335,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 27: Icthlarin's Little Helper
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
 > - Agility XP
-
+> - [ ] Withdraw Bag of Salt
+> - [ ] Withdraw Linen
 
 > [!Tip]
 > # 4: Dragon Slayer <sup>(R4D Prereq)</sup>
@@ -334,7 +344,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Only do if you want def XP otherwise skip
 > - Ability to wear rune pl8 and dragonhide body
 > - Ability to be assigned Slayer Tasks for slayer skill
-
 
 > [!IMPORTANT]
 > # 28: Get 35 Woodcutting <sup>(Animal Magnetism & Lost City Prereq)</sup>
@@ -345,6 +354,16 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >	-> adamant axe
 
 > [!IMPORTANT]
+> # 19: Porcine of Interest
+> - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
+
+> [!IMPORTANT]
+> # 19: Natural History Quiz 
+> - Slayer xp <sup>(Animal Magnetism Prereq)</sup>
+> - [Runelite has a helper](https://oldschool.runescape.wiki/w/Natural_history_quiz)
+> - Located in Varrock Museum (north of the east bank)
+
+> [!IMPORTANT]
 > # 29: Animal Magnetism
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
@@ -352,6 +371,15 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 >   - [ ] x4 pot <sup>(empty)</sup>
 >   - [ ] x4 bucket <sup>(empty)</sup>
 > - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
+
+> [!IMPORTANT]
+> # 19: Alfred Grimhand's Barcrawl <sup>(Horror from the deep Prereq)</sup>
+> - https://oldschool.runescape.wiki/w/Alfred_Grimhand%27s_Barcrawl#mapFullscreen
+> - There is a RuneLite quest help for this, search barcrawl
+
+> [!IMPORTANT]
+> # 19: Horror from the Deep <sup>(R4D Prereq)</sup>
+> - Unlocks godbook for mage bonus
 
 > [!IMPORTANT]
 > # 30: Murder Mystery <sup>(R4D Prereq)</sup>
@@ -370,7 +398,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 34: Lost City <sup>(R4D Prereq)</sup>
 > - Unlocks ability to wield Dragon Weapons
-
+> - [ ] When you are told to bank everything:
+> 		- Add food to your invy (you will fight monsters with no armor)
+>		- Add RUNES to kill level 25s and 101 (bring best spell you can) <sup>you can safespot them</sup>
 
 > [!IMPORTANT]
 > # 35: Do sea slug quest
@@ -396,9 +426,13 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 41: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
+
 > [!IMPORTANT]
 > # 42: Get 43 Theiving
-> - steal from the Hosidius fruit stalls
+> - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
+>	- [ ] Use skills necklace tele
+> 	- [ ] Run back and forth stealing from each stall inside the closed room
+> 	- [ ] Drop your LAST item right after stealing from the stall, then click the other stall 
 
 > [!IMPORTANT]
 > # 43: Temple of Ikov <sup>(R4D Prereq)</sup>
