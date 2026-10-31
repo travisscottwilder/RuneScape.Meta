@@ -36,12 +36,12 @@
 	x30 Catherby teleport
 	x5 Nardah teleport
 -> x4 amulet of glory(6) 					(50k)
--> x50 ring of recoil 						(50k)
--> x10 ring of dueling 						(10k)
+-> x20 ring of dueling 						(10k)
 -> x10 Games necklace 						(10k)
--> x3 combat bracelet 						(40k)
 -> x3 burning amulet						(8k)
 -> x3 necklace of passage(5)
+-> x3 combat bracelet 						(40k)
+
 -> x2 full dragonhide set (black/red/blue)	(35k)
 -> x4 runecross bow 						(50k)
 -> x200 Dragonstone bolts (e) 				(80k)
@@ -603,10 +603,10 @@ STARTER:
 	wizard boots
 	
 	1k Water Strike (mind runes $5k)
-		-> 23 kills 475k loot (470k profit) [2minute kills]
+		-> 23 kills 475k loot (470k profit) [2:00 kill]
 		-> all casts per inventory
 	1k Water Bolt (chaos runes $95k)
-		-> 33 kills 550k loot (455k profit)
+		-> 33 kills 550k loot (455k profit) [1:20 kill]
 		-> 625 casts per inventory
 	1k Water Blast (Death runes)
 		-> 
