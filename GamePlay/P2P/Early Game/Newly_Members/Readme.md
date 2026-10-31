@@ -232,7 +232,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 5: Dwarf Cannon
 > - Unlocks Cannon
 > - Crafting xp <sup>(Animal Magnetism & Lost City Prereq)</sup>
-> - [ ] *start the Alfred Grimhand's Barcrawl miniquest when you are there, and visit nearby bars while questing. Grants access to the dwarf multicannon and allows smithing of cannonballs.*
 
 > [!IMPORTANT]
 > # 8: Get 10 Fletching
@@ -396,6 +395,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > # 32: The Golem
 > - Crafting XP <sup>(Lost City Prereq)</sup>
 > - Thieving XP <sup>(R4D Prereq)</sup>
+> - [ ] Use Necklace of Passage teleport "Eagle's Eyrie"
 
 > [!IMPORTANT]
 > # 34: Lost City <sup>(R4D Prereq)</sup>
@@ -427,7 +427,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 40: Shadow of the Storm <sup>(R4D Prereq)</sup>
-> - [NOTE maybe use 10k lamp for theiving but not first run to test the grind]
 
 > [!IMPORTANT]
 > # 41: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
@@ -458,9 +457,6 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - [ ] Lumbridge Guide
 > - [ ] Scratch Uglogwee
 
-> [!Tip]
-> # 45: Finish Pandemonium
-> - Unlocks Sailing skill
 
 
 ---------------------------------------------------------------------------------------------
@@ -482,17 +478,6 @@ at 75+ range go to blue dragons OR rev caves
 ---------------------------------------------------------------------------------------------
 
 After you have money for a few bonds start slayer
-
-
-Do quest: A Porcine of Interest
-
-TODO any other quests to give slayer xp?
-
-now start getting slayer tasks
-
-```
-	Complete the Natural History Quiz in the Varrock Museum basement to jump straight to level 9 Slayer
-```
 
 ```
 SLAYER MASTERS:
