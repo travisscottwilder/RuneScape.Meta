@@ -16,7 +16,7 @@
 # 2) Do quest Children of The Sun
 > - When going to GE finish this quest in varrock square
 
-# 3) Quality Of Life Upgrade [900k<sup>/2.8m for rich setup</sup>]
+# 3) Quality Of Life Upgrade [$???k<sup>/$???m for rich setup</sup>]
 - [ ] Go to GE and purchase:
 ```
 -> x50 energy potion(4)				(20k)
@@ -52,7 +52,7 @@ IF RICH (1.5m):
 	-> x1 dragoncrossbow (700k)
 ```
 
-# 3) Purchase Quest Items [100k]
+# 3) Purchase Quest Items [$????k]
 ```
 -> x6 knife							(500)
 -> x5 spade							()
