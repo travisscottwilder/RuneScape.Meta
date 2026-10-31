@@ -39,7 +39,7 @@ IF RICH (1.5m):
 # 2) Purchase Quest Items [100k]
 ```
 -> x6 knife							(500)
--> x3 spade							()
+-> x4 spade							()
 -> x5 tinderbox						(500)
 -> x2 hammer						(500)
 -> x2 bucket						(500)
@@ -50,7 +50,7 @@ IF RICH (1.5m):
 -> x150 thread						(5k)
 -> x2 needle						(500)
 -> x1 black axe
--> x1 mythril axe					(500)
+-> x1 mithril axe					(500)
 -> x1 adamant axe					(1k)
 -> x255 feathers					(500)
 -> x10 iron bar						(2k)
@@ -80,7 +80,6 @@ IF RICH (1.5m):
 -> Troll Romance 
 	x1 maple logs					(500)
 	x1 yew logs						(500)
-	x1 rope							(500)
 	x1 bucket of wax				(1k)
 	x5 climbing boots				(5k)
 -> Gertrude's Cat
@@ -93,8 +92,22 @@ IF RICH (1.5m):
 	x2 plank						(500)
 -> The Giant Dwarf
 	x1 coal							(500)
-	x1 cut sapphires				(500)
-	x1 redberry pie					(1k)
+	x3 sapphire				        (500)
+	x2 redberry pie					(1k)
+	x10 clay
+	x10 copper ore
+	x10 tin ore
+	x10 iron ore
+	x10 coal
+	x10 silver ore
+	x10 gold ore
+	x10 mithril ore
+	x10 bronze bar
+	x10 iron bar
+	x10 silver bar
+	x10 gold bar
+	x10 steel bar
+	x10 mithril bar
 -> Icthlarin's Little Helper
 	x1 willow log					(500)
 	x1 bucket of sap				(500)
@@ -110,6 +123,7 @@ IF RICH (1.5m):
 	x1 polished buttons				(1k)
 -> witches house
 	x3 cheese						()
+	x1 gloves
 -> Nature spirit
 	x1 silver sickle				()
 -> The Golem
@@ -117,8 +131,6 @@ IF RICH (1.5m):
 	x1 papyrus
 -> sea slug
 	x1 swamp paste
--> fairytale i
-	x1 specateurs
 -> big chompy bird hunting
 	x1 chisel
 	x12 wolf bones
@@ -129,8 +141,8 @@ IF RICH (1.5m):
 	x4 bucket of water
 -> shadow of the storm
 	x1 silver bar
-	x1 black wizard hat
-	x1 cape (black)
+	x1 wizard hat (black)
+	x1 black cape
 	x1 shade robe
 -> the dig site
 	x1 cup of tea
@@ -139,6 +151,12 @@ IF RICH (1.5m):
 -> temple of ikov
 	x1 candle
 	x20 limpwurt
+-> Fishing Contest
+	x1 red vine worm
+	x1 garlic
+	x1 fishing rod
+	x50 fishing bait
+	x1 small fishing net
 -> Recipe for Disaster
 	x1 eye of newt
 	x1 greenman's ale
@@ -300,6 +318,9 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > [!IMPORTANT]
 > # 26: Ribbiting Tale of Lily Pad 
 > - Woodcutting XP <sup>(Animal Magnetism & Lost City Prereq)</sup>
+> - [ ] Withdraw black axe
+> - [ ] withdraw 3 sardines
+> - [ ] Chop down normal trees to 15 WC right before talking to Marcellus
 
 > [!IMPORTANT]
 > # 27: Icthlarin's Little Helper
@@ -328,8 +349,8 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 > - Unlocks Accumulator
 > - For x20 Eco-tokens bring in your invy:
 > 	- [ ] x4 Bones
->   - [ ] x4 empty pots
->   - [ ] x4 empty buckets
+>   - [ ] x4 pot <sup>(empty)</sup>
+>   - [ ] x4 bucket <sup>(empty)</sup>
 > - NOTE when you run by Drezel stop and talk to him to start Nature Spirit
 
 > [!IMPORTANT]
