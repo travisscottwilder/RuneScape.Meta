@@ -206,7 +206,7 @@ Goal of these quests is to work towards completing Recipe For Disaster, Lost Cit
 
 > [!IMPORTANT]
 > # 2: The Knight's Sword
-> - Smithing xp <sup>(Tourist Trap Prereq)/sup>
+> - Smithing xp <sup>(Tourist Trap Prereq)</sup>
 
 > [!IMPORTANT]
 > # 3: The Tourist Trap
