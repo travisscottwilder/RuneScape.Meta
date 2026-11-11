@@ -312,11 +312,6 @@ waterall quest
 > - make shafts the whole time (logs + knife)
 
 > [!IMPORTANT]
-> # 12: Get 29 Firemaking
-> - burn normal logs till 15 (logs + tinderbox)
-> - burn 175 oak logs to 29
-
-> [!IMPORTANT]
 > # 13: Druidic Ritual <sup>(R4D prereq)</sup>
 > - Unlocks Herblore
 
@@ -372,6 +367,15 @@ waterall quest
 > -> make bodies to level 18
 > -> make chaps till 26
 > ```
+
+> [!IMPORTANT]
+> # 12: Complete Firemaking Training
+> - burn normal logs till 15
+> - burn 175 oak logs to 29
+> - burn 100 willow logs 	[to lvl 35]
+> - buy 220 teak			[to lvl 42]
+> - buy 130 arctic pine	[to lvl 45]
+> - buy 250 maple		[to lvl 50]
 
 > [!IMPORTANT]
 > # 23: The Giant Dwarf
