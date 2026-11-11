@@ -495,11 +495,10 @@ waterall quest
 > # 44: The Dig Site <sup>(R4D & DT1 Prereq)</sup>
 
 > [!IMPORTANT]
-> # 45: Get 43 Theiving
+> # 45: Get 48 Thieving
 > - steal from the Hosidius fruit stalls <sup>by woodcutting guild</sup>
 >	- [ ] Use skills necklace tele
-> 	- [ ] Run back and forth stealing from each stall inside the closed room
-> 	- [ ] Drop your LAST item right after stealing from the stall, then click the other stall 
+> 	- [ ] Stay at one stall, drop your item immediately, wait for respone 
 
 > [!IMPORTANT]
 > # 46: Temple of Ikov <sup>(R4D Prereq)</sup>
@@ -509,7 +508,6 @@ waterall quest
 
 > [!IMPORTANT]
 > # 47: Start R4D
-> - TODO do meet quest if we need more cooking
 > - Complete the subquests in this order:
 > - [ ] Mountain Dwarf
 > - [ ] Pirate Pete<br>
@@ -594,28 +592,31 @@ lava dragons
 
 	revenant cave teleport
 		-> run to north, then east
-	book of darkness
-	pestle and mortar to crush lava scales
-	??? high alchems
+
+	1k Water Strike (mind runes $5k)
+		-> 23 kills [2:00 kill]
+		-> all casts per inventory
+	1k Water Bolt (chaos runes $95k)
+		-> 33 kills [1:20 kill]
+		-> 625 casts per inventory
+	1k Water Blast (Death runes $175k)
+		-> 48 kills [1 minute kill]
+		-> 400 casts per inventory
+	1k Sceptre (182k)
+		-> 53 kills [40 second kill]
+		-> 370 casts per inventory
 
 STARTER:
 	mystic mist staff
 	amulet of glory
 	wizard boots
-	
-	1k Water Strike (mind runes $5k)
-		-> 23 kills 475k loot (470k profit) [2:00 kill]
-		-> all casts per inventory
-	1k Water Bolt (chaos runes $95k)
-		-> 33 kills 550k loot (455k profit) [1:20 kill]
-		-> 625 casts per inventory
-	1k Water Blast (Death runes)
-		-> 
+	pestle and mortar to crush lava scales
 	
 70+ mage
 	accursed scepter w\ 2k ether
 	occult necklace
 	wizard boots
+	pestle and mortar to crush lava scales
 ```
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -644,16 +645,27 @@ SLAYER MASTERS:
 -> mage arena ii				>> imbued god cape
 	75 mage
 
--> monkey madness i
--> desert treasure 1
--> recipe for disasster
-	TODO need more quests probably heros and ledgends quest
-
 -> [The Ectophial teleport] Ghosts Ahoy → Ectophial
 -> [The Camule teleport] Enakhra's Lament → Camulet
 -> wilderness diaries for wilderness boss access??
 -> final recipe for disasster
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -667,52 +679,6 @@ quest:
 	-> AFTER 35 crafting TODO find out when we get 35 crafting during next run through
 ```
 
-```		
--> on defense accounts
-	-> do fremennik trials for helmet wearing
-		-> NOTE this quest gives 3k defense xp
-		-> 40 woodcutting needed
-			-> no meaningful quests left
-		-> 40 crafting needed (14k xp)
-			-> 5k elemental workshop
-			-> 7.5k elemental workshop 2
-			-> jungle potion (prereq for shilo)
-				-> 3.8k shilo village (legends prereq)
-```
-
-
-```
-
-->  NOTE
-Dessert treasure requires:
-	53 thieving
-		-> left at 42
-			-> quest twilight's promise?
-			-> quest ratchers?
-			-> quest contact??? (need to be stronger)
-			-> quest ethically acically acquired
-				-> must do shield of arrav first
-			-> now we are XXXXX???
-				-> do XYZ till 50 thieving
-			-> at 50 thieving do quest: mourning's end part 1
-			-> more training needed????
-		
-	50 firemaking
-		-> left at 30
-			-> todo do minigame????
-			-> burn XXX willow logs
-			-> burn XXX XXXX logs
-			-> burn XXX XXXX logs
-```
-
 ```
 "70+ ranged @ kuraks (big green monkey looking thing) 1m+ an hour"
-```
-
-```
--> NOTES
-	-> 33 cooking + doing the meet quest + all r4d quest
-		got me 39 cooking but needed 40
-		
-	-> need to add small amount of cooking, idk if everyone will be 33 cooking either
 ```
