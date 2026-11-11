@@ -6,10 +6,8 @@
 -> 9 hours		>> accumulator gained
 -> 9 hours		>> back to questing
 -> 14 hours		>> training thieving
--> 22 hours		>> finished, onto money makers
+-> 22 hours		>> Onto money Makers
 ```
-
-
 
 # 1) Build F2P starter account before buying members
 
@@ -46,10 +44,6 @@
 -> x4 runecross bow 						(50k)
 -> x200 Dragonstone bolts (e) 				(80k)
 -> x2000 Runite Bolts
-
-IF RICH (1.5m):
-	-> x1 full saradomin d'hide set (300k)	
-	-> x1 dragoncrossbow (700k)
 ```
 
 # 3) Purchase Quest Items [$????k]
