@@ -334,6 +334,7 @@ waterall quest
 > # 15: Troll Stronghold <sup>(DT1 Prereq)</sup>
 > - Unlocks access to Godwars
 > - Troll romance prereq
+> - [ ] Do not drop Glarial's Pebble
 
 > [!IMPORTANT]
 > # 16: Troll Romance
